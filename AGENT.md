@@ -22,7 +22,7 @@ Main cases:
 
 - LG Energy Solution
 - Doosan Robotics
-- Krafton
+- LG CNS
 
 ## Methodology
 
@@ -123,7 +123,7 @@ Current results suggest:
 
 - LG Energy Solution: market and peer CAR both negative; most consistent with competitive effect or valuation re-rating.
 - Doosan Robotics: market negative, peer reaction mixed; information transfer and competitive effect are both plausible.
-- Krafton: market negative, peer reaction mixed; industry trend and valuation burden likely matter.
+- LG CNS: analyze AI/cloud/DX peer reaction with Samsung SDS, Hyundai AutoEver, and POSCO DX. Re-run scripts before reporting.
 
 Use these as provisional results only.
 
@@ -142,4 +142,3 @@ The public data portal stock API integration exists in `scripts/public_data_api.
 3. Add volume and volatility analysis.
 4. Update the HTML report with literature-based interpretation.
 5. Convert results into paper structure: introduction, literature review, hypotheses, data, methodology, results, conclusion.
-

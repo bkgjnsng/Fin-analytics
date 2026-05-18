@@ -18,7 +18,7 @@ OpenAI, SpaceX처럼 초대형 비상장 유니콘이 상장될 때 동일 산�
 | --- | --- | --- | --- | --- |
 | 1 | LG Energy Solution | 2022-01-27 | Secondary battery / EV battery | Battery peers, KOSPI, KOSPI industry index |
 | 2 | Doosan Robotics | 2023-10-05 | Robotics / automation | Robotics-related listed firms, KOSPI/KOSDAQ, machinery index |
-| 3 | Krafton | 2021-08-10 | Game / content | Game peers, KOSPI/KOSDAQ, game/content index |
+| 3 | LG CNS | 2025-02-05 | AI / cloud / digital transformation | IT service peers, KOSPI, DX/AI-related peers |
 
 ## Core Question
 
@@ -123,4 +123,4 @@ $env:DATA_SOURCE = "public"
 
 - LG Energy Solution listing date: 2022-01-27
 - Doosan Robotics listing date: 2023-10-05
-- Krafton listing date: 2021-08-10
+- LG CNS listing date: 2025-02-05

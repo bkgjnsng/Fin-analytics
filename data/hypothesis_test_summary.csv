@@ -1,4 +1,4 @@
 ﻿case,listing_date,market_return_0_20,peer_avg_car_0_20,peer_car_signs,result,interpretation
 LG Energy Solution IPO,2022-01-27,-0.0021112932039979437,-0.07999793974208631,"-, -, -",H0 supported,시장지수와 모든 peer의 이벤트 반응이 음(-)으로 나타났다.
 Doosan Robotics IPO,2023-10-05,-0.015525691173841949,-0.05920118793434664,"-, +, -",Mixed / inconclusive,시장지수와 peer 기업의 방향이 모두 일치하지 않아 H0/H1 중 하나를 엄격히 지지하기 어렵다.
-Krafton IPO,2021-08-10,-0.029882653155114625,-0.011815196628907287,"-, -, +",Mixed / inconclusive,시장지수와 peer 기업의 방향이 모두 일치하지 않아 H0/H1 중 하나를 엄격히 지지하기 어렵다.
+LG CNS IPO,2025-02-05,0.038066801252372606,0.08810446191874631,"-, -, +",Mixed / inconclusive,시장지수와 peer 기업의 방향이 모두 일치하지 않아 H0/H1 중 하나를 엄격히 지지하기 어렵다.

@@ -47,7 +47,8 @@
 | LG에너지솔루션 수급 부담 | The Korea Times: https://www.koreatimes.co.kr/amp/business/banking-finance/20220116/lg-energy-solutions-ipo-eating-up-stock-market-liquidity-like-black-hole | LGES IPO를 앞두고 기관투자자들이 편입 자금을 마련하기 위해 국내 주식을 매도하고 있다는 보도. 기사에 따르면 첫 2주 동안 기관은 KOSPI/KOSDAQ에서 9조 원 이상 순매도했고, KOSPI는 3.26%, KOSDAQ은 5.46% 하락했다. 삼성증권 애널리스트는 LGES가 단기적으로 KOSPI200 대형주에 제약을 주는 'black hole'이 될 수 있다고 언급했다. | 수급충격 가설의 사례 근거. 다만 뉴스/애널리스트 코멘트이므로 정량분석 전에는 약한 근거로 표시해야 한다. | 약함 |
 | LG에너지솔루션 공모규모 | Business Standard/Reuters: https://www.business-standard.com/article/companies/lg-energy-solution-targets-10-8-billion-in-s-korea-s-biggest-ever-ipo-122010300132_1.html | LGES IPO는 최대 108억 달러 규모로 한국 최대 IPO가 될 것으로 보도되었다. 공모자금은 생산시설 확장과 부채상환 등에 사용될 예정이라고 기사에 제시되어 있다. | Akhigbe et al.이 말한 IPO 규모와 자금 사용 목적 변수를 국내 사례에 연결할 수 있다. | 중간 |
 | 두산로보틱스 IPO | Yonhap: https://en.yna.co.kr/view/AEN20231005002100320 / Reuters via Moneycontrol: https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html | 두산로보틱스는 2023년 한국 최대 IPO였고, 상장 첫날 공모가 대비 큰 폭 상승했다. Reuters 보도는 공모 규모 4,212억 원, 첫 거래 개시가 공모가 대비 127% 상승을 제시한다. | 로봇 산업 기대가 peer 기업에 전염효과를 줄지, 신규 대표주 등장으로 기존 로봇주가 희석될지 분리해서 봐야 한다. | 중간 |
-| 크래프톤 IPO | Bloomberg: https://www.bloomberg.com/news/articles/2021-07-29/krafton-ipo-to-raise-3-8-billion-in-second-largest-korean-debut / Bloomberg: https://www.bloomberg.com/news/articles/2021-08-10/pubg-maker-krafton-drops-after-raising-3-8-billion-in-ipo | 크래프톤은 38억 달러 규모의 대형 IPO였고, 상장 첫날 장중 최대 20% 하락 후 8.8% 하락 마감했다고 보도되었다. 공모가 부담, PUBG 의존도, 중국 게임 규제 우려가 언급되었다. | 크래프톤 사례에서는 IPO 자체보다 게임 산업/규제/valuation 부담이 peer 반응을 설명할 가능성이 크다. | 중간 |
+| LG CNS IPO | Latham & Watkins: https://www.lw.com/en/news/2025/02/latham-advises-on-lg-cns-us821-million-ipo-on-the-korea-exchange / Yonhap: https://en.yna.co.kr/view/AEN20250109007900320 | LG CNS는 KOSPI에서 약 1.2조 원 규모 IPO를 진행했고, 2022년 이후 한국 최대 IPO로 소개되었다. Yonhap은 LG CNS가 AI, 클라우드, DX 역량 강화를 IPO 이후 목표로 제시했다고 보도했다. | Palantir·OpenAI 문제의식과 가장 가까운 국내 proxy 사례다. Samsung SDS, Hyundai AutoEver, POSCO DX 등 IT 서비스 peer 반응을 분석한다. | 중간 |
+| 카카오뱅크 IPO | Yonhap: https://en.yna.co.kr/view/AEN20210806000951320 / CNBC: https://www.cnbc.com/2021/08/06/ipo-shares-of-south-koreas-kakao-bank-surge-more-than-60percent-in-debut.html | 카카오뱅크는 상장 첫날 국내 최고 시가총액 금융회사로 부상했다. 기존 금융지주와의 valuation 재평가를 보기 좋은 사례다. | 좋은 확장 사례이지만 핀테크/은행 산업이라 본 연구의 AI·로봇·미래산업 축에서는 보조 사례 또는 후속 연구 후보로 둔다. | 중간 |
 
 ## 5. 연구 설계 구체화 제안
 
@@ -139,10 +140,10 @@ r_i,t = alpha_i
 
 - LGES IPO가 KOSPI/KOSDAQ 하락의 직접 원인이라는 주장은 뉴스 기사와 애널리스트 코멘트 수준이므로 약한 근거다. 금리 상승, 글로벌 성장주 조정 등 동시 요인이 있었다.
 - 두산로보틱스 IPO가 기존 로봇 peer에 어떤 방향의 영향을 줬는지는 별도 회귀분석 없이는 단정할 수 없다. 웹 기사들은 IPO 성공과 투자자 관심을 보여줄 뿐 peer 효과를 직접 검정하지 않는다.
-- 크래프톤 IPO의 peer 효과도 웹 기사만으로는 단정하기 어렵다. IPO 자체보다 공모가 부담, 중국 규제, PUBG 의존도 등이 동시에 작동했다.
+- LG CNS IPO의 peer 효과는 웹 기사만으로는 단정하기 어렵다. AI·클라우드·DX 성장 기대와 상장 첫날 수급/valuation 부담이 동시에 작동할 수 있으므로 별도 회귀분석이 필요하다.
+- 카카오뱅크는 분석 가치가 높지만 금융 플랫폼 사례라 Palantir·OpenAI·SpaceX 문제의식과의 연결은 LG CNS보다 약하다.
 - OpenAI/SpaceX IPO가 Palantir에 미치는 효과는 아직 실제 이벤트가 발생하지 않았으므로 직접 실증근거가 없다. 현재 연구에서는 국내 IPO 사례를 이용한 유추로만 제시해야 한다.
 
 ## 8. 바로 반영할 문장 초안
 
-선행연구는 IPO가 동일 산업 내 상장기업에 미치는 효과가 정보전이와 경쟁효과의 상대적 크기에 따라 달라진다고 보고한다. Akhigbe et al.은 평균적으로는 유의한 산업효과가 관찰되지 않을 수 있으나, 이는 정보효과와 경쟁효과가 상쇄되기 때문이며 대형·기술·경쟁산업 IPO에서는 음(-)의 경쟁효과가 나타날 수 있다고 제시한다. Hsu et al.과 Spiegel and Tookes는 IPO가 경쟁기업의 주가 및 영업성과에 부정적 영향을 줄 수 있음을 보이되, 산업 추세와 IPO 자체의 인과효과를 구분해야 한다고 강조한다. 국내 연구인 민재훈(2020)은 한국 IPO 531건을 분석하여 IPO 공시일에는 경쟁기업 포트폴리오가 유의하게 반응하지 않았지만, 상장일 전후에는 시장 대비 약 1.2~1.5% 하락했음을 보고한다. 이러한 문헌을 바탕으로 본 연구는 LG에너지솔루션, 두산로보틱스, 크래프톤 IPO를 대상으로 상장 전후 peer 기업의 AR과 CAR을 측정하고, 관찰된 반응을 정보전이, 경쟁효과, 수급충격, 산업추세로 구분해 해석한다.
-
+선행연구는 IPO가 동일 산업 내 상장기업에 미치는 효과가 정보전이와 경쟁효과의 상대적 크기에 따라 달라진다고 보고한다. Akhigbe et al.은 평균적으로는 유의한 산업효과가 관찰되지 않을 수 있으나, 이는 정보효과와 경쟁효과가 상쇄되기 때문이며 대형·기술·경쟁산업 IPO에서는 음(-)의 경쟁효과가 나타날 수 있다고 제시한다. Hsu et al.과 Spiegel and Tookes는 IPO가 경쟁기업의 주가 및 영업성과에 부정적 영향을 줄 수 있음을 보이되, 산업 추세와 IPO 자체의 인과효과를 구분해야 한다고 강조한다. 국내 연구인 민재훈(2020)은 한국 IPO 531건을 분석하여 IPO 공시일에는 경쟁기업 포트폴리오가 유의하게 반응하지 않았지만, 상장일 전후에는 시장 대비 약 1.2~1.5% 하락했음을 보고한다. 이러한 문헌을 바탕으로 본 연구는 LG에너지솔루션, 두산로보틱스, LG CNS IPO를 대상으로 상장 전후 peer 기업의 AR과 CAR을 측정하고, 관찰된 반응을 정보전이, 경쟁효과, 수급충격, 산업추세로 구분해 해석한다.
