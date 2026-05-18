@@ -92,6 +92,33 @@ IPO 기대와 실제 상장 이벤트가 관련 상장기업의 주가 및 valua
 4. 상장 전후 valuation multiple 변화 표
 5. 세 사례 간 공통점과 차이점 정리
 
+## Generated Outputs
+
+- `reports/ipo_event_study_report.html`: IPO 이벤트 스터디 결과를 한 화면에서 볼 수 있는 HTML 리포트
+- `reports/ipo_regression_analysis.html`: 회귀식 기반 AR/CAR 및 H0/H1 검정 리포트
+- `reports/ipo_unicorn_valuation_paper.pdf`: 벤치마킹 논문/이슈보고서 형식을 반영한 최종 논문형 PDF
+- `data/event_summary.csv`: 3개 IPO 사례의 핵심 수익률 요약표
+- `data/event_window_prices.csv`: 이벤트 윈도우 기준 전체 가격 및 수익률 데이터
+- `data/regression_results.csv`: peer 기업별 회귀계수, R², CAR, t-stat 결과
+- `data/hypothesis_test_summary.csv`: IPO 사례별 H0/H1 판정 요약
+- `data/*_*.csv`: 사례별 종목/지수 원자료
+
+리포트를 다시 생성하려면 다음 명령을 실행한다.
+
+```powershell
+& 'C:\Users\박준성\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\build_report.py
+```
+
+공공데이터포털 주식시세정보 API를 사용해 회귀분석을 다시 실행하려면 인증키를 환경변수로 설정한 뒤 실행한다.
+
+```powershell
+$env:DATA_GO_KR_SERVICE_KEY = "본인_공공데이터포털_인증키"
+$env:DATA_SOURCE = "public"
+& 'C:\Users\박준성\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' scripts\regression_analysis.py
+```
+
+현재 공공데이터포털 주식시세정보 API는 개별 상장주식 가격 데이터에 사용한다. KOSPI/KOSDAQ 시장지수는 별도 지수시세 API가 없을 경우 기존 지수 데이터 fallback을 사용한다.
+
 ## Initial Sources
 
 - LG Energy Solution listing date: 2022-01-27

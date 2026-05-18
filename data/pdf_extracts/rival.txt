@@ -1,0 +1,2522 @@
+
+
+--- PAGE 1 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3205 3205–3249
+Why Does an IPO Affect Rival Firms?
+Matthew Spiegel and Heather Tookes
+Y ale School of Management
+IPO ﬁrms’ rivals tend to experience performance declines following an IPO in the industry.
+Why? We estimate a dynamic structural oligopoly model to distinguish between alternative
+theories that can explain an industry’s evolution post-IPO. We ﬁnd that most changes in
+rivals’ performance are due to industry trends that also drive IPOs. However, we also
+ﬁnd some “competitive” IPOs where the IPO enhances the IPO ﬁrm’s performance at the
+expense of competitors. These ﬁndings help reconcile prior evidence of average performance
+reductions of both IPO ﬁrms and their rivals with well-known cases in which ﬁrms have
+beneﬁted from going public. ( JEL G30, G32)
+Received October 19, 2016; editorial decision February 12, 2019 by Editor Andrew Karolyi.
+Authors have furnished an Internet Appendix, which is available on the Oxford University
+Press Web site next to the link to the ﬁnal published paper online.
+Most research on initial public offerings (IPOs) has focused on the short- and
+long-term performance of IPO ﬁrms, but there are striking patterns in the post-
+IPO performance of rival ﬁrms as well. On average, entire industries see their
+values and proﬁtability decline following the typical IPO. For example, Hsu,
+Reed, and Rocholl (2010; HRR) report that public incumbents experience a
+3.3% decline in sales growth and a 2.9% reduction in proﬁtability during each
+of the 3 years following an IPO in the industry. Competitors’ also exhibit
+negative abnormal stock returns near completed IPOs.
+Why does performance decline among an IPO ﬁrm’s competitors? The vast
+IPO literature offers many theories describing when the beneﬁts from going
+public exceed its costs, which might help explain rivals’ post-IPO performance.
+Three such possibilities are (1) a ﬁrm may undertake an IPO to lower its
+ﬁnancing costs, making it a stronger competitor; (2) founders and may wish to
+retire or sell off their holdings; and (3) an IPO may occur when there is a shock to
+industry fundamentals, making the beneﬁts of remaining private less attractive.
+We thank Darwin Choi, Chris Hennessy, Hayne Leland, Richard Lowery, Christian Opp, Alessio Saretto, and
+Toni Whited for their comments and seminar participants at Baruch University, McGill University, Nanyang
+Technological University, National University of Singapore, Singapore Management University, University of
+Amsterdam, and Y eshiva University. We also thank participants at the 2015 Jackson Hole Finance Conference,
+the 2015 annual meeting of the Eastern Finance Association, the 2015 SFS Cavalcade, the HKUST Corporate
+Finance Symposium, the 2016 London Business School Finance Summer Symposium, and the 2016 NYU Five
+Star Conference for helpful discussions. Supplementary materials can be found on The Review of Financial
+Studies Web site. Send correspondence to Matthew Spiegel, Y ale School of Management, PO Box 208200, New
+Haven CT 06820-8200; telephone: 203-432-6017. E-mail: matthew.spiegel@yale.edu.
+The Review of Financial Studies 33 (2020) 3205–3249
+© The Author(s) 2019. Published by Oxford University Press on behalf of The Society for Financial Studies.
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+doi:10.1093/rfs/hhz081 Advance Access publication August 2, 2019
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 2 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3206 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+Taking a “one-size-ﬁts-all” approach to explaining the patterns we observe
+can limit our understanding of why changes occur in industry performance
+following IPOs. Rather than try to determine which theory is “right,” we start
+with the assumption that each one might hold for at least some IPOs. We then
+conduct an event-by-event analysis of the evolution of the IPO ﬁrm’s industry
+pre-and post-IPO to determine which theory best ﬁts the data for each individual
+IPO. The results indicate that industry-wide changes explain rivals’ post-IPO
+performance in the majority of cases. However, in 5%–10% of cases, a stronger
+IPO ﬁrm with new access to cheaper public ﬁnancing is the most likely driver.
+Understanding which theory best explains the data requires having some idea
+as to how individual ﬁrms would have fared absent the IPO. In this paper, we use
+a dynamic model of industry competition based on Spiegel and Tookes (2013a)
+to provide a baseline. The model takes place in continuous time and generates
+quarter-by-quarter performance forecasts for each ﬁrm in the industry. We map
+differences between these forecasts and actual performance for a particular ﬁrm
+or industry to hypotheses capable of explaining the causes and consequences
+of IPOs. We then produce a frequency distribution of the applicability of each
+theory across events.
+In our application, the model creates parameter forecasts that are consistent
+with a null hypothesis that all ﬁrms in an industry change over time at the same
+rate, in proportion to their pre-IPO values. That is, if the proﬁtability parameter
+a
+i for ﬁrm i transitions from ai to kai at a rate ψ , then all ﬁrms in the industry
+must see the same transition; aj to kaj at the rate ψ . Importantly, if the IPO
+ﬁrm’s fundamentals are transitioning in a way that is different from its rivals,
+we can reject this null hypothesis via forecast error tests. If the observed decline
+in rivals’ performance post-IPO is due to the increased strength of the IPO ﬁrm,
+then forecasts restricted to treating all ﬁrms in the industry (including the IPO
+ﬁrm) in the same manner should yield biased forecasts with errors that increase
+over time. Further, the bias for the IPO ﬁrm should be in a direction opposite
+its rivals. Our analysis indicates this is not the case. On average, forecast errors
+for the IPO ﬁrm are no different from those of its industry peers. This supports
+the hypothesis that IPOs foreshadow future industry changes rather than cause
+them.
+1 Our use of forecast errors from a structural model to shed light on the
+drivers of industry performance dynamics is novel and provides insights that
+would be impossible to obtain using standard methods.
+Negative industry-wide trends appear to be the dominant explanation for the
+patterns that we observe, but there is also substantial variation across IPO events.
+We can use the estimated parameters and differences in the forecast errors
+between rivals and the IPO ﬁrm to learn more about cross-sectional variability
+1 The ﬁnding that post-IPO performance of newly public ﬁrms is no different from industry peers does not imply
+that going public was a bad decision. An IPO may have been the ﬁrm’s best policy. The question addressed here
+is separate and focuses on whether the primary driver behind the decline in rival performance is due to a change
+in the industry’s overall environment or due to the newly public ﬁrm’s increased competitive strength.
+3206
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 3 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3207 3205–3249
+Why Does an IPO Affect Rival Firms?
+in the likely causes and consequences of IPOs. For example, suppose the effects
+that we observe are due to a ﬁrm becoming a more formidable competitor by
+going public. In this case, IPO ﬁrms should perform better than expected while
+its rivals will perform worse. Using the 5-year estimation horizon as an example,
+we ﬁnd evidence consistent with this idea in approximately 8% of the events
+that we analyze. By comparison, in 54% of all events, the evidence is consistent
+with an overall negative industry trends that triggers the IPO. Although IPOs
+with competitive effects are a clear minority, the ability to use the model to
+identify them highlights an important advantage of the empirical approach that
+we use. One way to interpret the data is to ask how a Bayesian would update
+her priors given the empirical distributions that we report. Our ﬁndings point
+toward posterior distributions with substantial weight on the industry trend
+hypothesis.
+Our analysis offers some novel insights into why ﬁrms may decide to go
+public and why the average industry subsequently experiences declining overall
+proﬁts. For example, a driving force behind the model is consumer loyalty, or the
+speed at which customers are willing to switch between ﬁrms’ products. Using
+data on the evolution of market shares within the industry and across time, we
+estimate customer loyalty, and we ﬁnd that it declines substantially following
+IPOs.
+2 We hypothesize that increased product commoditization reduces the
+beneﬁts of maintaining private status, causing ﬁrms to go public earlier in their
+lives. We take this prediction to the data by relating the estimated change in
+consumer loyalty near IPO events to the size at which ﬁrms go public. Within
+industries, we ﬁnd that ﬁrms go public with smaller market shares when the
+post-IPO decline in consumer loyalty is bigger. In the median industry, the
+increased commoditization following an IPO reduces the estimated market
+share at which the next ﬁrm in the industry goes public by about 15%. This
+supports the idea that the IPO event is a response to anticipated industry changes,
+not their cause. It also helps reconcile evidence from HRR, Chemmanur and He
+(2011; CH), and Chod and Lyandres (2011; CL) that IPO ﬁrm rival performance
+declines with the earlier literature showing that is true of the IPO ﬁrm as well
+(Jain and Kini 1994; Teoh, Welch, and Wong 1998; Ritter and Welch 2002).
+That is, both the newly public ﬁrm and its rivals see a deterioration in their
+performance post-IPO.
+While our evidence points to industry-wide developments as the main culprit
+behind rival ﬁrms’ post-IPO performance declines, it is still possible that the
+IPO ﬁrm caused the industry-wide changes. We consider the possibility that, by
+not going public, the IPO ﬁrm would have experienced an even worse fate. In
+that case, the IPO ﬁrm might ﬁnd it optimal to trigger the industry’s decline by
+2 The packaged iced tea industry is an example of this type of market evolution. Around the time of Snapple’s
+IPO, several ﬁrms entered with their own teas, leading consumers to switch more readily between corporate
+offerings. Backman (2015) provides a brief history. Burns (1996) discusses how rival drink makers (like PepsiCo
+and Coca-Cola) entered the iced tea industry with their own iced tea versions.
+3207
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 4 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3208 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+going public. The model lets us determine the plausibility of the “IPO trigger”
+hypothesis given the magnitude of the gains and losses involved. In particular,
+would incumbent rivals be better off purchasing still private competitor to avoid
+triggering the post-IPO performance decline? We ﬁnd that the magnitudes of
+the incumbents’ post-IPO losses are so large that in nearly all cases the largest
+ﬁrm in the industry would be better off buying the IPO ﬁrm to prevent the
+decline, even if that entailed doing so at a considerable loss. Moreover, in many
+cases, it would even pay to buy the IPO ﬁrm and then shut it down. Overall, the
+IPO trigger hypothesis seemingly requires nearly dysfunctional private equity
+and takeover markets.
+Some of the most important insights in this paper would be difﬁcult to obtain
+using existing models. For example, many dynamic structural models evolve
+from the real options literature. Notable papers include those of Aguerrevere
+(2003, 2009), Novy-Marx (2007), and Carlson et al. (2014). In these dynamic
+models, ﬁrms compete via Cournot competition by expanding their production
+capacity of the market’s single homogenous good. Increasing capacity lets a
+ﬁrm sell more of its product but also reduces the overall price. Each paper in this
+area then considers a particular setting (competitive, symmetric oligopoly, etc.)
+to analyze. In principle, it is possible to redeploy one of these models to examine
+the going public decision, at least in cases where the IPO is used to expand the
+ﬁrm’s operations. However, we think the model used in this paper offers a more
+ﬂexible setting for understanding IPOs. For example, most industries have ﬁrms
+that compete via the production of heterogenous goods and operate with varying
+degrees of efﬁciency. The real options models impose a signiﬁcant degree of
+symmetry among the competitors that would make adapting them to such setting
+rather challenging. In contrast, our approach allows both heterogenous goods
+and a multiplicity of operating efﬁciencies.
+How well does this paper’s empirical model capture industry dynamics?
+The appeal of the Spiegel and Tookes (2013a) framework is that it captures
+ﬁrm heterogeneity in an n-ﬁrm industry and is easy to estimate; however, our
+ﬁndings and conclusions are relevant only if the model captures meaningful
+variation in observed changes to corporate proﬁts and values before and after
+a rival’s IPO. We conduct out-of-sample tests of model performance and ﬁnd
+strong support for the model. Period-ahead forecast tests indicate that, if you
+have to restrict yourself to one or two independent variables, then the structural
+model’s predicted value and proﬁt changes should always be among them. Most
+of the time, if you are restricted to just one, it would be the structural model’s
+forecast. These out-of-sample tests also provide a check against results that
+are driven by misspeciﬁcation bias. Misspeciﬁed and over ﬁt models typically
+yield predictions about the future that are little more than white noise. (See,
+e.g., the Goyal and Welch (2008) critique of the equity premium literature.)
+The out-of-sample tests show that our model better predicts future changes
+in the industry than do model-free alternatives like AR processes as well
+as those that employ variables seen in other papers in the IPO literature.
+3208
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 5 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3209 3205–3249
+Why Does an IPO Affect Rival Firms?
+Additionally, Harvey and Collier (1977) misspeciﬁcation tests of the model
+on the full Compustat database also indicate that the model forecasts are not
+just noise. Overall, the model’s failure rate equals the size of the test plus
+approximately 1%. If the model were perfect, the failure rate should equal the
+test size. The main body of the paper discusses this in further detail.
+Our forecast error tests can be thought of as a generalized differences-in-
+differences (DD) test. In a DD analysis, one compares the difference in some
+value between dates 0 and 1 across two groups. In essence, the model takes the
+date 0 value as a “forecast” of the date 1 value. Conclusions are then drawn
+based on these forecast errors across groups. In this study, the forecast at date
+1 is not the date 0 value, but the value predicted by the dynamic model. The
+errors are the difference between the model’s forecast and the realized date 1
+value.
+1. Model
+We adapt Spiegel and Tookes (2013a) to the IPO setting. The basic setup and
+intuition are outlined below, with details in the appendix. The main goal is to
+produce an estimable structural model that can be used to forecast industry
+performance variables in the IPO event setting.
+Consider an industry containing n ﬁrms that produce a heterogeneous
+product. Firm i competes with its rivals for market share ( m
+i ) by spending
+funds ui (t) at time t on customer acquisition. Advertising is perhaps the most
+obvious way ﬁrms acquire market share, but ui (t) might also include research
+and development to improve product design, as well as capital expenditures
+that create outlets closer to where customers shop. The Spiegel and Tookes
+(2013a) model assumes that market share evolves over time via:
+3
+dmi (t) =φ
+⎡
+⎢⎢
+⎢⎣
+s
+iui (t)
+n∑
+j =1
+sj uj (t)
+− mi (t)
+⎤
+⎥⎥
+⎥⎦dt. (1)
+The variable φ also can be thought of as consumers’ perception of product
+heterogeneity. Low values of φ imply high customer loyalty (and high
+product heterogeneity). The variable s
+i captures a ﬁrm’s customer acquisition
+effectiveness. Higher values of si imply that a ﬁrm achieves a greater “bang
+for its buck” when trying to gain market share via spending ui (t). Intuitively,
+Equation (1) says that relative spending, determined by spending amount and
+effectiveness, drives variation in market shares. Larger ﬁrms have more to lose,
+3 At the limit, where every ﬁrm spends zero on customer acquisition, the ratio becomes undeﬁned. One can address
+this by assuming that ﬁrms are endowed with a small free level of customer acquisition, which is equivalent to
+assuming a ﬁrm’s product has a subset of very loyal customers. Ultimately, one can show that adding this to the
+model does not materially alter any of its results.
+3209
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 6 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3210 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+and smaller ones have more to gain. Note that a variant of this law of motion
+is standard in the empirical marketing literature (for a review, see Dockner
+et al. 2000). The main differences in our version are that we allow for N ﬁrms
+(rather than just a duopoly) and we also add a denominator that represents total
+effective spending in the industry, making the law of motion unit free.
+Let ς represent the measure of an industry’s size measure (exogenous)
+4 and
+assume it follows the law of motion
+dς =gdt +σdw, (2)
+where d w is a standard Brownian motion. 5 In the model, instantaneous
+corporate proﬁts are proportional to industry size and are given by
+eςπi (t) =eς [αimi (t)− ui (t)− fi ]. (3)
+The parameter αi translates a unit of market share into corporate proﬁts gross
+of its spending on customer acquisition and its ﬁxed operating costs fi . Each
+ﬁrm seeks to maximize its expected present discounted value Vi (m,ς,t ) =
+E
+[∫∞
+t=0eς−rt πi (t)dt
+]
+, wherer (assumed to be greater thang) is the discount rate.
+In principle Vi can be a function of the vector of market shares, m. However,
+we will guess that it is a function of mi and then conﬁrm that this guess is a
+solution to the value function. Appendix Section A.1 shows that a change in
+the probability measure lets one further simplify the problem by writing the
+value function as V
+i (mi,t ), which drops the ς term and with it the second order
+terms in the HJB equation that determines the solution to the optimal control
+problem.
+The empirical work will compare the model’s forecasted valuation changes
+(V ) to observed changes. We emphasize that V refers to a ﬁrm’s enterprise
+value. An investor in the stock expects to earn the risk-adjusted market return,
+which should follow a random walk. However, this need not hold for a ﬁrm’s
+enterprise value. In the model, the ﬁrm pays out its proﬁts in excess of its
+investment as a dividend or takes in capital when expenses are less than costs.
+The resultant expected return to an investor will indeed equal the discount
+rate. However, the ﬁrm’s enterprise value may grow at a higher or slower rate,
+depending on overall industry performance and the ﬁrm’s change in market
+share.
+Assume that, prior to the IPO, ﬁrms in the industry are endowed with a set
+of parameter values for their proﬁts per unit of market share α
+∗=
+(
+α∗
+1,...,α ∗
+n
+)
+,
+4 In the model, corporate spending on customer acquisition does not inﬂuence the overall industry’s growth rate.
+Because of this assumption, the model better describes a mature oligopoly than a new and rapidly growing
+one. For example, if a company develops a better refrigerator, it is unlikely that many households will then add
+an additional refrigerator to their house. Instead, sales are more likely to come at the expense of rivals. Many
+industries function like this. Adding an interaction between the
+ui and ς is clearly possible, but doing so comes
+at the cost of a closed-form solution.
+5 Note that Spiegel and Tookes (2013a) do not consider stochastic industry size. We include it here for a richer
+comparison with the previous IPO literature.
+3210
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 7 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3211 3205–3249
+Why Does an IPO Affect Rival Firms?
+spending efﬁciencys∗=
+(
+s∗
+1 ,...,s ∗
+n
+)
+, and ﬁxed operating costsf ∗=
+(
+f ∗
+1 ,...,f ∗
+n
+)
+.
+For simplicity, assume that ﬁrm n conducts the IPO. Over time, the industry
+will adjust to the new post-IPO parameter sets α= (α1,...,α n), s = (s1,...,s n),
+and f = (f1,...,f n). These new parameters may reﬂect changes in the overall
+industry structure. They could also reﬂect the competitive effects of the new,
+stronger, publicly ﬁnanced IPO ﬁrm. Alternatively, they might reﬂect the
+competitive effects of rivals’ new ability to observe some of the IPO ﬁrm’s once-
+private information. The model does not take a stand regarding the industry’s
+progression following the IPO. Parameters may evolve in ways favorable or
+harmful to ﬁrms. The overall impact on ﬁrm and industry value will depend on
+not only the changes occurring in the industry but consumer demand and the
+competitive responses of all ﬁrms in the industry.
+Without imposing any restrictions as to whether an IPO triggers an industry’s
+evolution or whether it is good or bad for the industry, assume that the transition
+to the new parameter set occurs at an exponential rate ψ . Consequently, at time
+t, a ﬁrm’s actual proﬁts per unit of market share, spending efﬁciency, and ﬁxed
+costs are given by
+⌣
+α,
+⌣
+s , and
+⌣
+f :
+⌣
+α = α+e−ψt /Delta1α, (4)
+⌣
+s = s +e−ψt /Delta1s, (5)
+and
+⌣
+f =f +e−ψt /Delta1f, (6)
+where /Delta1α=α∗− α, /Delta1s=s∗− s, and /Delta1f=f ∗− f . This lets the model
+incorporate all three elements into the -δVi term in the HJB equation. To reduce
+notational clutter further, let δ=r− g− 1
+2 σ2.
+Write the problem of ﬁnding the optimal amount to spend on consumer
+acquisition as
+0= max
+ui
+(
+αi +e−ψt /Delta1αi
+)
+mi − fi − e−ψt /Delta1fi − ui +V m
+i φ
+⎡
+⎢⎢
+⎢⎣
+⌣s iui
+n∑
+j =1
+⌣s j uj
+− mi
+⎤
+⎥⎥
+⎥⎦− δV
+i +V t
+i . (7)
+In Equation (7), superscripts on the value functionV indicate partial derivatives
+with respect to market share ( mi ) and time ( t). Like most papers that employ
+continuous time game theoretic models, the above setup seeks to ﬁnd a Markov
+equilibrium. There may be, and likely are, other non-Markovian equilibria.
+6
+To solve (7) assume Vi has the form
+Vi (mi,t ) =ai (t)+bi (t)mi (t).7 (8)
+6 See Dockner et al. (2000) for a discussion of Markov and non-Markov equilibria in continuous-time game
+theoretic models.
+7 Because ﬁrms are risk neutral and the value function is linear in the state variable ( m), a random term can be
+added to the market share’s law of motion (Equation (1)) without changing the model’s solution. See Dockner
+et al. (2000) for this result.
+3211
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 8 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3212 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+The empirical work that follows is based on the following equations. Deﬁne
+ˆαi = (φ+δ+ψ )αi +(φ+δ)/Delta1αie−ψt (9)
+and
+ˆz =
+n∑
+j =1
+1
+ˆαj
+⌣
+sj
+. (10)
+Then the solution to ui is
+ui =
+ˆαiφ(n− 1)
+[
+ˆαi
+⌣
+si ˆz− (n− 1)
+]
+(φ+δ+ψ )(φ+δ)
+(
+ˆαi
+⌣
+si ˆz
+)2 . (11)
+The solution for bi is
+bi = αi
+φ+δ+ /Delta1αie−ψt
+φ+δ+ψ .8 (12)
+Finally, the solution to ai comes in the form of nonlinear ordinary
+differential equation (ODE). While it does not in general admit a closed-form
+solution, it does so if one assumes that ˆα
+i =
+(
+(φ+δ+ψ )αi +(φ+δ)e−ψt /Delta1αi
+)
+=
+αi
+(
+(φ+δ+ψ )+(φ+δ)kαe−ψt )
+and
+⌣
+si =si
+(
+1+ kse−ψt )
+for industry-wide con-
+stants kα and ks . These constraints imply that each ﬁrm experiences a
+proportional change to its proﬁts per unit of market share and marketing
+capabilities post-IPO. In this case, one can show that the ˆα
+i
+⌣
+si ˆz terms reduce
+to the constant αisiz, where z is deﬁned as∑
+j
+(
+αj sj
+)− 1
+. This then leads to the
+closed-form solution for the ai of
+ai =− fi
+δ + αiφ[αisiz− (n− 1)]2
+δ(φ+δ)(αisiz)2 +e−ψt
+[
+αikαφ[αisiz− (n− 1)]2
+(δ+ψ )(φ+δ+ψ )(αisiz)2 − /Delta1fi
+δ+ψ
+]
+.
+(13)
+For empirical purposes, all that is necessary is the above solution. It allows us to
+estimate model parameters and to create forecasts of ﬁrm value (from Equation
+(8)) and proﬁtability over time.
+In interpreting the solution, it is useful to point out that, while it is true
+that each ﬁrm in the industry experiences the same shock that results in a
+proportional change in its proﬁts per unit market share, they will respond
+differently to the shock because they are heterogeneous. Equation (11) provides
+an example: increases in α
+i increase equilibrium spending for large ﬁrms but
+decrease it for very small ones. The model fully incorporates this heterogeneity.
+In empirical analyses, this means that ﬁnding a closely matched control ﬁrm
+within the industry is unnecessary. One can use the same model to compare the
+dynamics of very different ﬁrms.
+8 See A Step-by-Step Guide to Solving the Model in Spiegel and Tookes (2013b) for the derivation of Equations
+(9) through (12), when there is no exponential drift component. Adding in and then solving for the exponential
+drift is then straightforward.
+3212
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 9 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3213 3205–3249
+Why Does an IPO Affect Rival Firms?
+1.1 A comparison with the real options literature
+Before proceeding, it is useful to discuss our choice of the Spiegel and
+Tookes (2013a) framework, in light of the related literature on real options in
+imperfectly competitive product market settings. The models in the real options
+literature focus on Cournot homogenous goods markets in which ﬁrms decide
+whether to expand production. The ﬁrms either have identical production and
+expansion technologies or they compete in two-ﬁrm industries. For ﬁrms, the
+relevant trade-off is that expansion lets a ﬁrm sell more but also reduces the price
+of the good being sold and increases the cost of the capital that is employed.
+The expansion decision depends on the competitive setting the model employs.
+Aguerrevere (2003, 2009) consider putty-clay capacity choice problems in
+a market with linear (Aguerrevere 2003) and nonlinear (Aguerrevere 2009)
+demand. The analysis initially examines a monopolist’s behavior and then
+considers an industry withn identical ﬁrms. Novy-Marx (2007) replaces the set
+of identical n ﬁrms with a continuum. These ﬁrms produce an amount equal to
+their current capacity and compete by altering that capacity. Like Aguerrevere’s
+models, ﬁrms again share an identical production and expansion technology.
+Novy-Marx (2007) does create a level of asymmetry by allowing for variation
+in initial ﬁrm capacities. (However, if all the ﬁrms were to start at an identical
+size, they would remain identical through time.) Carlson et al. (2014) consider
+a Cournot duopoly. They then consider three settings in which (1) one ﬁrm can
+expand and contract but the other cannot, (2) both ﬁrms have a single expansion
+option, and (3) where they have a single contraction option. Asymmetry arises
+from the relative cost each ﬁrm faces to alter its capacity level and in their costs
+of production. Their primary focus is on how these options affects each ﬁrm’s
+overall risk.
+Similarities between the models in the real options literature and the Spiegel
+and Tookes (2013a) framework include the focus on Markov perfect equilibria,
+stochastic growth at the industry level and size of the strategy space. All of these
+continuous time models restrict ﬁrms to employing a single control variable.
+In the real options literature, the control variable of interest is capacity. In this
+paper, the control variable of interest is spending to increase market share (this
+could include advertising, R&D, or product design, but not capacity, which is
+unconstrained at market prices).
+9 In addition, and as described in the Online
+Appendix, the industry’s one private ﬁrm has potentially two controls if going
+public is endogenous.
+10
+9 In the IPO setting, the primary motivations for going pubic include reducing the cost of capital, establishing a
+market price, cashing out, and timing overall market conditions (see, e.g., Pagano, Panetta, and Zingales 1998;
+Brau and Fawcett 2006). Based on the existing literature, increasing investment in capacity is seemingly less
+relevant.
+10 The model that we use in this paper begins at the IPO date, taking the decision to go public as given. Leading up
+to that date, the ﬁrm likely had to consider both changes in its own status and those affecting the whole industry.
+In the Online Appendix, we consider a version of the model that endogenizes the IPO decision. Doing so allows
+us to characterize the trade-offs that private ﬁrms make and to consider how these might affect how we interpret
+the results from estimating the main model.
+3213
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 10 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3214 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+The most important difference between the model used in this paper and
+those in the real options literature is that the Spiegel and Tookes (2013a) setting
+allows for ﬁrm heterogeneity in an industry with n ﬁrms. This provides clear
+advantages when we take the model to the data. In reality, corporate proﬁts vary
+across ﬁrms along a number of dimensions, including their marginal and ﬁxed
+costs of production and their spending effectiveness.
+11
+1.2 Model forecast errors
+The empirical tests described in the next section use a combination of the
+model’s estimated parameters and its forecast errors. Forecast errors compare
+the model’s predicted evolution of the industry post-IPO with what actually
+happens. These differences allow us to see the degree to which an event, in
+this case an IPO, pushes the ﬁrms in an industry off the path one might have
+otherwise predicted. As such, they are a way to characterize an event’s inﬂuence.
+To obtain the forecast errors, we begin by estimating the model parameters
+using data from the IPO ﬁrm’s rivals during the quarters surrounding the IPO
+event. Based on these estimates, the model generates predictions regarding
+future performance of both the IPO ﬁrm and its rivals. The difference between
+these projections and each ﬁrm’s actual performance are the forecast errors.
+Depending on the IPO ﬁrm’s reason for going public, certain systematic
+differences in these errors should develop.
+2. Why Go Public? The Ex Post Industry Implications
+Researchers have proposed several hypotheses to explain why a private
+ﬁrm may go public. A reduced form analysis that aggregates data across
+industries and IPOs may ﬁnd support a given theory; it will likely have trouble
+distinguishing which theory ﬁts which event the best or how frequently one
+theory or another applies. We use the framework in this paper to test the
+validity of ﬁve candidate hypotheses.
+12 Along with each hypothesis, we provide
+speciﬁc empirical implications for how the industry data should evolve post-
+IPO. The discussion below assumes that the IPO can: reduce ﬁnancing costs via
+an increase in α
+IPO , the proﬁtability of the IPO ﬁrm; increase ﬁxed costs for
+the IPO ﬁrm (increase in fIPO ) due to increases in regulatory costs for public
+ﬁrms; and reduce the effectiveness of spending ( sIPO ) due to the inability to
+keep competitive secrets private post-IPO.
+11 Another difference is the solution’s interpretation. As noted by Back and Paulsen (2009), articles that follow
+along the lines of Grenadier (2002) solve for a Markov perfect open-loop Nash equilibrium. In the literature
+discussed here, both Aguerrevere (2003, 2009) papers fall into this category. Unlike the closed-loop equilibrium
+examined in Carlson et al. (2014) and in this paper, open-loop equilibria are not subgame perfect.
+12 The list, although not exhaustive, covers the most likely candidate explanations.
+3214
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 11 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3215 3205–3249
+Why Does an IPO Affect Rival Firms?
+2.1 Hypotheses and implications
+H0 (Null): Reasons outside of the model.
+IPOs occur when a ﬁrm reaches a critical scale, or for noneconomic reasons
+that are outside of our model (e.g., a founder’s retirement). Implications:
+(1) Model parameters: If the IPO occurs when a ﬁrm reaches critical scale
+or for noneconomic reasons, then we do not expect signiﬁcant changes
+in industry proﬁtability or consumer responsiveness following the IPO
+(i.e., no signiﬁcant changes in parameter value φ and k not signiﬁcantly
+different from 1).
+(2) Forecast errors: Under H 0, the forecast errors for the IPO ﬁrm are either
+negative or similar to those of its rivals. If the IPO is occurring at the
+optimal time, then the ﬁrm becomes large enough that the value of
+lower public ﬁnancing costs (increase in α
+IPO , the proﬁtability of the
+IPO ﬁrm) exceeds the value from being able to keep ﬁnancials private
+(reduced value of s
+IPO ) and the ﬁxed cost of going public (increase in
+fIPO ). In this case, the value and proﬁt forecast errors should be similar
+for the IPO ﬁrm and its rivals. If the IPO is occurring for noneconomic
+reasons, the IPO ﬁrm’s forecast errors should be negative (i.e., we expect
+to observe underperformance because the IPO is not occurring at the
+optimal time).
+13
+H1: IPOs as Causal Events – Firms go public to increase their competitive
+strength.
+If IPOs make newly public ﬁrms stronger , increasing α
+IPO to a degree that
+the gains from going public exceed the costs imposed via a lower s IPO and
+increased f IPO . The increase in the IPO ﬁrm’s competitive strength leads to a
+decline in rival values. Implications:
+(1) Model parameters: Industry conditions are deteriorating for rivals. This
+implies a signiﬁcant k< 1 or signiﬁcant φ− φ0 > 0.
+(2) Forecast Errors: V alue and proﬁt forecast errors for the IPO ﬁrm should
+be positive and signiﬁcant (i.e., the IPO ﬁrm should do better than
+expected). V alue and proﬁt forecast errors for rival ﬁrms should not
+be signiﬁcantly positive.
+H2: IPOs as canaries: Industry-wide shift in consumer preferences triggers
+a ﬁrm to go public.
+While an IPO raises α
+IPO , lowers s IPO , and increases f IPO , the primary
+impact on rival ﬁrms comes via increased product homogenization over time;
+an increasing value of φ. Implications:
+13 The Online Appendix models this trade-off explicitly.
+3215
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 12 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3216 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+(1) Model parameters: The estimated change in the consumer respon-
+siveness parameter ( φ− φ0) is positive and signiﬁcant, and k is not
+signiﬁcantly greater than 1.
+(2) Forecast errors: The forecast errors for the IPO ﬁrm and industry are
+not signiﬁcantly positive, nor are they signiﬁcantly different from one
+another.
+H3: IPOs as Canaries – Deterioration in industry-wide proﬁtability
+triggers a ﬁrm to go public.
+While an IPO raisesα
+IPO , lowers sIPO , and increases fIPO , the primary impact
+on rival ﬁrms comes via changing production technologies that decrease every
+ﬁrm’s α
+IPO over time. Implications:
+(1) Model parameters: The value of k is signiﬁcantly > 1 and φ− φ0 is not
+signiﬁcantly negative.
+(2) Forecast errors: The forecast errors for the IPO ﬁrm and rivals are
+not signiﬁcantly positive, nor are they signiﬁcantly different from one
+another.
+Note that H 2 and H 3 are not mutually exclusive. Changes in consumer loyalty
+can coincide with (or even cause) changes in proﬁtability in the industry. For
+example, ﬁrms might offer discounts if consumers begin to view ﬁrms’ products
+as more homogenous.
+H4: IPOs as Canaries 2 – Improving industry conditions triggers a ﬁrm to
+go public
+While an IPO raisesα
+IPO , lowers sIPO , and increases fIPO , the primary impact
+on rival ﬁrms comes either via changing production technologies that increase
+every ﬁrm’s α
+IPO over time or from decreased product homogenization over
+time, a declining value of φ. Implications:
+(1) Model parameters: For the estimated parameters either the value of (a)
+φ− φ0 is negative and signiﬁcant and k is not signiﬁcantly less than 1
+or (b) k is signiﬁcantly > 1, and φ− φ0 is not positive and signiﬁcant.
+(2) Forecast errors: The forecast errors for the IPO ﬁrm and it rivals should
+not be signiﬁcantly negative nor should they be signiﬁcantly different
+from one another.
+2.1.1 Ambiguous changes. While the empirical model considers either a
+positive or a negative shock to proﬁtability or consumer demand near IPO
+events, it is possible that industry parameters are changing in ways that both
+beneﬁt and hurt ﬁrms. This implies one of the following: (a) φ− φ
+0 is negative
+and signiﬁcant and k is signiﬁcantly less than 1; (b) k is signiﬁcantly greater
+than 1, and φ− φ0 is positive and signiﬁcant; (c) industry fundamentals are
+3216
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 13 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3217 3205–3249
+Why Does an IPO Affect Rival Firms?
+deteriorating (improving) based on parameter estimates, but forecast errors
+indicate that ﬁrms are performing better (worse) than predicted; or (d) no
+change in industry fundamentals, but the IPO ﬁrm is performing differently
+from peers (i.e., is a negative correlation in the forecast errors of the IPO ﬁrm
+and the industry) or there is insufﬁcient data to conduct forecast error tests. In
+categorizing IPO events, we place IPO events in which industry fundamentals
+are changing in ambiguous ways in the “outside of the model category” ( H 0).
+2.2 Mapping the implications to empirical tests
+In the next section, we implement empirical tests of the hypotheses described
+above. In the tests, we require unambiguous and statistically signiﬁcant changes
+in model parameters in order to classify events into those that correspond
+with deteriorating and improved industry conditions (Hypotheses 1 through 4).
+Deteriorating industry conditions imply declining proﬁtability ( k< 1) and/or
+a post-IPO increase in consumer responsiveness ( φ− φ
+0 > 0). The statistical
+signiﬁcance requirement is met if at least one of these parameter estimates are
+signiﬁcant at the 10% level.
+14 Bayesian updating tests are also conducted which
+obviate the need to select a signiﬁcance level.
+The unambiguous deterioration condition is satisﬁed if we also do not observe
+a signiﬁcant change in one of the parameter estimates that suggests improving
+industry conditions (e.g., settings wherek is signiﬁcantly less than 1 butφ− φ
+0is
+also signiﬁcantly less than 0). Similarly, improving industry conditions imply
+an increase in industry proﬁtability ( k> 1) and/or a decrease in consumer
+responsiveness (φ− φ
+0 < 0). All events in which we do not observe signiﬁcant
+changes in model parameters or in which there is ambiguity in the changes that
+we observe are classiﬁed as “outside of the model” events ( H 0).
+In the forecast error tests, we examine the difference between actual and
+model-implied value and proﬁtability changes. In classifying forecast errors
+into those that are positive or negative (i.e., over- and underperformance,
+respectively), we require both statistical signiﬁcance and no ambiguity. For
+example, forecast errors are deﬁned as positive if value (proﬁtability) change
+forecast errors are signiﬁcantly positive at the 10% level and proﬁtability (value)
+change forecast errors are not signiﬁcantly negative. Forecast errors of IPO ﬁrms
+and their rivals are classiﬁed as similar to one another if we do not observe a
+negative and statistically signiﬁcant correlation between them.
+3. Empirical Analysis: Competitive Effect of an IPO
+An important advantage of the model is that it characterizes the value dynamics
+resulting from changes in the competitive structure of the industry in a way that
+14 The Online Appendix shows results of analyses in which we deﬁne statistical signiﬁcance based on 5% and 1%
+levels rather than the 10% level. The main ﬁndings are not driven by the choice of signiﬁcance threshold.
+3217
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 14 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3218 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+is amenable to empirical estimation and testing. This section presents estimates
+of the model’s key parameters.
+3.1 Proﬁtability transition
+The proﬁtability equation provides a structure for estimating ﬁrm-speciﬁc and
+industry-wide parameter values. Recall that the basic proﬁt function is given
+by: π
+i (t)= eς(t)(αimi (t)− ui (t)− fi ). Following Spiegel and Tookes (2013a),
+we let πi (t)+ eς(t)ui (t)≡ˆπi (t) = (Revenue – Cost of Goods Sold). To keep the
+empirical problem manageable with the data at hand, the focus here is on the
+transition from α
+∗
+i to αi (for simplicity, set f ∗
+i ≡ fi and s∗
+i ≡ si ). Under the
+assumption that, for every ﬁrm i, αi =kα∗
+i , the proﬁtability equation becomes
+πi (t)− eς(t)ui (t)= eς(t) (
+((k− (k− 1)e−ψt )α∗
+i )mi (t)− f ∗
+i
+)
+. (14)
+Using quarterly data on revenue and costs of goods sold, we use nonlinear
+least squares to estimate Equation (14) by IPO event. This gives estimates for
+ψ,k,g,α
+∗
+i ,α,
+i and f ∗
+i . Recall that ψ is an industry level parameter that deﬁnes
+the transition rate from the pre-IPO α∗
+i to the new αi . The economic forces
+driving the transition and the associated “transition rate” should be broadly
+construed. It may be due to the IPO itself as in H 1. Alternatively, the change
+may be due to external forces, per H 2, H 3, and H 4.
+3.2 Consumer responsiveness and competitive strength
+Estimates for consumer responsiveness and competitive strength ( φ and α
+isiz,
+respectively) are also required to estimate model-implied values. Recall that,
+because proﬁtability evolves at the common rateψ and given the common factor
+k scaling α
+∗
+i relative to αi , the transition from α∗
+i to αi does not affect αisiz.
+Letting ¯mi equal ﬁrm i’s steady-state market share, one can use the equation
+dm =φ( ¯mi − mi (t))dt, which has a solution for mi (t)o f
+mi (t)= ¯mi +(mi (0)−¯mi )e−tφ. (15)
+We use quarterly market share data to estimate Equation (15) for each IPO
+event. We use nonlinear least squares to obtain estimates for each ﬁrm’s steady-
+state market share, ¯m
+i , as well as for the industry parameter φ. The empirical
+identiﬁcation comes from market share evolution across rival ﬁrms (to identify
+¯mi ) and over time (to identify φ). Because the market shares of the n industry
+competitors must add to 1, there are n-1 independent observations in each
+quarter. To ensure that quarterly market shares do not add to one, we remove
+the smallest publicly traded rival in each period. We also exclude the IPO ﬁrm
+(this helps with the causality tests presented later). Estimation is done using the
+iterative Gauss-Newton method, with starting values speciﬁed for all unknown
+parameters. Note that we also obtain estimates for ﬁrm-speciﬁc competitive
+strength α
+isiz via Equation (15), because, in steady state, ¯mi =1 − n− 1
+αisiz .
+Equation (15) is estimated with data from both before and after the IPO
+event. We allowφ to vary pre- and post-IPO (φ0 and φ, respectively) to account
+3218
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 15 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3219 3205–3249
+Why Does an IPO Affect Rival Firms?
+for possible consumer behavior changes near the IPO event. Following Spiegel
+and Tookes (2013a), the only restriction that we impose is that φ0 and φ are
+nonnegative and less than 25. In our quarterly estimation, this would correspond
+to a ﬁrm losing half its customers in just 2.5 days if it ceased all spending to
+maintain and expand its market share.
+3.3 Data and summary statistics
+The initial sample of IPO events is from Securities Data Corporation New Issues
+Database and includes the IPOs of U.S. publicly listed stocks from 1983 through
+2012.
+15 There are 409 industries with IPO ﬁrms in CRSP/Compustat and for
+which the IPO ﬁrm is not the only ﬁrm in the Compustat 4-digit Standard
+Industrial Classiﬁcation (SIC) code. Because we are interested in ﬁrm and
+industry heterogeneity, we estimate the model separately for each IPO event.
+The quarterly data for estimation include all rival ﬁrms that share the IPO
+ﬁrms’ 4-digit SIC codes. Depending on the test, it is necessary to drop some
+IPO events. Table 1 displays the size of the database and the impact that various
+ﬁlters, which we describe in more detail below, have on the sample.
+Starting with the initial sample of 409 IPOs, we remove utilities and ﬁnancial
+ﬁrms (SIC codes 6000–6999 and 4900–4999) because utility regulation restricts
+interﬁrm competition, and the model is better suited for nonﬁnancial operating
+entities. Because the model assumes oligopolistic competition, we only include
+industries with ﬁfty or fewer competitors.
+16 Restricting the sample in this way
+will help us capture the competitive effects of IPOs, if they are in the data. Doing
+so reduces the sample to 368 industries. All publicly traded rival ﬁrms for which
+we have market share data at the beginning of the estimation period are included.
+We do not include the IPO ﬁrm in the estimation. This is important because
+we will test whether parameter estimates based on rival ﬁrm performance are
+capable of describing the post-IPO performance of the IPO ﬁrm.
+We begin the estimation 3 years prior to the IPO quarter. We estimate the
+model over horizons that include data through 3 and 5 years post-IPO, using a
+total of 24 and 32 quarters of data for each ﬁrm, respectively. Figure 1 shows
+a time line, using the 3-year horizon as an example.
+17
+No model can hope to ﬁt every industry, and this one is no exception. This
+paper’s model is of a heterogeneous product oligopoly. One can think of many
+industries for which this is likely to be a poor approximation. Not surprisingly,
+the parameter estimates either fail to converge or converge to a corner solution
+15 The IPO issue sample ends in 2012 to ensure a sufﬁcient number of post-IPO quarters for estimating the model.
+The ﬁnancial data from CRSP and Compustat are through December 31, 2014.
+16 We chose ﬁfty ﬁrms in an attempt to identify oligopolies, while still retaining as much data as possible. We
+are aware that this restriction is unlikely to be sufﬁcient for identifying oligopolies. Our subsequent checks of
+parameter estimates for reasonableness (i.e., removing outliers) help us get closer to identifying industries for
+which the oligopoly model is and is not appropriate.
+17 Data from quarters − 12 through +11 (− 12 to +19) relative to the IPO quarter 0 are used for the 3-year (5-year)
+in-sample estimation horizon.
+3219
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 16 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3220 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+Figure 1
+Estimation and event windows (3-year horizon example)
+Figure 1 shows the window over which the model is estimated and the time horizons over which both in- and
+out-of-sample forecasts are constructed. The IPO occurs during quarter
+t =0 .
+for some industries. 18 Nevertheless, as summarized in Table 1, the success
+rate is reasonable. For the 3-year sample, the model converges for 53% of
+the industries with IPOs and 16% of all IPO events (217 industries and 741
+IPO events, respectively); and for the 5-year sample, the model converges for
+56% of industries and 19% of IPO events (227 industries and 855 IPO events,
+respectively). Even after applying the initial industry ﬁlters and requiring model
+convergence, we are able to analyze a much larger IPO sample than in HRR.
+They begin with an initial sample of 4,188 IPO events and use data on only 134
+IPOs (3% of the initial sample) for their analysis.
+Table 2, panel A, shows parameter estimates. The median estimatedψ ranges
+from 0.304 to 0.387. These imply that, following the median IPO event, between
+26% and 32% of the transition from the old to the new proﬁtability regime occurs
+in the ﬁrst quarter. At the end of 4 quarters, the transition is between 70% and
+78% complete. By the end of the second year between 91% and 95% of the
+transition has occurred. However, there is substantial cross-sectional variation
+in ψ .
+Table 2 also provides estimates of the value of the proﬁtability shockk, where
+α
+i =kα∗
+i . Across both of the estimation horizons, the median estimated value
+of the proﬁtability shock k is less than 1. Consistent with prior work on the
+impact of IPOs on rivals, this implies that IPO events are typically followed by
+a reduction in industry-wide proﬁtability per unit of market share. However, as
+in the case of ψ , there is substantial cross-sectional variation. The interquartile
+range for the estimated value of k using data over the 5 years following the IPO
+is 0.54 to 1.40. This implies that rival ﬁrms experience between a 46% drop
+18 As mentioned in the Introduction, we do not claim that the model is suitable for all industries. For example, the
+model is not intended for industries for which r<g .
+3220
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 17 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3221 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 1
+Data ﬁltering rules and total observations
+In-sample, 3-year horizon Out-of-sample, 3-year horizon
+Data # 4-digit # IPO # rival Firm-quarter # 4-digit # IPO # rival Firm-quarter
+requirement SIC codes events ﬁrms observations SIC codes events ﬁrms observations
+Initial sample of IPO
+events in
+SDC/Compustat
+402 4,519 119,933 1,217,561 400 4,243 85,395 871,627
+Remove ﬁnancials and
+utilities
+362 3,999 109,282 1,107,391 362 3,758 77,522 789,331
+Require
+>50 rivals 361 3,065 38,549 401,481 361 2,896 29,103 303,416
+Model convergence 217 741 12,282 128,859 216 730 9,240 96,237
+Trim at 1st and 99th
+percentile parameter
+estimates
+211 692 7,820 93,018 208 670 6,464 73,433
+Remove unreasonable
+proﬁtability change
+estimates
+211 692 7,820 91,351 208 670 6,460 65,160
+Remove unreasonable
+value change estimates
+211 687 5,535 62,497 206 664 5,204 46,148
+In-sample, 5-year horizon Out-of-sample, 5-year horizon
+Initial sample of IPO
+events in
+SDC/Compustat
+402 4,519 120,619 1,829,046 387 4,102 69,252 1,124,478
+Remove ﬁnancials and
+utilities
+362 3,999 109,918 1,661,385 349 3,637 62,964 1,016,012
+Require
+>50 rivals 361 3,065 37,737 612,853 348 3,106 24,497 408,809
+Model convergence 227 855 14,232 227,583 225 828 9,102 151,635
+Trim at 1st and 99th
+percentile parameter
+estimates
+215 801 9,053 169,409 209 761 6,411 117,330
+Remove unreasonable
+proﬁtability change
+estimates
+215 801 9,048 165,008 209 761 6,407 107,725
+Remove unreasonable
+value change estimates
+215 796 6,873 118,499 209 757 5,620 83,916
+3221
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 18 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3222 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+and a 40% increase in proﬁt per unit market share ( αi ) following an IPO. 19
+There are some IPO events for which estimated parameters are not reasonable
+(e.g., the maximum estimate fork for the 3-year estimation horizon is 305,260);
+however, most are quite plausible.
+While industry proﬁtability tends to decrease following IPOs, the industries
+are still growing. The median estimated quarterly real industry growth rate is
+near 0.6% per quarter under all speciﬁcations. This quarterly growth parameter
+varies within a reasonable range (e.g., based on the estimates using data for
+the 5-year window, we obtain estimates with an interquartile range of -1.0% to
+2.1%).
+The estimates for consumer responsiveness in the years surrounding IPO
+events are particularly informative. We ﬁnd a striking decline in consumer
+loyalty at the time of the IPO. The median consumer responsiveness parameter
+pre-IPO (still using the 5-year estimation horizon as an example) of 0.040
+implies that, for the median industry, it would take a competitor about 17
+quarters to lose half of its customers if it completely stopped spending to attract
+them. For expositional purposes, call this the market share half-life.
+20 The
+pre-IPO half-life of 17 quarters is more than 50% slower than in the broad
+industry sample in Spiegel and Tookes (2013a). Post-IPO, the values in the two
+studies look much more similar. Table 2 shows a median post-IPO φ of 0.129,
+which implies a market share half-life following the IPO of only 5.3 quarters.
+Economically, this seems to imply that industries with impending IPOs contain
+ﬁrms producing products that consumers view as relatively unique, at least
+when compared with the typical industry in the overall economy. Post-IPO,
+the industry transitions to a state in which consumers become less loyal to a
+particular ﬁrm’s product and about as willing to substitute as elsewhere in the
+economy. These insights would be impossible to glean in the absence of the
+dynamic IPO model.
+To sharpen the economic interpretation of the changes in proﬁts per unit of
+market share ( k) and consumer responsiveness ( φ
+0 versus φ), we can use the
+full set of estimated model parameters to obtain the projected long-run model-
+implied change in market value for the industry post-IPO. Table 2 shows the
+distributions of the parameters k,φ,ψ, and g. The ﬁnal input to the ﬁrm value
+function is δ, the cost of capital minus the growth rate. We follow Spiegel and
+Tookes (2013a) and deﬁne δas the long-run (1926 through period t) historical
+market risk premium plus the risk-free rate minus the long-run GDP growth
+rate. This value is identical for all ﬁrms for a given time period.
+21 Table 2, panel
+B, then uses these values to calculate the long-run change in rival ﬁrm value
+19 Later in the paper, we use this cross-sectional variation to help us understand the relative importance of various
+explanations for the decline in rivals’ post-IPO performance.
+20 The market share half-life is deﬁned as log(2)/ φ.
+21 We make this simpliﬁcation to reduce the noise in the industry-level cost of capital and growth estimates. We
+also do not include the .5σ2 term, as doing so should not affect the cross-sectional tests.
+3222
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 19 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3223 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 2
+Summary statistics
+Estimated parameter values
+V ariable Mean 5th pctl 10th pctl 25th pctl Med. 75th pctl 90th pctl 95th pctl Min Max SD N
+3-year estimation horizon
+ψ 0.674 0.065 0 .101 0 .187 0.387 0.882 1.561 2.169 0.000 9.021 0.806 741
+k 1,115 0.223 0 .361 0 .646 0.893 1.359 1.977 3.007 0.000 305,260 14,754 741
+g 0.006 − 0.042 − 0.028 − 0.010 0.006 0.022 0.041 0.053 − 0.152 0.243 0.033 741
+φ0 0.132 0.005 0 .012 0 .031 0.063 0.121 0.264 0.417 0.000 3.137 0.270 741
+φ 0.451 0.017 0 .038 0 .116 0.256 0.531 1.050 1.710 0.000 4.775 0.594 741
+5-year estimation horizon
+ψ 0.591 0.049 0 .075 0 .142 0.304 0.745 1.419 1.932 0.000 11.208 0.866 855
+k 264 0.137 0 .274 0 .543 0.818 1.401 2.103 3.304 0.000 129,194 4,770 855
+g 0.008 − 0.035 − 0.024 − 0.010 0.006 0.021 0.039 0.053 − 0.118 0.483 0.034 855
+φ0 0.102 0.002 0 .006 0 .017 0.040 0.085 0.181 0.317 0.000 3.797 0.285 855
+φ 0.263 0.014 0 .025 0 .061 0.129 0.273 0.592 1.044 0.000 4.327 0.410 855
+Notes: The model is estimated separately for each IPO event. Estimates for ψ , k, and g are from the proﬁtability equation, given by Equation (4). Consumer responsiveness φ is estimated via
+equation (19) from Spiegel and Tookes (2013a). Estimates for pre- and post-IPO are labeled φ0 and φ, respectively. IPO ﬁrm rivals are deﬁned as those ﬁrms in the same Compustat 4-digit SIC
+code as the IPO ﬁrm. We use quarterly Compustat revenue and costs of goods sold data from the IPO quartert− 12 through the beginning of quarters 12 and 20 following the IPO (3- and 5-year
+post-IPO estimation horizons, respectively). IPO events are taken from SDC from January 1, 1983 through December 31, 2012, in industries with fewer t han ﬁfty publicly traded competitors.
+3223
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 20 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3224 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+via a three-step process. First, plug the estimated parameters into Equations
+(8), (12), and (13), with t set to zero and inﬁnity to obtain the model-implied
+pre- and post-IPO rival ﬁrm values, respectively. Second, calculate the ratio of
+the post- to pre-IPO industry market values. To reduce noise, ﬁrms that have
+an estimated value change in excess of a factor of 100 are dropped (post/pre of
+less than 0.01 or greater than 100). Third, for each IPO event, calculate rival
+ﬁrm median, value weighted mean, and equally weighted mean ratios.
+As Equation (11) shows, ﬁrms will optimally respond to industry
+developments by changing their spending patterns. Thus, the equilibrium
+impact of k< 1 on ﬁrm value is smaller than it would be absent a strategic
+response. Based on the parameter estimates, post IPO the model forecasts
+the median ﬁrm in the median industry to lose just under 3% in value using
+3- or 5-year horizon estimates with any of the ﬁlter rules. These magnitudes are
+smaller than, but broadly in line with HRR, who report average event period
+rival cumulative abnormal returns (CARs) during days -10 to +1 relative to the
+IPO date of negative 68 basis points and a CAR of negative 187 basis points
+during days -10 to +20.
+22 This may seem surprising because the estimated value
+of k is between 0.8 and 0.9 (i.e., a proﬁtability decline of 1,000 to 2,000 basis
+points) for the median IPO in Table 2. Competition for market share reconciles
+the seeming contradiction. Before the IPO, suppose one unit of market share
+(a customer) is worth $10. Firms will react by spending up to $10 in customer
+acquisition activities to draw in additional units of market share. After the IPO,
+the same unit of market share sees its value reduced to $8.50. Firms react by
+reducing their customer acquisition spending accordingly. The overall impact
+on proﬁts is just the degree to which the value of k alters what amounts to a
+ﬁrm’s local monopoly over the consumers that prefer its product.
+That the empirical model fails to converge for a number of industries naturally
+raises the question of whether these industries are somehow “special.” Table 3
+compares the industry sample in which convergence did and did not take
+place. Overall, the differences tend to be economically small. For example,
+consider the IPO ﬁrm’s size (likely one of the more important variables).
+In the no convergence sample, these ﬁrms had an average market share of
+5.4%. By contrast, in the convergence sample their market share was 3.6%.
+While statistically different, the economic difference does not appear to be
+consequential to the general conclusions one might draw from the two samples.
+Other statistics, like post-IPO sales growth, are statistically indistinguishable.
+3.4 Causes and consequences of IPOs
+The hypothesis list presented in Section 2.1 makes it possible to classify
+an IPO’s causes and consequences based on a combination of estimated
+22 Although the HRR paper focuses on 134 large IPOs at the 2-digit industry level, their results are useful as a
+benchmark. These short-run results are broadly consistent with the median value changes that we ﬁnd. HRR
+credit this change to the competitive advantages the IPO ﬁrm sees from going public. The next section uses the
+model’s forecast errors to understand why rival ﬁrm values are changing at all.
+3224
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 21 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3225 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 3
+Industry comparison: Convergence versus no convergence
+3-year estimation horizon
+Difference t-stat p-value
+Converged No Y es
+Proﬁtability, t =- 1 0.169 0 .172 0 .003 0 .65 .52
+Industry size ($000), t = -1 $4,591 $3,880 − $711 (1.56) .12
+Number of ﬁrms, t =0 18.888 20 .146 1 .258∗∗ 2.20 .03
+IPO ﬁrm market share t =0 0.054 0 .036 − 0.018∗∗∗ − 3.87 .00
+3-year post-IPO ch. proﬁtability − 0.011 0 .000 0 .012∗∗∗ 2.89 .01
+5-year post-IPO ch. proﬁtability − 0.018 − 0.013 0 .005 1 .15 .25
+Sales growth (3 years post-IPO) 0.107 0 .095 − 0.013 − 0.64 .52
+Sales growth (5 years post-IPO) 0.069 0 .076 0 .007 0 .94 .35
+Number of industries 151 217
+5-year estimation horizon
+Difference t-stat p-value
+Converged No Y es
+Proﬁtability,
+t =1 0.169 0 .181 0 .012∗∗∗ 2.72 .01
+Industry size ($000), t = 0 $4,591 $4,023 $568 (1.30) .19
+Number of ﬁrms, t =0 18.888 20 .214 1 .326∗∗ 2.45 .01
+IPO ﬁrm market share t =0 0.054 0 .037 − 0.017∗∗∗ − 3.97 .00
+3-year post-IPO ch. proﬁtability − 0.011 − 0.007 0 .004 1 .21 .23
+5-year post-IPO ch. proﬁtability − 0.018 − 0.015 0 .003 0 .75 .45
+Sales growth (3 years post-IPO) 0.107 0 .098 − 0.009 − 0.50 .62
+Sales growth (5 years post-IPO) 0.070 0 .081 0 .011 1 .60 .11
+Number of industries 141 227
+Notes: This table presents average characteristics of industries in which the model does and does not converge. Proﬁtability is deﬁned as the average (across all ﬁrms in the 4-digit SIC code)
+quarterly revenues minus cost of goods sold, divided by total ﬁrm assets in quarter t− 1 relative to the IPO. Industry size is deﬁned as the sum of quarterly revenue across all ﬁrms in the
+4-digit SIC code during the quarter prior to the IPO event. Number of ﬁrms is the number of Compustat ﬁrms in the industry during the quarter of the IPO. IPO ﬁrm market share is the
+IPO ﬁrm’s quarterly sales divided by the sum of quarterly sales in the industry during the quarter of the IPO event. 3 -year post-IPO ch. proﬁtability is the industry average 3-year change in
+proﬁtability beginning in quarter t− 1 relative to the IPO event. 5-year post-IPO ch. proﬁtability is the average 5-year change in proﬁtability beginning in quarter t− 1 relative to the IPO
+event. Sales growth is the average annual growth in industry sales, beginning at quarter t− 1 relative to the IPO event and measured over 3- and 5-year horizons. ∗p<. 1; ∗∗p<. 05; ∗∗∗p<. 01.
+3225
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 22 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3226 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+model parameters and out-of-sample forecast errors for the ﬁrms in the
+affected industries. For example, under H 1, the post-IPO decline in industry
+performance arises from the IPO ﬁrm’s improved competitive advantage. To
+see when this applies, we ﬁrst identify industries in which we observe either
+a signiﬁcant decline in proﬁtability per unit market share ( k< 1) and/or an
+increase in consumer responsiveness ( φ− φ
+0 > 0). We then use the out-of-
+sample proﬁtability and value change forecast errors to test for whether the
+IPO ﬁrm is outperforming its industry. By comparison, to examine whether
+the data are more consistent with the hypothesis that an IPO is indicative of
+deteriorating industry conditions (H 2 and H 3), we also identify industries with
+k< 1 and/or φ− φ
+0 > 0. However, for the data to support these hypotheses, the
+forecast errors for the IPO ﬁrms and rivals must not be different from each
+other.
+Before discussing the results of the forecast error tests, it is useful to discuss
+their efﬁciency. We use parameter estimates from a ﬁrst-stage model to generate
+a series of predicted values that we, in turn, use to calculate forecast errors. We
+choose to estimate the ﬁrst-stage model separately for each event rather than
+conducting all of our analysis in one step using GMM, for example. GMM is
+more efﬁcient in theory but can be less feasible in our setting, given the industry-
+, event-, and ﬁrm-level heterogeneity that we aim to capture in the parameter
+estimation. Still, it is important to recognize that the forecast errors that we
+analyze contain noise from the ﬁrst-stage estimation. Given the nonlinear
+structure of the ﬁrst-stage model, this noise may have asymmetric effects on
+the distribution of predicted values. Later in the paper, we address potential
+issue in two ways. First, we examine out-of-sample forecasts to understand
+the extent to which the model ﬁts the data. Second, we examine the impact of
+potentially noisy parameter estimates by simulating a set of new parameters
+using the distributions from the point estimates that we obtain in the ﬁrst-stage
+estimation. We then run out-of-sample tests using the simulated values.
+23 Third,
+we conduct Harvey and Collier (1977) model misspeciﬁcation tests. All three of
+these checks of the data show that model-implied values indeed have predictive
+power and can be used to understand the changes occurring near IPO events.
+Section 3.8 describes these tests in detail.
+Table 4 summarizes the results of the forecast error tests. We ﬁnd strongest
+support for the hypothesis that IPOs occur when industry-wide fundamentals
+23 We thank an anonymous referee for encouraging this line of analysis.
+23 We supplement the analysis of the competitive effects of IPOs by examining the estimated coefﬁcient from a
+regression of estimated changes in proﬁtability (log(k)) on the log of the number of IPOs in the industry during
+quarter t. For the k
+<1 subsample, it is statistically insigniﬁcant (-0.093, with a t-value of -0.78 using the 3-year
+horizon and -0.036, with a t-value of -0.27 using the 5-year horizon). For the k> 1 subsample, the coefﬁcient is
+also insigniﬁcant (-0.021, with a t-value of -0.36 using the 3-year horizon and -0.33, with a t-value of -0.43 using
+the 5-year horizon). Thus, the evidence does not support the hypothesis that more IPOs cause larger declines in
+proﬁtability.
+23 More than half of IPO events (53.7%, or 398 of 741) are consistent with H 2or H 3 using a 3-year horizon. More
+than half of IPO events (52.9%, or 452 of 855) are also consistent with H 2or H 3 using a 5-year horizon.
+3226
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 23 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3227 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 4
+Categorizing an IPO’s causes and consequences
+Top ﬁndings: 3-year horizon
+Hypothesis Bottom ﬁndings: 5-year horizon Median IPO mkt. share in %
+H0 (Null): Firm-speciﬁc reasons
+for going public
+32.9% (244/741) of the events are
+consistent with H 0
+1.02
+and/or outside of the model,
+without competitive
+implications
+35.2% (301/855) of the events are
+consistent with
+H 0
+1.36
+H1: Competitive effects of
+IPOs26
+6.2% (46/741) of the events are
+consistent with H 1
+1.74
+7.8% (67/855) of the events are
+consistent with H 1
+1.43
+H2: Industry-wide shift in
+consumer loyalty for products
+48.2% (357/741) of the events are
+consistent with H 2
+1.39
+47.1% (403/855) of the events are
+consistent with H 2
+1.74
+H 3: Industry-wide shift in
+proﬁtability
+37.9% (281/741) of the events are
+consistent with H 3
+1.90
+40.6% (347/855) of the events are
+consistent with H 327
+1.62
+H4: IPOs are associated with
+improving industry conditions
+7.0% (52/741) of the events are
+consistent with H 4;
+1.36
+4.1% (35/855) of the sample of
+events are consistent with H 4
+0.95
+Notes: This table lists several mechanisms capable of explaining the main ﬁndings in the paper, along with the frequency with which we ﬁnd empirical support. To
+test each hypothesis, we deﬁne statistical signiﬁcance at the 10% level. Note that some hypotheses are not mutually exclusive. Therefore, the percen tages reported in the
+ﬁndings column do not necessarily add to 100%. k is the post-IPO change in industry proﬁtability per unit market share, where k= 1 indicates no change. “Median IPO
+mkt. share in %” is the average (median) IPO ﬁrm’s market share at the time the ﬁrm goes public for industries with parameter estimates ﬁtting a particul ar hypothesis.
+3227
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 24 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3228 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+are in decline (i.e., the “canary hypotheses,” H 2 and H 3). Using the estimates
+from the 5-year estimation horizon as an example, 52.9% of the observations
+are consistent with deteriorating industry conditions and no overperformance
+(i.e., positive forecast errors) of IPO ﬁrms or their industry rivals. While far
+less common, there is also some evidence of competitive effects of IPOs. We
+ﬁnd evidence consistent with the idea that rival ﬁrms suffer due to a stronger
+IPO ﬁrm in 7.8% of all events. However, not all events are followed by clear
+declines in industry fundamentals. Contrary to what H 1t o H 3 predict, in 4.1%
+of IPO events, we ﬁnd evidence of improving, rather than deteriorating, industry
+conditions. In another 35.2% of the events, we ﬁnd evidence consistent with
+the null hypothesis H 0, in which changes are occurring for reasons outside of
+the model. Most of these are cases in which industry conditions are changing
+in ambiguous ways (e.g., k signiﬁcantly greater than 1, but φ− φ
+0 signiﬁcantly
+less than zero).24
+The last column in Table 4, which shows the median IPO ﬁrm market share
+for all events that are consistent with a given hypothesis, reveals a couple of
+interesting patterns that may offer additional insights into the question of what
+triggers the IPO in the ﬁrst place. HRR restricted their sample to the largest
+ﬁrm in a 2-digit SIC code to go public in a 12-year window (6 prior and 6
+after). As a result, the IPO ﬁrms in their sample are much larger than most
+of their competitors. HRR’s table II reports that the average IPO ﬁrm has a
+market capitalization that is 70% larger than the industry average. However,
+as the IPO market share column in our Table 4 indicates, IPO ﬁrm market
+shares are not particularly large in industries where the parameter estimates
+support the hypothesis advanced in HRR that rivals suffer from the increased
+strength of new public ﬁrms (H 1). In fact, the median market shares are similar
+to the market shares of IPO ﬁrms in cases where we observe industry-wide
+shifts (H 2 and H 3). If a ﬁrm has remained private until it is particularly large,
+the question arises as to what actually sparks the decision to go public. The
+estimates in Table 4 indicate that, for such ﬁrms, it is typically a change in
+the overall industry that pushes the decision, rather than the expectation that,
+by becoming public, the ﬁrm’s competitive position will become substantially
+stronger.
+25
+24 We do not have enough information to run forecast error tests for many events, which are required for consistency
+with some of the hypotheses listed in Section 2.1 (e.g., H 2 requires positive forecast errors for the IPO ﬁrm).
+The missing data are due to ﬁltering implausible estimates, as described in Table 1 and in Appendix Section A.4.
+To ensure that the percentage frequencies in Table 4 are not due to forecast error data availability, we repeat the
+analysis, but, for an event to be included in the sample, we require data on forecast error correlations between
+the IPO ﬁrms and their rivals. Results are in the Online Appendix Table A.3 and are qualitatively similar to those
+in Table 4.
+25 In interpreting the results in Table 4, one might be concerned that the power of the forecast error test is insufﬁcient
+to detect a true difference in IPO ﬁrm performance. To examine this potential issue, we performed tests using
+both in- and out-of-sample data for all ﬁrms in the industry, in which we estimated panel regressions of actual
+ﬁrm performance on model-implied performance, plus an IPO ﬁrm dummy. The IPO ﬁrm dummy is never
+signiﬁcantly positive (i.e., no overperformance). We then repeated the analyses but replaced actual IPO ﬁrm
+3228
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 25 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3229 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 5
+Causes and consequences of IPOs: Bayesian updating exercise
+3-year horizon 5-year horizon
+95% HPD 95% HPD
+Hypothesis Mean SD interval Mean SD interval
+H 0: Outside of the 0.3289 0.0177 0.2945 0.3630 0.3513 0.0156 0.3203 0.3817
+model
+H 1: Stronger IPO ﬁrm 0.0625 0.0088 0.0448 0.0794 0.0788 0.0090 0.0611 0.0954
+H 2/H 3: Deteriorating 0.5379 0.0194 0.4996 0.5730 0.5285 0.0166 0.4960 0.5630
+industry conditions
+H 4: Improving 0.0707 0.0093 0.0539 0.0903 0.0415 0.0066 0.0292 0.0543
+industry conditions
+Notes: This table presents results from a Bayesian analysis of the data in Table 4. Under H 0, the industry
+changes that we observe following the IPO occur for reasons outside of the model . Under H 1, the changes
+occur because the IPO ﬁrm is a stronger competitor. Under H 2 and H 3, which are considered together, the
+changes occur because of deteriorating fundamentals at the industry level (i.e., declining proﬁtability, increasing
+consumer responsiveness or both). Under
+H 4, industry fundamentals are improving. We set equal priors for the
+four (mutually exclusive) outcomes. We then use data from Table 4 to calculate posterior distributions. The table
+shows the posteriors after 1,000 simulations. The HPD is the highest posterior density interval.
+The ﬁndings in Table 4 show that more events ﬁt the “industry trend”
+explanation than the other alternatives. We can use Bayesian analysis to provide
+more formal interpretation of the data. In particular, we can ask how a Bayesian
+would update her prior, given the data in Table 4. We set equal priors for
+four mutually exclusive explanations for the industry changes that we observe
+following IPOs, as discussed in Section 2.1. This analysis combinesH 2 andH 3,
+both of which imply that changes occur because of deteriorating fundamentals
+at the industry level although from potentially different sources (i.e., declining
+proﬁtability, increasing consumer responsiveness, or both). We then use data
+from Table 4 to calculate posterior distributions. Table 5 shows the posteriors
+after 1,000 simulations.
+26 The 95% highest posterior density interval for the
+deteriorating industry conditions hypothesis ranges from 0.49 to 0.57. The
+posteriors for the other explanations are all considerably smaller.
+27 The ﬁndings
+in Tables 4 and 5 provide strongest support for the “canary” hypothesis, but it
+is also important to emphasize a Bayesian would likely assign a weight in the
+range of .044 to .095 to the “competitive IPO” hypothesis.
+performance values with ones that were 1%, 2%, and 3% greater than their true values (i.e., we generated false
+overperformance). We then estimated 12 sets of regressions: in-and-out of sample tests for the 3- and 5-year
+horizons using 1%, 2%, and 3% overperformance levels. For proﬁtability, overperformance was detected in all
+12 cases. For value change, we rejected the null in ten cases: all six of the out-of-sample tests and four of the six
+in-sample tests (i.e., in all but the 1% overperformance case). Thus, the evidence that IPO ﬁrms do not outperform
+rivals is not likely to be due to low statistical power in the tests.
+26 We use the SAS MCMC procedure to obtain posterior distributions. We thank Feng Chen of SAS for statistical
+support.
+27 Alternatively, we could take a frequentist approach and ask what the results in Table 4 would look like if we
+vary the signiﬁcance thresholds used to deﬁne statistical signiﬁcance. In Online Appendix Table A.2, we report
+results using 5% and 1% thresholds.
+3229
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 26 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3230 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+3.5 Panel regressions
+Another way to clarify the overall interpretation of the estimated parameter
+sets is to ask how the changes in the industry relate to the timing of a ﬁrm’s
+IPO. As noted earlier, this paper ﬁnds that consumer responsiveness φ tends to
+increase following going-public events. We hypothesize that reduced consumer
+loyalty can encourage ﬁrms to go public by reducing the value of maintaining
+competitive secrecy via private ﬁnancing ( H 2). One potential implication of
+this is that an increase in the willingness of consumers to switch products should
+lead ﬁrms to go public earlier (i.e., when their market shares are smaller), when
+the anticipated value of φ is larger.
+28
+To test whether an increased willingness of consumers to switch products
+encourages smaller ﬁrms to go public, we run a panel regression with the IPO
+ﬁrm’s market share at issuance as the dependent variable. The independent
+variable of interest is the change in consumer responsiveness, φ− φ
+0. The pre-
+IPO consumer responsiveness variable φ0 is estimated with data from the 12
+calendar quarters prior to the IPO. As shown in Figure 1, the post-IPO value
+of φ is then estimated with data from the 12- and 20 quarters beginning at IPO
+quarter t= 0, depending on whether the tests are based on 3 or 5year horizons,
+respectively. While we hypothesize that an increase in consumer willingness to
+switch products is associated with smaller ﬁrms going public, other variables
+may be at work to produce the observed pattern. The obvious alternatives are
+those used in other studies of rivals’ post-IPO performance. In particular, we
+control for variables used by HRR and CL in the analysis of IPO ﬁrm market
+share.
+29 To simplify the subsequent exposition, Table 6 deﬁnes all variables.
+Table 7 presents results from regressing the t= 0 market share of the IPO
+ﬁrms on φ− φ0, 4-digit SIC code ﬁxed effects, industry sales growth over the
+previous year, industry size, and control variables from HRR and CL. Given
+the 4-digit SIC code ﬁxed effects, the coefﬁcient on φ− φ
+0 captures, within
+industry, the impact of larger changes in consumer responsiveness on the size
+of the IPO ﬁrm at issue. Five of the six estimated coefﬁcients onφ− φ
+0 in Table 7
+are negative and, when the 3-year estimation horizon is used, all are negative
+and both statistically and economically signiﬁcant. For example, consider the
+estimated coefﬁcient of -0.0099 from the ﬁrst column of Table 7. In the median
+industry, the change in φ is -0.168 post-IPO. Multiplying these two values
+together implies that, following the i
+th IPO, if the industry sees the median
+change in φ, then IPO ﬁrm i+ 1 will go public with a market share that is about
+17 basis points smaller than the share at which theith ﬁrm did. This is substantial
+considering the sample average at-issuance market share is 116 basis points. The
+28 We formalize this intuition in the Online Appendix, in which we endogenize the IPO decision. We ﬁnd that
+product homogenization (higher φ) leads to lower proﬁts and simultaneously reduces the optimal size at which
+a ﬁrm should go public.
+29 Following CL, we only include industries where the CSM estimates are negative. This makes the sample size
+smaller for the sample in which we include the CL variables.
+3230
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 27 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3231 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 6
+Variable deﬁnitions
+Variable Deﬁnitions and estimation procedures
+Model parameters
+/Delta1value Deﬁned as the log of the value in quarter t, divided by the value in
+period t− 1. Model-implied values are given by the
+slow-transition model value functions in Equations (12) and (13)
+/Delta1proﬁt Proﬁt changes are deﬁned as proﬁt in period t minus proﬁt in period
+t − 1, divided by the t= 0 value of assets. Model-implied
+proﬁtability is based on the proﬁtability equation given in
+Equation (9) and estimates for
+ψ , k, g, αi, and fi derive from it
+lag_dependent_var One-quarter lag of /Delta1value or /Delta1proﬁt
+φ Consumer responsiveness is estimated from Spiegel and Tookes
+(2013a equation (19)). Estimates for pre- and post-IPO are
+labeled
+φ0 and φ, respectively
+δ The discount rate net of growth variable δis deﬁned as the long-run
+(1926 through period t) historical market risk premium plus the
+risk-free rate minus the long-run GDP growth rate. Market-wide
+δt is identical for all ﬁrms
+HRR variables
+log_at Natural log of total assets
+ind_mb Median industry market-to-book ratio in the previous year
+underprice The annual level of underpricing in a given year
+t
+age Natural log of the number of years since the ﬁrm’s ﬁrst trading day
+in CRSP
+ipo dummy Dummy equal to 1 if the quarter occurs in the IPO year or in years 1,
+2, or 3 following the IPO
+CL variables
+CSM Estimated using 20 rolling quarters of historical data ﬁrm-by-ﬁrm. It
+is deﬁned as
+CSMi =corr
+[/Delta1πi
+/Delta1Si ,/Delta1S−i
+]
+, where /Delta1Si equals the
+change in ﬁrm i’s sales and /Delta1S−i equals the change in the sales
+of its rivals. Industry CSM is deﬁned as the median of the
+ﬁrm-by-ﬁrm estimates
+d_uncertain Standard deviation of seasonally adjusted sales growth. Calculated
+using 20 rolling quarters of historical data. Following Chod and
+Lyandres (2011), we focus only on the subsample of industries
+with negative CSM
+s_uncertain Systematic component of demand uncertainty, deﬁned as the ratio of
+the variance of the predicted values from a regression of
+seasonally adjusted industry sales growth on the seasonally
+adjusted sales growth of all Compustat ﬁrms
+Notes: Model parameters are estimated using data from all public ﬁrms with the same 4-digit SIC code as an
+IPO ﬁrm. Revenue and cost of goods sold come from quarterly Compustat data from the IPO quarter t to the
+beginning of quarters t+ 12 and t+ 20 (3- and 5-year post-IPO estimation horizons, respectively).
+weaker results for the 5-year horizon line up with the intuition that changes in
+consumer demand are easier for ﬁrms to forecast over shorter periods. Overall,
+the evidence in Table 7 sharpens the paper’s general conclusion: IPO ﬁrms tend
+to go public in response to impending commoditization in the product market.
+The ﬁndings presented so far do not rule out the possibility that the IPO
+ﬁrm chooses to go public at the expense of the entire industry in order to avoid
+larger losses than it would incur if it remained private. This is a variant of H 1
+that may be misclassiﬁed as falling under H 2o r H 3. We can use what we
+know about the strategic alternatives available to incumbents to help clarify
+3231
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 28 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3232 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+Table 7
+IPO ﬁrm size at issuance and change in consumer responsiveness
+Estimate t-value Estimate t-value Estimate t-value
+Intercept 0.0000 0 .00 0 .0000 0 .00 0 .0000 0 .00
+φ− φ0 − 0.0099∗∗∗ − 3.48 − 0.0101∗∗∗ − 3.55 − 0.0134∗∗ − 2.47
+g 0.0693 1 .05 0 .0592 0 .85 − 0.0045 − 0.05
+ind_size − 0.0126 − 7.32∗∗∗ − 0.0125∗∗∗ − 7.12 − 0.0162∗∗∗ − 3.88
+ind_mb 0.0028 0 .92 0 .0006 0 .09
+underprice − 0.0139 − 1.31 0 .0167 0 .68
+CSM 0.0810 1 .17
+d_uncertain − 0.0241 − 0.69
+s_uncertain 0.0150 0 .68
+N 741 741 363
+Adj. R-squared 6.061% 6 .271% 7 .641%
+Estimate t-value Estimate t-value Estimate t-value
+Intercept 0.0000 0 .00 − 0.0000 − 0.00 0 .0000 − 0.00
+φ - φ0 − 0.0016 − 0.36 − 0.0017 − 0.36 0 .0008 0 .16
+g 0.0575 1 .49 0 .0467 1 .14 0 .0575 1 .24
+ind_size − 0.0058∗∗∗ − 2.85 − 0.0057∗∗ − 2.07 − 0.0085∗∗∗ − 2.88
+ind_mb 0.0037∗ 1.78 0 .0063∗∗∗ 3.07
+underprice − 0.0145 − 0.89 0 .0218 1 .03
+CSM 0.0000 0 .00
+d_uncertain − 0.0090 − 0.31
+s_uncertain 0.0318 1 .53
+N 855 855 425
+Adj. R-squared 1.011% 1 .386% 2 .639%
+Notes: This table shows results from regressing the IPO ﬁrm’s market share on the change in consumer
+responsiveness (φ− φ0) and industry ﬁxed effects, industry growth, and control variables based on HRR and
+CL. See Table 6 for variable deﬁnitions. The variable labeled φ− φ0is deﬁned as the difference between φ
+estimated using data from the 12 and 20 quarters following the IPO event (3- and 5-year horizons, respectively)
+andφ0, estimated using data from the 12 calendar quarters preceding the IPO. Allt-statistics are based on standard
+errors clustered by year. Four-digit SIC code ﬁxed effects are estimated, but not reported. ∗p<. 1; ∗∗p<. 05;
+∗∗∗p<. 01.
+the interpretation. Suppose that, absent the IPO, the whole industry would not
+see its value drop. But if the ﬁrm contemplating the IPO remains private, its
+value will decline by X%. The IPO, however, will cause it and its industry all
+to decline by Y%. Assuming Y < X, then our tests would indicate the IPO ﬁrm
+does not outperform the industry as a whole, yet it would have an incentive to
+trigger the industry’s decline in order to maximize its own value. In theory, this
+could be the case but it raises the question of why larger rivals do not simply
+purchase more of their private competitors before they go public.
+Table 8 shows that IPO ﬁrms are very small relative to their largest rivals.
+While there is a robust market for acquiring private ﬁrms, Table 8 suggests
+that if the IPO ﬁrm is the cause of an industry’s subsequent decline, we should
+see much more of this type of activity. The median value of the largest ﬁrm
+across industries in our sample is more than 20 times the size of the IPO ﬁrm.
+Restricting attention to just those industries where post-IPO proﬁts decline
+(those where purchasing the target would prevent the value losses, under the
+hypothesis that IPOs cause the industry to change,) results in similar ratios. HRR
+report in their Figure 1 an average long-run post-IPO value decline per industry
+of just under 2%. A 20-to-1 size difference means that the largest company in an
+3232
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 29 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3233 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 8
+Market value ratio per industry: Largest ﬁrm to IPO ﬁrm
+Group (3-year horizon) 10th pctl 25th pctl Median 75th pctl 90th pctl
+All industries 2.69 6.60 22.29 71.29 242.14
+Proﬁtability declines post-IPO 3.25 7.55 24.79 86.51 298.14
+Group (5-year horizon) 10th pctl 25th pctl Median 75th pctl 90th pctl
+All industries 2.69 7.02 21.84 69.29 224.45
+Proﬁtability declines post-IPO 3.26 8.15 23.69 78.45 258.75
+Notes: This table shows the distribution of the ratio of the enterprise value of the largest ﬁrm in an industry to
+that of the IPO ﬁrm. All IPO industries are included in the tabulation. The row labeled “Proﬁtability Declines
+Post-IPO” refers to those industries in which aggregate proﬁtability declines after the IPO is conducted.
+industry can purchase the still-private ﬁrm, lose almost 40% on the transaction,
+and remain better off. At the 75th percentile of this size ratio, the largest ﬁrm is
+70 times bigger than the IPO ﬁrm. In this case, the larger company can purchase
+and shut down the nascent IPO ﬁrm and retain value relative to letting the IPO
+trigger a decline in industry value. Now, consider again the argument that IPOs
+trigger declines in industry value and are conducted because the IPO ﬁrm would
+otherwise be even worse off if it remained private. If true, then one now has to
+ask why many more of the observed IPOs in the data were not short-circuited
+by vastly larger rivals through acquisitions of ﬁrms prior to their going public.
+3.6 Model veriﬁcation and comparison with prior models
+Given our reliance on model estimation errors to infer causality, it is useful to ask
+how well the model ﬁts the post-IPO performance data. Does it produce results
+superior to those of models that employ simple linear structures to explain
+rivals’ post-IPO performance? The HRR, CH, and CL models all analyze post-
+IPO data of rival ﬁrms using regressions unrestricted by a model. The next
+sections reveal that the forecasts of this paper’s structural model are superior
+in a number of dimensions to the independent variables that other papers use.
+3.7 Out-of-sample tests
+Dynamic structural models have the potential to advance beyond the limits of
+static models by, in part, offering a way to predict future events. To see how the
+model in this paper performs in real time, we conduct a set of out-of-sample
+tests. In them, a periodt+ 1 forecast is made solely on the basis of data available
+as of period t. These tests also allow one to check for model misspeciﬁcation.
+A misspeciﬁed model may produce in-sample parameter estimates, which may
+even be “statistically signiﬁcant.” However, out-of-sample, it will perform
+poorly if model itself does not represent the true process under consideration. In
+what follows, the tests compare how well the model estimated here does against
+both an autoregressive model and forecasts based on variables that others have
+used in the literature linking IPOs to an industry’s subsequent performance. As
+will be seen, the dynamic model in this paper does quite well at explaining the
+out-of-sample evolution of the data.
+3233
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 30 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3234 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+A true forecast uses only data available to investors at time t to make a
+projection about some value as of time t +1 or further into the future. In
+a dynamic model, this is a straightforward exercise. Table 9 begins with
+the model-implied value and proﬁtability changes based on rolling out-of-
+sample parameters and market shares estimated with data through period t − 1.
+The period-ahead market share forecasts are generated from regressions of
+market share changes on: model-implied changes in market shares (based on
+Spiegel and Tookes 2013a, equation (19)); 1-quarter lagged changes in market
+share; and 1-quarter lagged market share levels (using data through t − 1). The
+out-of-sample tests begin at 12 and 20 quarters following the IPO (3- and 5-
+year horizons, respectively). From Table 9, the model-implied forecasts are
+clearly signiﬁcant in all of the univariate regressions, particularly at the 3-year
+estimation horizon. At the 5-year horizon (which examines data from 5 years
+to 10 years post-IPO), the coefﬁcients are still signiﬁcant, but only at the 10%
+level. This might be expected; as other developments are likely to affect the
+industry by year 10 following an IPO.
+In Table 9, we also ask how well the dynamic model performs compared to
+the other variables in the literature. Relative to a dynamic model, constructing
+a set of forecasts for a static model is challenging. A static model by design
+combines the current period’s parameter and explanatory variables to produce
+an expected value of the current period’s dependent variable. To work around
+this problem, we take the following approach. For every period t, we use data
+through period t− 1 to estimate regressions of proﬁtability and value (levels)
+on the variables from HRR. We then interpret the period t− 1 residual as the
+predicted change in value from period t− 1 to period t. The basic idea is that if
+the HRR variables imply that actual proﬁtability in period t− 1 is higher than
+predicted, we should expect proﬁtability to decrease in the next period (i.e., the
+HRR residuals are expected to have a negative sign in period-ahead predictive
+regressions). We construct similar predictions based on the measures proposed
+by CL. The right-hand-side columns of Table 9 present the results. In the case of
+value changes (panel A), the model-implied changes are the only statistically
+signiﬁcant predictor. In the case of proﬁtability, the model-implied changes
+as well as the changes implied by the HRR and CL variables are statistically
+signiﬁcant, with the expected signs. These out-of-sample tests support our use
+of the forecast errors to shed light on the forces driving rivals’ performance
+post-IPO.
+A second potential concern with the two-step nonlinear estimation approach
+that we use is that the noise in the ﬁrst-stage estimation can affect inference. To
+examine this possibility, we use the point estimates and the variance-covariance
+matrix of the estimates obtained in Table 2 to simulate new parameters that we
+can use to predict performance. We conduct 100 simulations and then run the
+same out-of-sample tests shown in Table 9 using the simulated data. Table 10
+shows the distribution of the coefﬁcients on model-implied changes parameter
+estimates (as well as the HRR and CL variables). There are three important
+3234
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 31 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3235 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 9
+Does the model have predictive power? Out-of-sample tests
+Est. horizon 3-year 5-year 3-year 5-year 3-year 5-year
+Est. t-val. Est. t-val. Est. t-val. Est. t-val. Est. t-val. Est. t-val.
+A. Dependent variable = /Delta1value
+Intercept 0.0048 0.53 0.008 0.92 0.0000 0 .00 0 .0000 0 .00 0 .000 0 .00 0 .0000 0 .00
+model_/Delta1 0.0258∗∗∗ 3.61 0.014∗ 1.67 0.0160∗ 1.83 0 .0319∗∗∗ 4.05 0 .026∗∗∗ 3.80 0 .0409∗∗∗ 4.39
+HRR − 0.0117 − 0.95 − 0.0117 − 0.31 − 0.014 − 0.43 − 0.0174 − 0.47
+CL − 0.025 − 0.95 − 0.0137 − 0.83
+N 46,148 83,916 45,933 80,298 24,470 44,119
+Adj. R-squared 0.096% 0 .030% 0 .150% 0 .103% 0 .260% 0 .204%
+B. Dependent variable = /Delta1proﬁt
+Intercept 0.0051∗∗ 2.34 0.0062∗∗∗ 2.61 0.0057∗∗ 1.97 0 .0036∗∗ 1.60 0 .0000 0 .00 0 .0000 0 .00
+model_/Delta1 0.0879∗∗∗ 4.83 0.0656∗∗∗ 3.90 0.0844∗∗∗ 4.77 0 .1029∗∗∗ 5.41 0 .0777∗∗∗ 3.48 0 .0973∗∗∗ 3.93
+HRR − 0.060∗∗∗ − 3.05 − 0.0560∗∗∗ − 2.40 − 0.0094 − 0.34 − 0.0353 − 1.24
+CL − 0.0435∗ − 1.90 − 0.0203∗ − 0.83
+N 65,160 107,725 64,147 102,273 34,861 56,669
+Adj. R-squared 0.597% 0 .292% 0 .957% 0 .808% 0 .822% 0 .674%
+Results are from period-ahead predictive regressions of quarterly changes in rival ﬁrm value ( /Delta1value) and proﬁtability ( /Delta1proﬁt) on model-implied changes ( model_/Delta1), as well as
+the predicted changes based on the explanatory variables from Hsu, Reed, and Rocholl (2010) and Chod and Lyandres (2011). The predictive regressions are estimated using out-
+of-sample data from quarters 20 to 40 (5-year horizon) and from quarters 12 to 24 (3-year horizon). The period-ahead market shares used in the estimati on are forecast from
+regressions of market share changes on model-implied changes in market shares, 1-quarter-lagged changes in market share, and 1-quarter-lagged mar ket share levels. HRR and
+CL represent residuals from regressions using the HRR and CL variables as deﬁned in Table 6. We use data through period t− 1 to estimate regressions of proﬁtability and
+value (levels) on the variables from HRR and CL. The period t− 1 residual is the predicted change in value or proﬁtability from period t− 1 to period t. All regressions are
+pooled, with standard errors clustered by IPO event and calendar quarter end date. IPO event ﬁxed effects are included in the HRR and CL regressions. Fo r consistency with
+Chod and Lyandres (2011), only industries in which CSM is negative are included in the regressions in which the CL variables are included. ∗p<. 1; ∗∗p<. 05; ∗∗∗p<. 01.
+3235
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 32 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3236 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+observations. First, for the proﬁt change regressions, the estimated coefﬁcients
+on the model-implied values are very similar to those in Table 9. Second,
+the estimated coefﬁcients on the model-implied values in the value-change
+regressions are much smaller than those in Table 9. This is not surprising,
+given that the value change estimation is highly nonlinear. Third, and ﬁnally,
+the model still has signiﬁcant predictive power, even after the noise in ﬁrst-stage
+estimation is considered.
+30
+In addition to examining the signiﬁcance of various regression coefﬁcients,
+another way to compare the candidate variables is to perform a model selection
+analysis. Table 11 uses the Schwarz-Bayesian information criterion to do this. In
+these tests, the model forecast is always ﬁrst. No other single variable performs
+as well. In fact, the test suggests excluding all the other regressors in one or
+more speciﬁcations. This is true of the lagged dependent variable as well, and
+it highlights the fact that there is little support for the alternative hypothesis
+that the value and proﬁtability changes that we observe are predictable simply
+because they follow ﬁrst-order autoregressive processes.
+Harvey and Collier (1977) tests provide another way to see whether the
+model’s estimates are driven by misspeciﬁcation errors. We conduct these tests
+on the entire Compustat database, using data from 1995 to 2015. As in the
+IPO tests, utilities and ﬁnancial ﬁrms are removed, as are industries with fewer
+than 3 and more than 50 competitors. We test for model misspeciﬁcation across
+ﬁrms in two ways. The ﬁrst tests follow the original Harvey and Collier (1977)
+paper, in which the authors perform a t-test on recursive residuals. We estimate
+the model using data to time t. We use these parameter estimates to create
+and record forecast errors for time t+1. We then repeat this procedure, using
+data up to time t+1 to create forecast errors for time t+2, and so on, through
+to the end of the period covered by the data. If there is no misspeciﬁcation,
+then setting the size of the test to, say, 5% should result in a rejection of the
+model for about 5% of all ﬁrms. Generally, we ﬁnd that the rejection rate is only
+about 2% larger than the test’s size.
+31 This is true both overall and across ﬁrm
+sizes, with the exception of the very largest companies. For ﬁrms with market
+shares over 10% in the early period, the rejection rate can be up to 8% higher
+than the test size using a 10% p-value. The second set of tests accounts for
+the fact that industry structure is likely to change over very long horizons and
+uses rolling estimates of either 3 or 5 years (similar to the tests conducted
+with the IPO data). In this case, the rejection rates tend to be somewhat
+lower.
+30 Note that the sample size in Table 9 is larger than that in Table 10. This is because all of the Table 9 analysis is
+conducted conditional on having usable parameters for Table 9. Once we run simulations, some of the simulated
+data are discarded according to the same ﬁlters that are applied to the original data.
+31 Online Appendix Table A.4 provides a detailed description of the Harvey-Collier tests and results.
+3236
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 33 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3237 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 10
+Does the model have predictive power? Out-of-sample tests using simulated data
+A. 3-year horizon
+Simulated distributions
+V alue changes Parameter Mean SD Max 90th pctl 75th pctl Median 25th pctl 10th pctl Min
+1 Intercept 0.0073 0.0007 0.0092 0.0082 0.0078 0.0073 0.0068 0.0064 0.0056
+1 model_/Delta1 0.0066 0.0027 0.0152 0.0103 0.0086 0.0064 0.0045 0.0031 0.0001
+2 Intercept 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+2 model_/Delta1 0.0079 0.0037 0.0195 0.0129 0.0105 0.0076 0.0059 0.0032 (0.0008)
+2 HRR (0.0150) 0.0074 0.0007 (0.0058) (0.0098) (0.0144) (0.0211) (0.0249) (0.0356)
+3 Intercept 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+3 model_/Delta1 0.0082 0.0047 0.0226 0.0142 0.0106 0.0082 0.0056 0.0016 (0.0017)
+3 HRR (0.0245) 0.0113 (0.0009) (0.0098) (0.0173) (0.0236) (0.0323) (0.0387) (0.0530)
+3 CL 0.0123 0.0130 0.0389 0.0282 0.0215 0.0135 0.0040 (0.0059) (0.0141)
+Proﬁt changes Parameter Mean SD Max 90th pctl 75th pctl Median 25th pctl 10th pctl Min
+1 Intercept 0.0060 0.0002 0.0063 0.0062 0.0061 0.0060 0.0059 0.0058 0.0054
+1 model_/Delta1 0.0923 0.0064 0.1119 0.1008 0.0965 0.0918 0.0891 0.0838 0.0781
+2 Intercept 0.0040 0.0002 0.0045 0.0042 0.0041 0.0040 0.0038 0.0037 0.0034
+2 model_/Delta1 0.1072 0.0082 0.1284 0.1168 0.1132 0.1081 0.1014 0.0958 0.0892
+2 HRR (0.0147) 0.0070 (0.0017) (0.0075) (0.0097) (0.0135) (0.0196) (0.0252) (0.0329)
+3 Intercept 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+3 model_/Delta1 0.1036 0.0111 0.1385 0.1168 0.1120 0.1039 0.0959 0.0906 0.0680
+3 HRR 0.0064 0.0114 0.0377 0.0198 0.0142 0.0062 (0.0010) (0.0086) (0.0189)
+3 CL (0.0330) 0.0096 (0.0137) (0.0201) (0.0253) (0.0331) (0.0408) (0.0465) (0.0528)
+(Continued)
+3237
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 34 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3238 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+Table 10
+(Continued)
+B. 5-year horizon
+Simulated distributions
+V alue changes Parameter Mean SD Max 90th pctl 75th pctl Median 25th pctl 10th pctl Min
+1 Intercept 0.0078 0.0004 0.0087 0.0084 0.0081 0.0078 0.0075 0.0071 0.0069
+1 model_/Delta1 0.0059 0.0020 0.0117 0.0082 0.0074 0.0057 0.0044 0.0034 0.0011
+2 Intercept 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+2 model_/Delta1 0.0079 0.0024 0.0144 0.0105 0.0097 0.0079 0.0065 0.0047 0.0026
+2 HRR (0.0333) 0.0040 (0.0231) (0.0284) (0.0304) (0.0334) (0.0359) (0.0385) (0.0427)
+3 Intercept 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+3 model_/Delta1 0.0100 0.0032 0.0184 0.0139 0.0125 0.0096 0.0078 0.0063 0.0006
+3 HRR (0.0161) 0.0080 (0.0015) (0.0066) (0.0105) (0.0151) (0.0216) (0.0280) (0.0337)
+3 CL (0.0206) 0.0090 0.0012 (0.0087) (0.0143) (0.0209) (0.0273) (0.0308) (0.0411)
+Proﬁt changes Parameter Mean SD Max 90th pctl 75th pctl Median 25th pctl 10th pctl Min
+1 Intercept 0.0071 0.0001 0.0074 0.0072 0.0071 0.0071 0.0070 0.0069 0.0067
+1 model_/Delta1 0.0802 0.0054 0.0930 0.0878 0.0842 0.0797 0.0763 0.0731 0.0698
+2 Intercept 0.0057 0.0001 0.0063 0.0059 0.0058 0.0057 0.0057 0.0055 0.0053
+2 model_/Delta1 0.0946 0.0067 0.1072 0.1040 0.0996 0.0946 0.0901 0.0863 0.0779
+2 HRR (0.0311) 0.0051 (0.0187) (0.0246) (0.0273) (0.0312) (0.0345) (0.0380) (0.0425)
+3 Intercept 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+3 model_/Delta1 0.0816 0.0085 0.0990 0.0937 0.0882 0.0824 0.0744 0.0708 0.0646
+3 HRR (0.0199) 0.0069 (0.0056) (0.0116) (0.0153) (0.0195) (0.0253) (0.0295) (0.0378)
+3 CL 0.0055 0.0065 0.0194 0.0138 0.0106 0.0051 0.0015 (0.0043) (0.0087)
+Notes: This table shows the distribution of parameters from regressions that are identical to those in Table 8 except that we use simulated parameter estimat es to generate
+forecasts. The simulated values are based on the point estimates and variance-covariance matrix from the ﬁrst-stage estimation of Equations (4) and (19), as summarized
+in Table 2. We conduct 100 simulations for each forecast horizon. The values in the table show the distribution of parameter estimates from period-ahe ad predictive
+regressions of quarterly changes in rival ﬁrm value ( /Delta1value) and proﬁtability ( /Delta1proﬁt) on model-implied changes ( model_/Delta1), as well as the predicted changes based on
+the explanatory variables from Hsu, Reed, and Rocholl (2010) and Chod and Lyandres (2011). The predictive regressions are estimated using out-of-sa mple data from
+quarters 12 to 24 (3-year horizon) and 20 to 40 (5-year horizon) and from quarters. HRR and CL represent residuals from regressions using the HRR and CL variables
+as deﬁned in Table 5. In Speciﬁcation 1, model_/Delta1is the only explanatory variable. Speciﬁcations 2 and 3 add HRR and CL, respectively. ∗p<. 1; ∗∗p<. 05; ∗∗∗p<. 01.
+3238
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 35 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3239 3205–3249
+Why Does an IPO Affect Rival Firms?
+Table 11
+Explanatory variable ranks (out-of-sample model selection)
+Out-of-sample predictive regressions
+HRR and CL variables
+HRR variables (negative CSM subsample)
+Dep. var. /Delta1V /Delta1proﬁt /Delta1V /Delta1proﬁt
+Est. horizon 3-year 5-year 3-year 5-year 3-year 5-year 3-year 5-year
+model_/Delta1 1 1 1 1 1111
+HRR Exclude 2 2 2 Exclude Exclude 2 Exclude
+CL n/a n/a n/a n/a Exclude 2 Exclude 2
+Notes: This table summarizes the ranks of each of the explanatory variables using model selection based on the
+Schwartz-Bayesian information criterion. The table shows results from period-ahead predictive regressions in
+which the candidate variables are model-implied changes in ﬁrm value and proﬁtability, as well as the changes
+predicted by the variables in Hsu, Reed, and Rocholl (2010) and Chod and Lyandres (2011). These are model_
+/Delta1,
+HRR, and CL, respectively. Tables 5 and 8 deﬁne these variables. n/a indicates that the CL model is not applicable
+(i.e., when the sample includes both positive and negative CSM industries).
+4. Structural Forecasts: An Analog to Difference-in-Differences
+A dynamic structural model like the one in this paper produces forecasts that
+adjust for underlying attributes that may vary across ﬁrms and over time. The
+resultant forecasts allow tests that are analogous to a difference-in-differences
+(DD) type analysis, but can be used in settings in which traditional DD is
+difﬁcult to implement. DD can be problematic when there are few appropriate
+control ﬁrms, when the event of interest causes changes to occur gradually
+(making event windows difﬁcult to deﬁne), or when pre-event data are missing
+for some ﬁrms of interest. Beyond the analog to DD, the structural model also
+generates parameter estimates that can further reﬁne the conclusions one draws
+from the data.
+In traditional DD, an outcome variable X within a population A undergoes a
+treatment. Researchers compare the change in outcome variableX in population
+A to the change in outcome variable X within a control population B, which
+does not undergo the treatment. Assuming well-matched populations , the
+difference in the changes in X across populations A and B can reasonably
+be attributed to the treatment. DD is a powerful empirical tool; however, data
+limitations can restrict its use in some settings. For example, ﬁnding same-
+industry control ﬁrms may not be easy when there are only a handful of
+ﬁrms from which to choose. The size of the available pool naturally limits the
+number of attributes on which ﬁrms can be matched. Forced compromises then
+may yield inadequate matches that generate false positives in the empirical
+tests. This can happen when industry shifts, whether because of increasing
+competition from a new entrant or evolution in consumer tastes, affect some
+ﬁrms more intensely over time than others. A truly dynamic oligopoly model
+offers researchers a way to incorporate potentially important heterogeneity
+across ﬁrms by allowing changes in the outcome variable of interest to depend
+on both a company’s characteristics and the time elapsed. In this way, dynamic
+3239
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 36 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3240 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+models can potentially avoid false positives in cases where static models may
+not.
+To clarify the beneﬁts of estimating a dynamic model, consider the following
+analogy. Several horses are training for a series of races. A researcher develops
+a model that uses the horses’ training and last-race times to forecast how they
+will perform from race-to-race. After the model is estimated, a few new horses
+arrive, begin the training protocol, and enter the race series. In addition to
+the standard training protocol, these new horses are given a special feed that,
+in reality, is useless. Using the model based on the data from the untreated
+horses, forecasts of future performance are created for all of the horses. The
+difference between the actual race times and the forecasts are the forecast
+errors. If the feed is helpful, then the forecast error for the treated horses
+should differ from those of the other horses in the race (i.e., they should
+overperform).
+How does a dynamic model help reduce the likelihood of a false positive? In
+this example, one empirical complication might be that the new horses’ times
+improve at faster rates. A DD model would typically forecast the time in race
+n + 1 to be equal to the time in race n. A dynamic model would consider
+the time in training. Improvement over time is expected, and a reasonably
+well-estimated model should show that it occurs at a declining rate. In this
+case, the DD model would generate a false positive because the feed only
+goes to the horses that have not been in training for very long. A dynamic
+model would adjust for time in training and indicate that the feed is not
+helpful.
+5. Related Work on Intraindustry Effects
+While the IPO literature is voluminous (for surveys, see Ritter and Welch
+2002; Ljungqvist 2007), we are aware of only three other articles—HRR, CH,
+and CL—that explore empirically how a ﬁrm’s decision to go public affects
+the values of other ﬁrms in its industry. In each case, the authors document
+deteriorating rival ﬁrm performance post-IPO, and they point to a strong IPO
+ﬁrm as the likely cause. Our results indicate that, in most cases, IPOs simply
+presage changes in an industry. They do not induce them. This is consistent
+with the fact that most ﬁrms conducting an IPO are small and stay small over
+the next several years.
+Figure 2 reveals that market shares of more than 10% are relatively rare,
+comprising only 1.1% of all IPO ﬁrms using 2-digit industries and 12.2% of
+all IPO ﬁrms using 4-digit industries. At the other end of the spectrum, small
+IPO ﬁrms are rather common. In industries deﬁned at the 2-digit level, 92%
+of the ﬁrms undertaking an IPO have market shares under 1.5%. Using 4-digit
+industries, this ﬁgure naturally drops, but still comes in at 57%. Three years
+3240
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 37 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3241 3205–3249
+Why Does an IPO Affect Rival Firms?
+Figure 2
+IPO ﬁrm market share.
+Figure 2 displays the IPO ﬁrm’s Compustat market share as of its IPO date and three years following the IPO.
+Industry is deﬁned according to both 2- and 4-digit Standard Industrial Codes. Bin labels represent the upper
+bound. For example, the bars in the 0.50% bin represent ﬁrms that went public with market shares less than or
+equal to 0.50%.
+later, the IPO ﬁrms remain small or disappear altogether. 32 In the subsequent
+3 years, 94% of the IPO ﬁrms see their market shares change in absolute value
+by less than 1% using 2-digit industries. Even at the 4-digit level, more than
+60% see changes in their absolute market shares of less than 1%.
+33 Consistent
+with our forecast error tests, this suggests that a ﬁrm’s decision to go public has
+a rather modest practical impact on its competitive stance, limiting the ﬁrm’s
+direct impact on rivals.
+34
+Our paper is also related to the substantial empirical literature documenting
+intra-industry spillover effects of ﬁrm-level announcements outside of the
+IPO context, including: mergers and acquisitions (Eckbo 1983, 1992; Song
+and Walkling 2000; Fee and Thomas 2004; and Shahrur 2005); dividend
+announcements (Laux, Starks, and Y oon 1998); bankruptcies (Lang and Stulz
+1992); corporate security offerings (Szewczyk 1992); and cash policy (Fresard
+2010). As in Spiegel and Tookes (2013a), the advantage of the model in this
+paper is that it produces a testable structure for examining the mechanisms
+driving these spillover effects.
+32 Approximately one-ﬁfth of IPO ﬁrms (20.5%) in our sample disappear from the public markets. This ﬁnding is
+consistent with Bharath and Dittmar (2010), who ﬁnd that IPO ﬁrms often return to private ownership within a
+few years.
+33 Our data parallel the results in Chemmanur, He, and Nandy (2010). This rather mundane productivity performance
+for the IPO ﬁrms is also accompanied by long-run stock return underperformance (Ritter and Welch 2002).
+34 Market shares for IPO ﬁrms that we observe through year t + 3 do increase on average; however, we observe
+3,299 IPO ﬁrms at date 0 and only 2,569 by the end of year 3 following the IPO. Although some of the ﬁrms
+disappear from the sample because of M&A activity, many also disappear because of failure (i.e., market shares
+approach zero).
+3241
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 38 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3242 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+Within the corporate ﬁnance literature that employs structural models, a paper
+analogous to ours in its focus on reexamining an existing conclusion through a
+structural model is Coles, Lemmon, and Meschke (2012). The authors estimate
+a static principle-agent model to examine the hump-shaped relationship
+between Tobin’s q and managerial ownership. Prior papers interpreted this
+relationship to imply that having managers hold additional corporate shares at
+low levels improves their alignment with outside investors but that high levels
+of ownership encourage entrenchment. The authors show that their structural
+model of optimal contracting ﬁts the data well and that the hump shape does
+not arise from a misalignment of managerial holdings and shareholder interest,
+as prior authors claimed. They ﬁnd purely empirical models can lead to false
+positives that structural models can sometimes avoid.
+In addition to the IPO and intra-industry spillover literatures, this paper
+adds to the growing body of structural corporate ﬁnance research. Prominent
+examples include Hennessy and Whited (2005, 2005), Strebulaev (2007), and
+Riddick and Whited (2009), which focus on capital structure and investment
+dynamics.
+35 These papers provide tests of quantitative predictions, in addition
+to qualitative analyses (i.e., tests of dominant effects). Like these papers, ours
+is clear about the objective functions of ﬁrms and the ways in which the ﬁrms’
+choices over time affect future dynamics. Our contributions lie not only in the
+IPO application but also in the ability to characterize the value dynamics of
+entire industries.
+6. Conclusion
+Our results indicate that rival ﬁrms incur losses in the majority of IPOs, and
+that these losses are driven by industry trends. The IPO is just a portent of
+those trends. The dynamic model used here reveals that most post-IPO changes
+arise because proﬁts tend to get squeezed as consumers increasingly view
+the industry’s products as less distinct, making it easier for one ﬁrm to steal
+another’s customers. Of course, this is not true of all IPOs. In about 7% of all
+cases, the dynamic model indicates that, the newly public ﬁrm does get stronger
+post-IPO, leading to a deterioration in its rivals’ performance.
+To verify that the estimated model is producing meaningful forecasts, we
+test it out-of-sample. We ﬁnd that the model performs well and that when we
+add additional variables from the prior literature, the model remains the most
+important predictor of post-IPO changes in both proﬁtability and value.
+While it is important to document the changes in rivals’ performance
+following an IPO, traditional empirical approaches make the drivers of these
+changes difﬁcult to identify. The structural model used here offers a way to
+uncover the economic channels driving the changes in performance following
+35 See Strebulaev and Whited (2012) for a survey.
+3242
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 39 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3243 3205–3249
+Why Does an IPO Affect Rival Firms?
+an IPO. On average, the evidence suggests that all ﬁrms suffer post-IPO. The
+IPO’s trigger seems to be increased consumer competition. When consumers
+become easier to steal, private ﬁrms go public.
+Appendix
+A.1 Derivation of Equation (7)
+Write the value function as
+V (m,ζ,t) =E
+P
+⎡
+⎣
+∞∫
+0
+e− (rt −ζt )πi (t)dt
+⎤
+⎦ (A.1)
+under some probability measure P . This can be changed to an equivalent
+measure Q using the Radon-Nikodym density e
+−
+(
+1
+2 σ2t−σWt
+)
+to transform (A1)
+to
+EP
+⎡
+⎣
+∞∫
+0
+e
+−
+(
+r−g− 1
+2 σ2
+)
+t
+e
+−
+(
+1
+2 σ2t−σWt
+)
+πi (t)dt
+⎤
+⎦ =EQ
+⎡
+⎣
+∞∫
+0
+e
+−
+(
+r−g− 1
+2 σ2
+)
+t
+πi (t)dt
+⎤
+⎦.
+(A.2)
+This creates an equivalent value function without the ζ term, effectively
+changing the discount rate from r to r− .5σ2 in the HJB equation.
+A.2 Endogenizing the IPO
+Firms begin with private ﬁnancing and with market shares that are below
+their long run equilibrium values. During their lives, they face a trade-off.
+Remaining private allows them to keep competitive secrets concealed and
+reduces regulatory costs. Going public reduces capital costs, and it may
+encourage (now better-diversiﬁed) executives/owners to take on high-risk, but
+ex ante, proﬁtable projects.
+36 Within the model, it must be that the private
+ﬁnancing costs and beneﬁts in terms of α, s, and f yield a lower value relative
+to those from going public at some future point in time. A reduction in capital
+cost is equivalent to assuming that α
+ip ≤ α∗
+i and/or that sip ≤ s∗
+i , where the
+subscript p stands for the parameter’s value while the ﬁrm is private. Although
+every ﬁrm might like to become a stronger competitor via lower-cost ﬁnancing
+and lower managerial risk aversion, the ﬁxed regulatory costs of going public
+are not trivial. Assume it costs f to go public and that the instantaneous ﬁxed
+operating costs are lower if the ﬁrm is private rather than public, f
+ip ≤ f ∗
+i
+and fip ≤ fi . Offsetting these advantages to public ﬁnancing is the fact that
+private ﬁrms are better able to keep their competitive advantages secret. For
+algebraic simplicity, assume this means the industry parameters α, s, and f
+remain unchanged, while the ﬁrm is private (i.e., ψ equals 0).
+36 This is the hypothesis tested in CL.
+3243
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 40 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3244 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+While ﬁrm-speciﬁc factors may induce a ﬁrm to go public, a viable alternative
+explanation is that an industry-wide change triggers the decision. For example,
+over time ﬁrms are likely to copy each other’s successful product lines and
+production processes. Even though this increased homogenization makes it
+easier for ﬁrms to acquire each other’s customers, it simultaneously reduces the
+value of doing so. To model this mathematically, assume that a Poisson process
+with parameter λtriggers (1) the consumer mobility parameter to increase from
+φ
+λ to φ; (2) the proﬁt parameter to drop fromαλ to α∗ (i.e., αλ>α∗); and (3) the
+difference betweenα∗ and α to shrink (using subscript λto represent pre-shock
+values one has∥α∗
+λ− αλ∥<∥α∗− α∥).
+When calculating the value function for the initially private ﬁrm, there are
+several cases to consider. (1) Is the ﬁrm private or public when the industry
+becomes more homogeneous? (2) After the industry changes, if the ﬁrm is still
+private, how much time will pass until it goes public? (3) Will the ﬁrm ever
+go public prior to the change in the industry? (4) What about after the change?
+The algebra needed to cover every situation is extensive. To keep the discussion
+manageable, we only detail a situation where the ﬁrm never goes public unless
+the going-public conditions are satisﬁed. For the IPO data we analyze, this
+seems like the most relevant case. That is, the ﬁrm stays private until the right
+conditions materialize and then goes public. This rules out cases in which the
+ﬁrm never goes public and where it immediately goes public at the model’s
+start. The solutions, with some minor notational changes, also cover situations
+where the private ﬁrm never goes public and where it goes public even if the
+industry never becomes more homogenous. Empirically, these cases include
+those where an IPO is due to a ﬁrm’s desire to become a stronger competitor
+and those where industry changes are the primary catalyst.
+Solving for the case in which a ﬁrm is private unless the industry changes
+requires several steps. With the assumptions given in Section 1, the HJB
+equation has the same form as (7) with /Delta1α
+i and /Delta1fi set to zero. We ﬁrst guess
+that the value function is afﬁne in mi and of the form Vi (t)+ aip(t)+ bip(t)mi.
+Dropping the assumptions required to set ˆαi
+⌣
+si ˆz to the constant αisizfor all t
+post-IPO, the solution toai is given implicitly as the solution to the ODE, where
+at
+i =dai/dt ,
+0= −e−ψt /Delta1fi − fi −
+biφ(n− 1)
+[
+bi
+⌣s i ˆz− (n− 1)
+]
+{
+1+(n− 1)
+[
+bi
+⌣s i ˆz− (n− 1)
+]− 1}2
+−
+⎡
+⎢⎢
+⎢⎣1−
+b2
+i siφ
+n∑
+k=1
+biφ(n− 1)
+[
+bk
+⌣s k ˆz− (n− 1)
+]
+{
+1+(n− 1)
+[
+bk
+⌣s k ˆz− (n− 1)
+]− 1}2
+⎤
+⎥⎥
+⎥⎦− δa
+i +at
+i
+. (A.3)
+In this case, the terminal value sets the solution to aip and bip, equal to their
+value in (A3) and (12) at the IPO date, t∗, with an adjustment for the ﬁxed cost
+3244
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 41 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3245 3205–3249
+Why Does an IPO Affect Rival Firms?
+F of going public. Some algebra shows that the solution to bip is
+bip = αip
+φ+δ+
+[αi − αip
+φ+δ + /Delta1ai
+φ+δ+ψ
+]
+e− (φ+δ)(t∗−t). (A.4)
+Because the solution toai does not have a general closed-form solution, it is not
+possible to produce an equation like (A4) for aip without additional restrictions
+to the model. Instead, let a∗
+i equal the value of ai on the ﬁrm’s IPO date, which
+is given implicitly as the solution to (A3). For the pre-IPO period, the ODE
+governing a
+ip has the same form as (A3) with kα, ks, , and ψ all set to zero. Let
+zp =1/∑sipαip then the solution to this ODE can be written as
+aip =
+[
+1− e(t−t∗)]{
+− fip
+δ + φαip
+[
+αipsipzp − (n− 1)
+]2
+δ(φ+δ)
+(
+αipsipzp
+)2
+}
++e(t−t∗) [
+ai
+(
+t∗)
++F
+]
+.
+(A.5)
+To ﬁnd the IPO date differentiate aip +bipmi with respect to t∗, set the result
+equal to zero, and solve for t∗. (Note that the optimal time includes the changes
+in the ﬁrm’s market share, becausemi also depends ont∗ through (1).) It is easy
+to show that the smaller the ﬁrm is on the day the industry shock hits, the longer
+it will wait to conduct an IPO. The private ﬁrm becomes a stronger competitor
+if it goes public, so it is also straightforward to show that both d b
+ip/dt∗ and
+daip/dt∗ are negative (the latter if fi is not too large relative to fip). Thus, the
+ﬁrm will only remain private if d(bipmi )/dt∗ is positive. This may be true for an
+initially small market share. However, as mi approaches its steady-state value,
+dmi /dt goes to zero. Thus, for the appropriate parameter values, there is an
+optimal IPO date. Not surprisingly, increasing the regulatory costs of going
+public implies that ﬁrms will be larger in size when they ﬁnally conduct their
+IPOs. That is, dt
+∗/
+dαip > 0 for αip >αi.
+To complete the analysis of the case in which the ﬁrm remains private unless
+there is a change to the industry after which it will (at some point) go public,
+begin by considering the value function prior to the change. To keep the solution
+as simple as possible, assume the private ﬁrm reaches its steady-state market
+share prior to the date of the industry shock. In this case, the appropriate guess
+for the value function is that it is time independent. This leads to an HJB
+equation of the form
+0= max
+ui
+αiλmi − fiλ− ui +V m
+iλφλ
+⎡
+⎢⎢
+⎢⎣
+s
+iui
+n∑
+j =1
+sj uj
+− mi
+⎤
+⎥⎥
+⎥⎦− δ
+[
+λ
+(
+a
+ip +bipmi
+)
++(1− λ)Viλ
+]
+. (A.6)
+The subscript λ indicates a parameter’s value prior to the industry shock. 37 In
+(A6) the aip and bip terms equal their value immediately post shock; this occurs
+37 If the private ﬁrm has not yet reached its equilibrium market share then (A6) needs to be adjusted for the fact
+that the time between when the industry shock happens and the ﬁrm goes public depends on when the shock
+occurs. If the private ﬁrm has already reached its steady-state market share, the time between these two events
+is a constant.
+3245
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 42 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3246 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+at time t= 0 in (A4) and (A5). Next, guess that the value function in (A6) has
+the form Viλ =aiλ +biλmi , where aiλ and biλ are both time independent. Quite
+a bit of algebra then yields solutions of
+aiλ = λ− 1
+λ aip − fiλ
+δλ+ φ
+[
+αiλ(φ+δ)− α∗
+i δ(1− λ)
+]
+δλ(φ+δ)(φ+λδ)
+[ (
+αiλ(φ+δ)− α∗
+i δ(1− λ)
+)
+siλzλ− (n− 1)(
+αiλ(φ+δ)− α∗
+i δ(1− λ)
+)
+siλzλ
+]2
+(A.7)
+and
+biλ = αiλ− δ(1− λ)bip
+φ+λδ . (A.8)
+In the above equations, zλ =1/∑(
+αiλ(φ+δ)− α∗
+i δ(1− λ)
+)
+si .
+Given the above set of solutions, with sufﬁcient pre-IPO period data, it is
+possible to investigate the degree to which the model does or does not explain
+IPO activity. While predicting IPO activity is not the main research question in
+this paper, a number of the comparative statics from the endogenous IPO case
+can help us interpret the estimates from the main model. For example, greater
+product homogenization (higher φ) leads to lower proﬁts and simultaneously
+reduces the optimal size at which a ﬁrm should go public. Thus, industries where
+φ increases will see some ﬁrms go public that were previously disinclined to
+do so. In these cases, IPOs just presage declines in industry value rather than
+cause them. This is an alternative hypothesis to the one in which the IPO ﬁrm
+is itself responsible for the decline in rival values, and we examine it in detail
+in the empirical analysis described in Section 3.
+A.3 Quarterly Data Alignment (Note)
+Firms within industries sometimes have heterogeneous ﬁscal end dates. To
+construct industry market shares using quarterly data, one should align the
+reported values. To do so, we implement the following smoothing rule. Where
+the ﬁscal quarter end date does not equal the calendar quarter end date, we
+use data from the last report date preceding the calendar quarter end as well
+as the ﬁrst quarter following the quarter end. Fiscal quarters are transformed
+to calendar quarters via weighting the consecutive ﬁscal quarter values by the
+distance to the calendar quarter end date.
+A.4 Filtering Implausible Model Estimates
+Table 2 indicates that an empirical model that simply says industries lose value
+post-IPO may be missing some important heterogeneity in the data, even if that
+is the median result. Of course, like any structural model, the one estimated
+here is clearly unable to ﬁt some industries and ﬁrms. Table 2 shows large
+differences between 95th percentile and maximum values for all parameters.
+To reduce the impact of outliers, we eliminate IPO events with estimated ψ , k,
+g,o r φ that are greater than the 99th percentile or less than the 1st percentile
+of all estimates. Because it is unlikely that a forecaster would use extreme
+or unreasonable estimates for prediction, we ﬁlter the value change data by
+3246
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 43 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3247 3205–3249
+Why Does an IPO Affect Rival Firms?
+removing from the sample all ﬁrm-quarter observations in which model-implied
+or actual quarterly changes in ﬁrm value (log ratio of values) are less than -1 or
+greater than +1. We also remove observations in which we observe very large
+swings in proﬁtability, which we deﬁne as changes in model-implied or actual
+quarterly changes in proﬁtability that are greater (in absolute value) than the
+value of beginning-of-period assets.
+Taken together, these three IPO event and ﬁrm-level ﬁlters reduce the initial
+sample from 128,859 ﬁrm-quarter observations to 62,497 in the 3-year sample
+and from 227,583, to 118,499 for the 5-year sample. These ﬁrm-quarter values
+include all ﬁrms in an industry, not just the IPO ﬁrm. Approximately 10% of
+the reduction in sample size comes from the event-level ﬁlters, with which
+we remove ψ , k, g,o r φ that are greater than the 99th percentile or less than
+the 1st percentile of all estimates. The rest is due to removing unreasonable
+estimates at the ﬁrm-quarter level and is driven by small ﬁrms. In an effort
+to preserve as much data in the initial sample of rivals as possible, we did
+not impose an initial market share ﬁlter (as in Spiegel and Tookes 2013a).
+We think that this choice is appropriate in the IPO setting. However, it is
+also the case that small ﬁrms’ changes in fundamentals are much noisier
+than those of larger ﬁrms; therefore ﬁrm-level parameter estimates for these
+ﬁrms are likely to be less stable. Using the 5-year estimation horizon as an
+example, when we compare the market shares of ﬁrms that are included in the
+estimation to those that are not included, the median shares are 2.7% and 0.95%,
+respectively.
+3247
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 44 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3248 3205–3249
+The Review of Financial Studies / v 33 n 7 2020
+References
+Aguerrevere, F. 2003. Equilibrium investment strategies and output price behavior: A real-options approach.
+Review of Financial Studies 16:1239–72.
+———. 2009. Real options, product market competition, and asset returns. Journal of Finance 64:957–83.
+Back, K., and D. Paulsen. 2009. Open-loop equilibria and perfect competition in option exercise games. Review
+of Financial Studies 22:4532–52.
+Backman, M. 2015. Arizona iced tea is having a really hard time keeping its dollar cans at a
+dollar. Quartz, July 1. http://qz.com/427393/can-arizonas-dollar-cans-of-iced-tea-fend-off-a-bevy-of-snooty-
+competitors/.
+Bharath, S., and A. Dittmar. 2010. Why do ﬁrms use private equity to opt out of public markets? Review of
+Financial Studies 23:1771–818.
+Brau, J., and S. Fawcett. 2006. Initial public offerings: An analysis of theory and practice. Journal of Finance
+61:399–436.
+Burns, G. 1996. Will Quaker get the recipe right? Bloomberg, February 5. http://www.bloomberg.com/
+news/articles/1996-02-04/will-quaker-get-the-recipe-right.
+Carlson, M., E. Dockner, A. Fisher, and R. Giammarino. 2014. Leaders, followers, and risk dynamics in industry
+equilibrium. Journal of Financial and Quantitative Analysis 49:321–49.
+Chemmanur, T., and J. He. 2011. IPO waves, product market competition and the going public decision: Theory
+and evidence. Journal of Financial Economics 101:382–412.
+Chemmanur, T., S. He, and D. Nandy. 2010. The going public decision and the product market. Review of
+Financial Studies 23:1–54.
+Chod, J. and E. Lyandres. 2011. Strategic IPOs and product market competition.Journal of Financial Economics
+100:45–67.
+Coles, J., M. Lemmon, and J. Meschke. 2012. Structural models and endogeniety in corporate ﬁnance: The link
+between managerial ownership and corporate performance. Journal of Financial Economics 103:149–68.
+Dockner, E., S. Jorgensen, N. V an Long, and G. Sorger. 2000.Differential games in economics and management
+science. Cambridge, UK: Cambridge University Press.
+Eckbo, B. 1983. Horizontal mergers, collusion, and stockholder wealth.Journal of Financial Economics11:241–
+73.
+———. 1992. Mergers and the value of antitrust deterrence. Journal of Finance 47:1005–29.
+Fee, E., and S. Thomas. 2004. Sources of gains in horizontal mergers: Evidence from customer, supplier, and
+rival ﬁrms. Journal of Financial Economics 74:423–60.
+Fresard, L. 2010. Financial strength and product market behavior: The real effects of corporate cash holdings.
+Journal of Finance 65:1097–122.
+Grenadier, S. 2002. Option exercise games: An application to the equilibrium investment strategies of ﬁrms.
+Review of Financial Studies 15:691–721.
+Goyal, A., and I. Welch. 2008. A comprehensive look at the empirical performance of equity premium Prediction.
+Review of Financial Studies 21:1455–508.
+Hennessy, C. 2013. Model before measurement. Critical Finance Review 2:193–215.
+Hennessy, C., and T. Whited. 2005. Debt dynamics. Journal of Finance 60:1129–65.
+———. 2007. How costly is external ﬁnancing? Evidence from a structural estimation. Journal of Finance
+62:1705–45.
+3248
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 45 ---
+[08:08 28/5/2020 RFS-OP-REVF190087.tex] Page: 3249 3205–3249
+Why Does an IPO Affect Rival Firms?
+Harvey, A., and P . Collier. 1977. Testing for functional misspeciﬁcation in regression analysis. Journal of
+Econometrics 6:103–19.
+Hsu, H., A. Reed, and J. Rocholl. 2010. The new game in town: Competitive effects of IPOs. Journal of Finance
+65:495–528.
+Jain, B., and O. Kini. 1994. The post-issue operating performance of IPO ﬁrms.Journal of Finance49:1699–726.
+Kang, A., and R. Lowery. 2014. The pricing of IPO services and issues: Theory and estimation. Review of
+Corporate Finance Studies 2:188–234.
+Lang, L., and R. Stulz. 1992. Contagion and competitive intra-industry effects of bankruptcy announcements:
+An empirical analysis. Journal of Financial Economics 32:45–60.
+Laux, P ., L. Starks, and P . Y oon. 1998. The relative importance of competition and contagion in intra-industry
+information transfers: An investigation of dividend announcements. Financial Management 27:5–16.
+Ljungqvist, A. 2007. IPO underpricing: A survey. InHandbook of corporate ﬁnance: Empirical corporate ﬁnance,
+ed. B. E. Eckbo. Amsterdam, the Netherlands: North Holland.
+Maksimovic, V ., and P . Pichler, 2001. Technological innovation and initial public offerings.Review of Financial
+Studies 14:459–94.
+Novy-Marx, R. 2007. An equilibrium model of investment under uncertainty. Review of Financial Studies
+20:1461–502.
+Pagano, M., F. Panetta, and L. Zingales. 1998. Why do companies go public? An empirical analysis. Journal of
+Finance 53:27–64.
+Riddick, L., and T. Whited. 2009. The corporate propensity to save . Journal of Finance 64:1729–66.
+Ritter, J., and I. Welch. 2002. A review of IPO activity, pricing and allocations.Journal of Finance 57:1795–828.
+Szewczyk, S. 1992. The intra-industry transfer of information inferred from snnouncements of corporate security
+offerings. Journal of Finance 47:1935–45.
+Shahrur, H. 2005. Industry structure and horizontal takeovers: Analysis of wealth effects on rivals, suppliers, and
+corporate customers. Journal of Financial Economics 76:61–98.
+Song, M., and R. Walkling. 2000. Abnormal returns to rivals of acquisition targets: A test of the ‘acquisition
+probability hypothesis.’ Journal of Financial Economics 55:143–71.
+Spiegel, M., and H. Tookes. 2013a. Dynamic competition, valuation and merger activity. Journal of Finance
+68:125–72.
+———. 2013b. A step-by-step guide to solving the model in Spiegel and Tookes (JF 2013). http://som.yale.
+edu/∼ spiegel/MandA/A_Step_by_Step_Guide_to_Solving_the_Model_in_Spiegel_and_Tookes.pdf.
+Strebulaev, I. A. 2007. Do tests of capital structure mean what they say? Journal of Finance 62:1747–87.
+Strebulaev, I. A., and T. M. Whited. 2013. Dynamic corporate ﬁnance is useful: A comment on Welch (2013).
+Critical Finance Review 2:173–91.
+———. 2012. Dynamic models and structural estimation in corporate ﬁnance . Boston: Now Publishers.
+Teoh, S., I. Welch, and T. Wong. 1998. Earnings management and the long-run market performance of initial
+public offerings. Journal of Finance 53:1935–74.
+U.S. Securities and Exchange Commission, Division of Corporation Finance. Standard industrial classiﬁcation
+(SIC) code list. http://www.sec.gov/info/edgar/siccodes.htm.
+Welch, I. 2013. A critique of recent quantitative and deep-structure modeling in capital structure research and
+beyond. Critical Finance Review 2:131–72.
+3249
+Downloaded from https://academic.oup.com/rfs/article-abstract/33/7/3205/5542955 by 81695661,  OUP on 16 June 2020
+
+
+--- PAGE 46 ---
+©
+2020
+Society
+for
+Financial
+Studies.
+Copyright
+of
+Review
+of
+Financial
+Studies
+is
+the
+property
+of
+Oxford
+University
+Press
+/
+USA
+and
+its
+content
+may
+not
+be
+copied
+or
+emailed
+to
+multiple
+sites
+or
+posted
+to
+a
+listserv
+without
+the
+copyright
+holder's
+express
+written
+permission.
+However,
+users
+may
+print,
+download,
+or
+email
+articles
+for
+individual
+use.

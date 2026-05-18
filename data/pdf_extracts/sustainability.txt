@@ -1,0 +1,1265 @@
+
+
+--- PAGE 1 ---
+sustainability
+Article
+Corporate Political Ties and Firm Value:
+Comparative Analysis in the Korean Market
+Chune Young Chung 1,*, Jung Hoon Byun 1 and Jason Young 2
+1 School of Business Administration, College of Business and Economics, Chung-Ang University,
+Seoul 06974, Korea; jhbyun@hanmail.net
+2 College of Business, Washington State University, Pullman, WA 99164, USA; jyoung@wsu.edu
+* Correspondence: bizﬁnance@cau.ac.kr; Tel.: +82-2-820-5544
+Received: 20 November 2018; Accepted: 18 December 2018; Published: 10 January 2019
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Abstract: Although prior studies have viewed corporate political ties as unethical, this study
+investigates whether changes in the political environment can signiﬁcantly affect the net value
+of ﬁrms over time in emerging and transitioning economies. Analysis of a panel of South Korean
+listed ﬁrms in the Gyeongsang and Jeolla provinces from 1998 to 2013 reveals that political network
+ties to the regime currently in power provide signiﬁcantly more positive beneﬁts to politically
+connected ﬁrms than to non-connected ﬁrms. However, political network ties to the rival of the
+regime in power have signiﬁcantly more negative effects on politically connected ﬁrms than on
+non-connected ﬁrms. More importantly, unexpected political regime changes strongly affect the
+shift from positive to negative effects on ﬁrm value over time, and political network ties continue
+to signiﬁcantly and positively affect ﬁrm value over time during regime changes after political and
+economic liberalization in South Korea. These results line up with various robustness tests.
+Keywords: business ethics; political connection; ﬁrm value; regionalism; contingency perspective
+1. Introduction
+Prior researchers have generated a rich set of empirical results demonstrating the positive beneﬁts
+of political connections for ﬁrm value in emerging and transitioning economies. Many studies have
+found that political connections can increase ﬁrm value through ofﬁcial government support such as
+favorable regulatory conditions, the cut-rate credit, import licenses, ﬁnancial bailouts, and preferential
+access to debt ﬁnancing. All of these factors help ﬁrms secure positional advantages over their
+competitors and helping to build strong market power even if overall productivity is lower [ 1–4].
+Among these studies showing the beneﬁts of political connections, some have focused on external
+factors, considering higher corruption, weaker institutional constraints, and ineffective legal protection
+as the sources of these beneﬁts, whereas others have focused on the characteristics of ﬁrms such
+as poor governance structures, low research and development (R&D) intensities, and ﬁrm size.
+However, studies have also found growing evidence of a negative effect of political connections
+on ﬁrm value. As Shleifer and Vishny [ 5,6] note, it cannot be assumed that a politician is always
+benevolent. Politicians’ machinations to win elections or achieve other personal objectives may be
+harmful to ﬁrms in terms of weaker managerial practices, distortions of incentives, misallocations
+of investments, more rent-seeking behavior, and, ﬁnally, underperformance on an ex-ante basis.
+Faccio [3] explains that, although these connections provide considerable beneﬁts, because of the
+overall inefﬁcient use of resources, ﬁrms often underperform in the long term. Other studies also
+support these arguments [7–10]. Given the conﬂicting empirical results regarding the relationship
+between political connections and ﬁrm value, it is not surprising that many cross-disciplinary studies
+have been conducted in the social sciences. Theory and research have shown that the value of political
+Sustainability 2019, 11, 327; doi:10.3390/su11020327 www.mdpi.com/journal/sustainability
+
+--- PAGE 2 ---
+Sustainability 2019, 11, 327 2 of 25
+connections depends on the environmental context in emerging and transitioning economies. In their
+seminal work, Shleifer and Vishny [5,11] suggest that the beneﬁts of political capital enhance ﬁrm value
+only when their marginal beneﬁts outweigh their marginal costs, arguing that connections are a type
+of game between the public, the political actors, and the economic actors, which is always controlled
+by incomplete contracts. In other words, although a rational economic actor can obtain beneﬁts from
+political capital by appointing politically connected directors, given their knowledge and experience
+with government procedures [ 12], their tacit and timely information regarding industrial policy
+changes [13] or even their efforts to indirectly lead inﬂuential institutions to change economic policies
+to his ﬁrm’s advantage [14], he considers all the corresponding economic costs (e.g., lobbying, bribery,
+contribution to political campaigns, and other forms of direct and indirect payments to politicians) [3]
+and then decides whether he should form political ties [15]. Similarly, Yeh, Shu, and Chiu [16] ﬁnd
+empirical evidence that Taiwanese ﬁrms with poor governance structures are more likely to engage
+political connections to increase ﬁrm value due to high marginal beneﬁts and low marginal costs.
+However, there are several reasons why it may not be as easy to detect or explain the relationship
+between political connections and ﬁrm value for emerging and transitioning economies.
+First, Hillman, Zardkoohi, and Bierman [ 17] distinguish “relational approaches” from
+“general transactional approaches,” arguing that many ﬁrms pursue political network ties over a
+long time horizon rather than issue by issue. Peng and Luo [ 18] also emphasize that the overall
+objective of political connections is to produce governmental policy outcomes that beneﬁt the ﬁrm’s
+continued survival and positive performance. The primary goals of political actors are re-election [19],
+political survival [20], and political persistence [21] from a long-term perspective. A series of anecdotes
+proposed by Leuz and Oberholzer-Gee [22] describe Indonesian ﬁrms who were treated preferentially
+in ﬁnancial allocations because of their close ties with regimes. However, when the patron of these
+ﬁrms unexpectedly fell from power, they faced sudden difﬁculties, and, thus, underperformed
+under the new regime. Goldman, Rocholl, and So [ 23,24] show empirical evidence that political
+connections of Standard and Poor’s (S&P) 500 ﬁrms in the United States were responsive to the
+2000 presidential election and ﬁnd that ﬁrms that were well connected to the Democratic Party
+surprisingly experienced decreases in ﬁrm value. Thus, each of these studies stresses that the mutual
+connections [3], gift exchanges [25], and embeddedness [26] of political and economic actors are not
+single episodes but, rather, have more relevance to changes in the structure and processes of the
+relations over time [17].
+More importantly, studies point out that changes in political and economic circumstances are not
+always contemporaneous events [27–29] and that the extent of regime change and the processes of
+economic privatization or liberalization differ across emerging and transitioning economies [1,4,30].
+Prominently, Walder [29] focuses on categorizing four types of transitional economies according
+to their political and economic environments. Some countries (e.g., the Czech Republic, Poland,
+Russia, and Ukraine) have experienced extensive regime change including the collapse of hierarchies
+whereas others (e.g., China, Vietnam, Kazakhstan, and Uzbekistan) have had one party remaining in
+power. Some countries (e.g., China, Hungary, Poland, Tajikistan, and Vietnam) have well-regulated
+monitoring systems to control asset appropriation by powerful elites. Others (e.g., Russia, Ukraine,
+and Uzbekistan) have poorly regulated privatization programs. Furthermore, Walder [29] believes
+that the great cross-national heterogeneity in the pace of political and economic reforms can create
+both opportunities and regulatory constraints, which, in turn, lead to strikingly different reactions
+and behaviors of political and economic actors during transitional periods. Other authors agree that
+researchers must examine the target countries not with “a standard cookbook approach” but rather by
+considering their distinctive historical paths during political-economic transitions [31–34].
+Overall, many scholars have theoretically suggested that, because countries vary widely in terms
+of the extent, order, speed, and phase of political and economic reform over time, using “a contingency
+perspective” as a tool for the analysis of political capital is suitable [ 15,18,26,35]. Burt [ 15] studies
+170 managers at one of the largest electronics ﬁrms in the United States and the senior investment
+
+--- PAGE 3 ---
+Sustainability 2019, 11, 327 3 of 25
+banking ofﬁcers at a large American ﬁnancial organization and demonstrates that the value of
+socio-political capital to these groups is contingent on their network, background, and performance.
+Peng and Luo [18] show that, in China, the effect of a manager’s social ties, contacts, and networks
+varies across ﬁrms with different ownership types, business sectors, sizes, and industry growth rates.
+In a recent study, Zhu and Chung [13] show that the positive effects of social connections between
+politicians and ﬁrms on market entry are contingent on ﬁrms’ external competitive environments,
+the organization of the government, and the internal resource proﬁle of each ﬁrm as measured by data
+from the 250 largest Taiwanese business groups from 1998 to 2004. As Peng and Luo [ 18] mention,
+understanding the notion of the contingent value of political capital provides a frame for a speciﬁc
+prediction to capture the interplay between political and economic actors, and, thus, to eventually
+evaluate the impact of political connections on ﬁrm value in emerging and transitioning economies.
+To date, although much has been written, no deﬁnitive empirical study exists on the aspects of
+the dynamic between political connections and ﬁrm value in emerging and transitioning economies.
+The most closely related studies are those by Do et al. [36] and Siegel [26]. Do et al. [36] use a regression
+discontinuity design for 35 gubernatorial elections from 1999 to 2010 in the United States to demonstrate
+that social network-based political connections provide positive and signiﬁcant cumulative returns to
+ﬁrm value. They use a novel method to identify political connections based on networks of university
+classmates among corporate directors and politicians and expertly ﬁnd that rival business groups have
+opposite effects on overall ﬁrm value over time. Again, this study does not consider the dynamics of
+ﬁrm value and does not examine the possibility that political connections can also lead to negative
+consequences as a punishment following regime change. Using data on 665 South Korean ﬁrms from
+1987 to 2003, Siegel [26] performs the only comparative study in which sociopolitical network ties to the
+regime in power are positively correlated with the rate of cross-border strategic alliances while ties to
+the opposing regime are negatively correlated with that rate. From a contingency perspective, his novel
+study examines how an unexpected event regarding the political regime can quickly change a political
+liability (asset) into an asset (liability) in the long term. However, he only focuses on cross-border
+strategic alliances as a tool for assessing political connections rather than on ﬁrm value.
+In addition, corporate political ties (activities) and their strategies are more sensitive to ethical
+issues than their purely market-driven issues [37]. First, from the perspective of neoclassical economics,
+organizations in the public sector are a counterforce to ﬁrm actors and both parties are self-interested
+to the same extent. This counterforce is undermined if ﬁrms manage to obtain a substantial inﬂuence
+in the political system. Hence, the balance of the whole economic system will be in jeopardy in the
+long term. The studies on regulatory capture [38,39], in its critique on neoclassical views on regulators,
+has argued the danger of regulation coming under the inﬂuence of various corporate interests. Second,
+corporate political ties (activities) have ethical implications, which stem from the argument that the
+discourse of strategy itself is highly ideological and promoting in latent form, has ethically problematic
+inclinations toward managerial hegemony, aggressive competition, psychological egoism, and the
+viewing of economic capital as the highest form of capital [37]. All of these are presented in the guise
+of rationality and foresight in decision-making [ 40,41]. It is one thing to promote such ideology in
+the economic marketplace, but when done so in the public arena, it becomes paramount to consider
+societal implications [37].
+However, the ethical aspects of corporate political ties in the Korean market have so far received
+little attention. In contrast with the extravagant claims about the economic beneﬁts of political ties
+for ﬁrms, we have not fully understood their dark side. The question is, are corporate political
+ties ethically acceptable? This depends on the nature of the corporate political relationship and the
+context in which it occurs. While having family and helper ties are generally perceived in Korea
+as a good practice that is completely moral or even desirable, political ties in a corporate setting
+are widely regarded as a bad practice or a grey area that is inevitably associated with favoritism,
+nepotism, unfair competition, and fraud. In the majority of corporate scandals related to political ties,
+swindlers deliberately chose people whom they had close business relationships with relatives, friends,
+
+--- PAGE 4 ---
+Sustainability 2019, 11, 327 4 of 25
+or classmates as unsuspecting easy targets. They betrayed trust for proﬁt. Ironically, when the victims
+discovered the fraud, most of them tried to recruit newer victims in the same fashion to recoup their
+losses. Such scandals have exposed the pernicious side of corporate political ties.
+There is no doubt that there are advantages of corporate political ties in the Korean market.
+These advantages may bring cost savings, vital resources, and special treatment to an organization that
+employs individuals who have political connections. However, ﬁrms often achieve these beneﬁts at the
+expense of other individuals or ﬁrms since corporate political ties create signiﬁcant disadvantages for
+parties outside the network, which stiﬂes competition to the detriment of society. In this way, such ties
+sacriﬁce the greater social good for personal gain. A simple acid test to judge the ethics of corporate
+political ties is to identify whether there are any victims because of such a deal. These victims may
+be known, such as competitors of the ﬁrm or customers. They may even be unknown in some cases.
+However, the truth remains that such corporate political ties produce gains for individuals or ﬁrms but
+cause wider social loss. They may be considered benign from the ethics point of view only if there is no
+third party, either known or unknown, that is adversely affected because of this action. Unfortunately,
+the vast majority of corporate political ties would fail this test.
+Given the ethical aspects of corporate social ties, to investigate the changes in the value of political
+connections over time after a regime change from a contingency perspective, this study examines
+the effect of political capital between businesses and the government on ﬁrm value in South Korea
+from 1998 to 2013. South Korea is ideal for exploring dynamic changes in ﬁrm value for several
+reasons. First, South Korea is representative of many emerging economies and experienced a rapid
+transformation of its political and economic environment toward liberalization from 1960 to 1990.
+This remarkable turnaround has inevitably generated a unique relationship-based society in which
+in-group favoritism reinforces the formation of reciprocal social networks and out-group exclusionism
+wields strong inﬂuence over social cleavage. This low interpersonal trust-based society provides
+an optimal environment for observing dramatic changes over time. Second, the study particularly
+analyzes panel data on ﬁrms listed on the Korea Stock Exchange that are located in Southeast
+(Gyeongsang province) and Southwest Korea (Jeolla province). These regions have had a longstanding
+rivalry since 1961, and intense regional competition (even within subregions) over political and
+economic resources has prevailed. This dataset is appropriate for identifying the conditions under
+which political capital has a positive or negative effect and the change in this effect over time within
+the political and economic environmental context. Third, and more importantly, the conﬂict between
+these two regions has strongly inﬂuenced the attitudes of political and economic actors in these
+regions. These actors have evolved from only maintaining the status quo to constructing reinforced
+regimes or establishing solid government–business relationships as well as from passive acceptance of
+government policies to actively coping with discriminatory treatment and punishment and greater
+participation in forming political connections. Thus, both sides aggressively struggle to maintain or
+change the incumbent regime. This series of behavioral changes can help investigate the impact of
+political connections on ﬁrm value in the context of regime changes over time.
+The rest of the paper is organized as follows. Section 2 brieﬂy discusses the related literature.
+Section 3 describes South Korea’s historical background with a particular focus on regionalism.
+Section 4 develops testable hypotheses. Section 5 describes the research design including the data,
+variables, and empirical methods. Section 6 presents the empirical ﬁndings and reports robustness
+tests and Section 7 concludes.
+2. Literature Review
+Previous empirical studies have found that the nexus between ﬁrms and a political connection is
+mostly based on corporate governance. Therefore, a relational governance perspective highlights the
+importance of network activities in improving overall ﬁrm performance. However, empirical results
+on the environmental context are somewhat mixed. Some researchers have found a positive association
+between political connection and ﬁrm value. Agrawal and Knoeber [ 12] use a sample of Forbes
+
+--- PAGE 5 ---
+Sustainability 2019, 11, 327 5 of 25
+800 ﬁrms between 1987 and 1990 in the United States to show that politically experienced external
+directors on corporate boards play a signiﬁcant role. They can deter the agency problem, provide crucial
+information regarding the steps and processes of government procedures, provide consultation for
+formulating political corporate strategies, and, eventually, increase overall ﬁrm performance. Hu and
+Leung [42], using data on China’s listed state-owned enterprises (SOEs) between 2001 and 2005,
+also ﬁnd that poorly performing ﬁrms have a strong tendency to replace their chairmen or CEOs with
+politically connected top executives from the government, who serve in disciplinary or monitoring
+functions to improve overall ﬁrm performance. However, other authors document that the political
+connections can have a negative effect. Fan, Wong and Zhang [ 9] report that, in China, politically
+connected CEOs and directors have a negative effect on the three-year post-initial public offering (IPO)
+stock returns of 617 A-share listed companies on the Shanghai Stock Exchange and the Shenzhen
+Stock Exchange between 1993 and 2000. Chang and Wong [ 43] also empirically ﬁnd that political
+connectedness often has a negative effect on a ﬁrm’s decision-making in China. Thus, it is more likely
+to have a harmful effect on overall ﬁrm performance. Similarly, Liu, Luo, and Xu [44] conﬁrm that, for a
+sample of A-share listed ﬁrms in China from 1994 to 2010, politically connected ﬁrms tend to overinvest
+in the establishment of political connections but then reduce their investments to the level of their
+peers, and that overinvestment often has a negative effect on ﬁrm performance. As the relationships
+between states and ﬁrms are mostly heterogeneous both across and within countries in terms of the
+structure and quality of corporate governance, the degree of government intervention, and the extent
+of economic reform [45], these combined factors can strongly increase or decrease overall ﬁrm value.
+For example, using 71,069 individual bank loan contracts of listed ﬁrms in Taiwan from 1997 to 2009,
+Shen, Wang, and Lin [46] empirically show that ﬁrms with weak corporate governance have a greater
+tendency to seek political connections while ﬁrms with strong corporate governance perform fewer
+activities related to political connections. Therefore, corporate governance and political connections
+may be substitutes.
+Another strand of the literature focuses on corruption. Essentially, Khwaja and Mian [2] consider
+political rents in banking in Pakistan and empirically ﬁnd that political ﬁrms receive positive beneﬁts
+related to the access of government bank loans through relationships between politicians and their
+directors. They analyze loan-level information for more than 90,000 ﬁrms from 1996 to 2002. In addition,
+Wong [47] shows that government-business collusion through shareholders or directors concurrently
+holding seats on the Election Committee in Hong Kong yields positive beneﬁts to ﬁrm value,
+as measured by the returns on equity and market-to-book ratios of ﬁrms listed on the Hong Kong
+Stock Exchange from 2003 to 2008. Studies even investigate the relationship between transparency and
+ﬁrm value. In the context of post-IPO ﬁrms in Singapore from 1998 to 2006, Ang et al. [48] ﬁnd that ties
+between political (former or current ministers and senior civil servants) and economic actors (chairmen,
+CEOs, and directors) have little effect on ﬁrm value in a low-corruption environment. However,
+they signiﬁcantly beneﬁt ﬁrm value in speciﬁc industry areas that are strictly controlled and regulated
+by the government. Similarly, Niessen and Ruenzi [49] investigate the introduction of new transparency
+laws in Germany and ﬁnd that ﬁrms with political connections to the Bundestag, which is elected by
+German citizens, tended to signiﬁcantly outperform unconnected ﬁrms on the stock market between
+2006 and 2007. Hellman, Jones, and Kaufmann [ 7] introduce the theoretical concept of a “captured
+economy,” which is related to corruption in a transition economy through which “public ofﬁcials and
+politicians privately sell underprovided public goods and a range of rent-generating advantages to
+individual ﬁrms.” They also contrast state capture (i.e., “ﬁrms shaping and affecting formulation of
+the rules of the game through private payments to public ofﬁcials and politicians”) with inﬂuence
+(i.e., the same activity but without recourse to payments) and administrative corruption (“petty forms
+of bribery in connection with the implementation of laws, rules, and regulations”), and empirically
+prove that political ties to public ofﬁcials and politicians can improve ﬁrm performance except in the
+case of “administrative corruption.”
+
+--- PAGE 6 ---
+Sustainability 2019, 11, 327 6 of 25
+Third, several authors explicitly show that, in the case of China, an emerging and transitioning
+economy, the connections between or behaviors of political and economic actors can be changed to
+adapt to changes in the political and economic environments. Haveman et al. [34] ﬁnd that, in China,
+links between state bureaucrats and CEOs or all top ﬁrm executives are still beneﬁcial to overall
+ﬁrm performance through preferential access to bank loans by analyzing data on all listed ﬁrms
+from 1992 to 2007. Qin [50] also shows that ﬁrms’ direct or indirect connections to the State Council
+and Central Committee of the Communist Party of China had increasingly positive effects on ﬁrm
+performance from 1998 to 2007, using panel data for 86,827 manufacturing ﬁrms and 350 politicians.
+However, Nee and Opper [51] ﬁnd that the effect of political connections was positively correlated
+with ﬁrms’ competitive advantages before 2002 but that those beneﬁts no longer exist for economic
+transactions after 2002 due to competitive market conditions. This result is based on a large-scale
+national survey conducted by the World Bank in 2003, covering 2400 ﬁrms in 18 municipalities in
+China. Sheng, Zhou, and Li [52] speciﬁcally distinguish business capital from political capital and show
+that business network capital has more positive effects on ﬁrm performance than political network
+capital, which relies on institutional and market environments in China. To summarize, considering the
+shift from state socialism to market-based capitalism in China, political and economic actors must
+also evolve their thoughts, behavior, and strategies to gain more beneﬁts as the market develops.
+As market competition gradually replaces the state’s role of allocating and redistributing resources,
+the power of political actors progressively diminishes. However, these actors can effectively develop
+new sources of power such as the regulation of market entry and exit, control licenses, subsidies,
+taxes and capitals, and the shaping of government policy [34]. Consequently, political capital remains
+valuable with the development of new aspects of contingencies for both political and economic actors
+as the market develops.
+Fourth, several studies explicitly investigate crony capitalism. Johnson and Mitton [ 53] deﬁne
+crony capitalism as the “capital controls that enable politicians to support the ﬁnancing of particular
+ﬁrms.” Faccio [3] also explains that, “dominant political leaders use their power to the advantage
+of their families and friends, who beneﬁt from government–created rents.” A primary aspect of
+crony capitalism is a reciprocal “gift exchange” between governments and politically connected
+ﬁrms [25]. Other scholars depict the “interdependence” between political and economic actors [54].
+On the one hand, political actors can certainly provide special support to speciﬁc ﬁrms by reducing
+regulatory requirements, awarding government contracts, or providing ﬁnancial bailouts since it is
+assumed that an economic actor’s ultimate goal is to improve ﬁrm performance. On the other hand,
+economic actors can consistently support speciﬁc political actors via campaign contributions, donations,
+or other activities, as it is assumed that a political actor’s ultimate goal is to win an election. However,
+empirical evidence presents conﬂicting results across countries. In analyzing the ﬁve election cycles
+between 1983 and 1992 in the United States, Kroszner and Stratmann [19] conﬁrm that the link between
+interest groups and Congress is a type of contract under which ﬁrms contribute to achieving the
+goals of legislators so that the latter can build a system of political action committees that promote
+repeated interactions, reputation building, and long-term relationships between legislators and ﬁrms.
+Sapienza [55] also ﬁnds that, in Italy, politically connected ﬁrms are more likely to receive lower interest
+rates from state-owned banks than from other privately owned banks. This result is signiﬁcantly
+responsive to the electoral results of the party. Ferguson and Voth [56] speciﬁcally show that the effect
+of political connections between the German industry and the Nazi party in Nazi Germany had a
+positive association with stock returns for a sample of 789 ﬁrms listed on the Berlin Stock Exchange
+from April 1932 to May 1933. Based on the top 2000 companies in Taiwan, Bunkanwanicha and
+Wiwattanakantang [30] conclude that business tycoons often pursue public ofﬁce and that, when they
+are elected, their ﬁrms outperform others in terms of ﬁrm value. Imai and Shelton [ 57] focus on
+the 2008 presidential election in Taiwan, analyzing Taiwanese ﬁrms listed on the Taipei Political
+Exchange from 18 December 2007 to 21 March 2008. They ﬁnd that the stock returns of Taiwanese
+ﬁrms closely related to the mainland have a signiﬁcantly positive association with the electoral victory
+
+--- PAGE 7 ---
+Sustainability 2019, 11, 327 7 of 25
+for KMT in the context of the unresolved issues between Taiwan and the People’s Republic of China.
+In recent research, Bandeira-de-Mello et al. [58] ﬁnd that political network ties between businesses and
+politicians in Brazil can directly beneﬁt ﬁrm performance through mutual contributions between the
+two parties by considering a sample of the major elections for president, governors, senators, federal
+and state deputies, and multilevel listed ﬁrms from 2003 to 2006. On the contrary, some studies ﬁnd
+different results. Bertrand et al. [ 8] showed that, in France, politically connected CEOs have a net
+negative effect on the performance of publicly traded ﬁrms based on ﬁrm-level panel data set from
+1987 to 2002. Hung, Wong, and Zhang [ 59] also demonstrate that ﬁrms’ strong political ties have
+a negative and statistically signiﬁcant association with ﬁrm performance relative to non-politically
+connected ﬁrms using a data set of Chinese SOEs listed on overseas and domestic stock exchanges in
+1992. Extraordinarily, using anecdotal evidence in 2001, Jayachandran [60] demonstrates that politically
+connected ﬁrms experience signiﬁcantly positive or negative changes in market value following an
+unexpected political changeover between the Republican and Democratic parties in the United States.
+This ﬁnding is called the “Jeffords effect.”
+Lastly, some scholars examine the overall relationship between political capital and ﬁrm
+performance, which they predict based on worldwide research using meta-analysis and systematic
+review. Boubakri, Cosset, and Saffar [ 10] conﬁrm that political connectedness and ﬁrm value are
+positively correlated for a unique data set of 234 politically connected ﬁrms from 12 developed and
+11 developing countries based on an international event study over three years. Liedong [ 61] uses
+a systematic review of 56 studies to show that corporate political activities can strongly beneﬁt ﬁrm
+performance, depending on the institutional context across countries. In addition, Stam, Arzlanian,
+and Elfring [62] provide evidence that the relationship between entrepreneurs’ personal networks and
+the ﬁrm performance of small ﬁrms is positive and signiﬁcant based on a meta-analysis of 59 studies
+across countries. However, as Faccio [3] shows, for a sample of 42 countries, including 19,884 ﬁrms
+and 17,033 politicians, connected corporations do enjoy signiﬁcant beneﬁts, such as debt ﬁnancing,
+lower taxation, and stronger market power, but they also face the possibility of poor performance due
+to rent-seeking activities by politicians.
+Overall, the net value of political capital is heterogeneous depending on a combination of
+factors from the political and economic environments that affect both political and economic actors.
+The results of most studies suggest that political capital is highly contingent on the extent of corruption,
+the intensity of institutional constraints, legal protections, judicial independence, government
+intervention, structure of corporate governance, ﬁrm-speciﬁc characteristics (R&D intensity, size,
+and leverage), and more.
+3. Historical Background
+Western scholars describe East Asian capitalism as “network capitalism,” “relational capitalism,”
+“Confucian capitalism,” and “crony capitalism,” and the notion of “Asian values” reﬂects a unique set
+of institutions and political environment in terms of successful economic development in emerging
+and transitioning economies [ 63–67]. Apparently, all the above concepts highlight the importance
+of social network ties for corporate strategic activities, government policy decision processes,
+and government–business relationships in East Asian countries, where generalized interpersonal
+trust is relatively low [66]. Fukuyama [68] categorizes South Korea, China, Taiwan, and Hong Kong
+as familistic, low-trust societies in which social trust is often restricted to kinship and gradually
+diminishes outside of networks. Therefore, these societies tend to develop a “two-tier system of ethical
+values” in which in-group favoritism is more prevalent than out-group favoritism.
+Kim [ 66] mentions that Korean social networks are especially characterized by generalized
+exchanges in which multiple actors take active parts in network formation and control exchanges in
+which network members promote exchanges among the “information, institutional resources, rights,
+or power they own or control.” The Korean social network yonjul, similar to guanxi, is the most
+signiﬁcant factor determining the allocation of all kinds of resources in Korea. It is mostly comprised
+
+--- PAGE 8 ---
+Sustainability 2019, 11, 327 8 of 25
+of kin ties, school relations, and regional ties. For example, in Korea, family members connected to
+conglomerates called chaebols and small and medium sized companies inherit stocks, properties,
+or even ﬁrms within these conglomerates. Siegel [ 26] empirically shows that the quality of high
+school and university network ties between ﬁrms and the government has a signiﬁcantly positive
+correlation with ﬁrms’ international alliances. Regionalism also normally prevails in presidential and
+parliamentary elections since the conservative party has been ﬁrmly rooted in the southeast area of
+Korea since 1960.
+Scholars demonstrate that the characteristics of social networks in South Korea generally rely on
+regionalism. Kim [66] deﬁnes regionalism as “a set of ideologies (or prejudices) and institutions that
+encourages persons to favor others within their region above those outside.” Most of the social capital
+in South Korea is exclusively distributed through regional networks. These networks affect personal
+networks, the promotion of economic and political elites, inter-ﬁrm ties, and even recruitment in the
+labor market.
+Historically, Korea has two distinct rival regions: the Gyeongsang province (southeastern area)
+and the Jeolla province (southwestern area). Kim [66] suggests two theories to explain the origin of
+Korea’s regionalism: Theory H and Theory P . Theory H focuses on the aspects of “historically rooted
+prejudice” from the Koryo dynasties (A.D. 918–A.D. 1392). Regionalism in South Korea can be traced
+as far back as the Three Kingdoms period (18 B.C.–A.D. 668) when the Korean peninsula was split into
+the rival kingdoms of Goguyeo (north area), Baekje (southwestern area), and Silla (southeastern area).
+After a long war, Silla (i.e., the Gyeongsang province) conquered the other two rival kingdoms, and they
+eventually uniﬁed in A.D. 676 [69]. The Koryo dynasty began, and its founder, Wang Geon, openly
+discriminated against anyone from the southwestern area (i.e., the Jeolla province). As Kim [66] notes,
+Wang Geon’s Ten Commandments (A.D. 943) is the earliest historical document that explains Korean
+regionalism based on Theory H. Speciﬁcally, Wang Geon warns, “Do not promote southwestern area
+(Jeolla region) people to higher government positions, for their minds resemble the rugged mountains
+surrounding them.” The impacts of these social prejudices on regionalism continued through the
+Koryo and Choson dynasties (A.D. 1392–A.D. 1910) and eventually became deeply rooted in minds,
+thoughts, and behavior, as an implicit social value inﬂuencing job opportunities, promotions, marriage
+preferences, social networks, and other aspects of everyday life [70].
+In contrast, Theory P focuses on the value introjection process for anti-Honam prejudice and a
+political objective of Park Jung Hee’s regime (1963–1979). As Kim [66] describes, when institutional
+predictability and accountability are uncertain, people tend to rely on speciﬁc social network ties
+to eliminate potential risk factors, maintain a regime, and achieve the prolonged one-man rule.
+Because Park Jung Hee held power though a coup d’etat, he faced a lack of popular legitimacy
+and justiﬁcation. Therefore, he strategically allocated political and economic resources through
+personal network ties in his home base in the Gyeongsang province in exchange for the loyalty to
+pursue stabilization, handle possible counter-coups, and secure his position in the long term [66,69,70].
+Politically, for example, 160 government-appointed ministers were from Gyeongsang under the
+military regime (1963–1987), whereas just 50 were from Jeolla [ 66]. Similarly, other political elites,
+such as generals and politicians, were also largely from the Gyeongsang province. Economically,
+Park Jung Hee concentrated on the Seoul (central)-Busan (Gyeongsang) corridor to allocate resources
+for economic development. Thus, those regions became heavily industrialized while other regions,
+especially Jeolla, were relatively neglected [69]. Kim [66] emphasizes that the authoritarian regime
+created regional economic and political inequalities and conﬂicts, particularly between the Gyeongsang
+and Jeolla provinces, as a “divide-and-conquer strategy” to maintain despotic power. Then, Park Jung
+Hee’s successors, Chun Doo Hwan and Roh Tae Woo, who also hailed from the Gyeongsang region,
+sustained these strategies or policies of providing Gyeongsang with preferential treatment while
+Jeolla lagged. Residents of Jeolla felt this relative deprivation, and regional conﬂicts have continued
+to date. In summary, Theory H and P both state that Korean regionalism across the Gyeongsang
+and Jeolla provinces played a decisive role during the rapid advance of industrialization and
+
+--- PAGE 9 ---
+Sustainability 2019, 11, 327 9 of 25
+democratization, including in the formation of social networks, information and resource channels,
+shaping of government policies, and bureaucrat-business networks.
+Regionalism has continuously been a dominant force behind the social cleavage in government
+policies toward the Gyeongsang and Jeolla provinces and through signiﬁcant economic changes
+during the industrialization and marketization period since 1960. At the start of industrialization,
+Park Jung Hee aggressively focused on export-led and outward-oriented policies based on the free
+trade zones in Busan and Masan in the Gyeongsang region. Under central government-planned
+economic development policies, all resources were strategically distributed to the light, heavy, and
+chemical industry sectors by encouraging the development of large conglomerates or chaebols and
+forming close interrelations or collusions with them [ 70,71]. Many of these corporations received
+special favors from the government in exchange for donations, gifts, bribes, and other payments,
+and enjoyed permits for regulatory market entry, preferential bank loans, and a ﬁxed-wage system.
+Through cronyism, this government-businesses cooperation led to unprecedented economic growth
+with GDP growing by an average of 10% annually between 1962 and 1994 [71].
+However, Park [ 70] notes that government-guided rapid industrialization also involved a
+“growth ﬁrst and distribution later strategy” that resulted in a bipolarized developmental environment.
+This environment brought about regional disparities that generated speciﬁc groups and social stratum,
+and particular industry sectors, corporations, and regions received beneﬁts while others did not.
+Thus, these unequal distributions of resources found in central government policies and regional
+economic development created discrimination between Seoul, Gyeongsang province, and other
+areas especially Jeolla province [ 70,71]. In 1960, all resources were largely located in the central
+metropolitan areas. By the mid-1990s, roughly half the labor market resided in metropolitan regions,
+working in manufacturing occupations, expert skill occupations, administrative management, and
+ofﬁce occupations, among others. In particular, Gyeongsang holds nearly 30% of administrative
+management and ofﬁce occupations and a relatively high share of manual and skilled labor while
+Jeolla has only a 9% share of these occupations and is mostly engaged in agriculture and relatively small
+enterprises [70]. Thus, the continued economic backwardness of the Jeolla region escalated regional
+animosity toward government policies and the Gyeongsang province, which monopolized economic
+resources. In response to these discriminatory policies, Jeolla residents initiated a movement for
+democracy called the Gwangju Democratization Movement, which resulted in the death of nearly two
+thousand civilians because of the government’s military repression operations in 1980 [72]. Since every
+president was from the Gyeongsang region, the economic development gap between the Gyeongsang
+and Jeolla provinces widened remarkably from 1960 to 1997. Later, when Kim Dae Jung was elected
+president in 1997, Jeolla challenged Gyeongsang for economic resources [66].
+Similarly, political capital also had a signiﬁcant effect on ﬁrm survival during the industrialization
+period. Because the government built the overall business environment, allocated economic resources,
+and regulated market transactions, well-connected ﬁrms could improve performance with the full
+support of the government while poorly connected ﬁrms barely survived [73]. More recently, the most
+well-known examples are the bankruptcy of the Daewoo conglomerate, founded in 1967, and the
+survival of Hyundai, founded in 1946, during the Asian ﬁnancial crisis in 1997. Hyundai supported
+the government’s uniﬁcation policy toward North Korea by investing a substantial amount of money,
+establishing close connections, and providing subsidies of a few billion. However, when Daewoo’s
+chairman met with government bureaucrats and Kim Dae Jung, he demanded changes to government
+policies to beneﬁt his ﬁrm, exacerbating the conﬂicts between them, and thus, the government took no
+action when Daewoo had trouble with ﬁnancing [66].
+4. Hypotheses Development
+From 1961 to 1992, three generals (Park Jung Hee, Chun Doo Hwan, and Roh Tae Woo), all from
+the southeastern (Gyeongsang) region, held power in South Korea. In 1987, a massive pro-democracy
+movement broke out and Chun Doo Hwan agreed to the citizens’ demand for democratization by
+
+--- PAGE 10 ---
+Sustainability 2019, 11, 327 10 of 25
+accepting a direct presidential election system in a breakthrough for South Korean democratization [69].
+Then, from 1993 to 1997, Kim Yong Sam, from the southeastern region, was the ﬁrst civilian
+president since the military dictatorship began in 1961. In 1997, during the Asian ﬁnancial crisis,
+Korean voters elected former dissident Kim Dae Jung from the Jeolla region, which was the ﬁrst
+peaceful transfer of presidential power to the opposition [26,69]. In 2002, the pro-democratic candidate
+Roh Moo Hyun, who was born in the Gyeongsang region, was elected president, which was another
+milestone in the history of democratic transitions in Korea. Because the driving forces of regional
+rivalry, the “Three Kims,” all retired and because Roh Moo Hyun’s home base was the Jeolla region,
+which favored the democratic party, regionalism faded somewhat [ 69]. Then, in December 2007,
+Lee Myong Bak from the Gyeongsang region won the president election, which resulted in another
+political regime change between the ruling and opposition parties.
+Social conﬂict between the Gyeongsang and Jeolla provinces has existed for a long time in Korean
+history. Given how political and economic resources are allocated, regional competition has become
+stronger to secure better positions. As Kim [ 69] notes, regionalism is a major factor in the social
+cleavage that is “embedded in local and regional ties rooted in Korean society.” The presidential
+election witnessed in-group solidarity but out-group animosity across regions [66]. When a regime
+changes, the value of political network ties also tends to change and no ﬁrm has the assurance that a
+future government will have a positive or negative effect on ﬁrm performance or value.
+In December 1997, pro-democratic candidate Kim Dae Jung from the opposition Millennium
+Democratic Party (MDP) won the presidential election. The most crucial factors for Kim Dae Jung’s
+victory were the formation of a regional coalition with Kim Jong Pil, whose home base was the
+Chungcheong region, and the internal division of the ruling Grand National Party (GNP) [ 69].
+The prominent opposition candidate was Lee Hoi Chang, whose home base was the Gyeongsang
+region. He performed well in Gyeongsang, receiving nearly 55% of the votes (55.1% in Gyeongsang
+Namdo (North) and 61.9% in Gyeongsang Bukdo (South)) while he received roughly 3% of the votes
+in rival Jeolla (3.2% in Jeolla Namdo and 4.5% in Jeolla Bukdo). By contrast, Kim Dae Jung received
+an overwhelming 92% of the votes from Jeolla, his base (94.6% in Jeolla Namdo and 92.3% in Jeolla
+Bukdo), whereas he received roughly 11% of the votes from the rival Gyeongsang province (11% in
+Gyeongsang Namdo and 13.7% in Gyeongsang Bukdo). Because the third candidate, Rhee In Je, whose
+home base was Chungcheong, took a share of the votes for Gyeongsang Namdo from Lee Hoi Chang.
+The latter failed to win the election.
+These stark differences between the Gyeongsang and Jeolla regions’ votes reﬂect their hostile
+relationships. From 1961 to 1997, Jeolla residents suffered discriminatory treatment from three former
+generals (Park Jung Hee, Chun Doo Hwan, and Roh Tae Woo) and one civilian leader (Kim Yong Sam),
+who all came from the Gyeongsang province. Gyeongsang monopolized political and economic
+resources for nearly 35 years, excluding the Jeolla region. Consequently, in the Jeolla region, over 90%
+of votes were for Kim Dae Jung while only 3% were for Lee Hoi Chang. In the same context,
+in Gyeongsang, only 11% of votes were for Kim Dae Jung, whereas 55% of votes were for Lee Hoi Chang.
+Later, Kim Dae Jung appointed individuals from Jeolla to key government posts, such as the public
+enterprise president and even to the Ministry of Foreign Affairs, even though he had promised
+to resolve the regional cleavage during his presidency [ 69]. The proportion of government posts
+appointed to individuals from Jeolla increased remarkably from 14% to 27% while the proportion of
+appointments from Gyeongsang decreased from 45% to 25% [69]. These regime changes lead us to
+propose the following hypotheses.
+Hypothesis 1a (H1a). In Gyeongsang, political connections are negatively correlated with ﬁrm value during
+the Kim Dae Jung administration.
+Hypothesis 1b(H1b). In Jeolla, political connections are positively correlated with ﬁrm value during the Kim
+Dae Jung administration.
+
+--- PAGE 11 ---
+Sustainability 2019, 11, 327 11 of 25
+In December 2002, South Korea chose a liberal candidate from the ruling MDP , Roh Moo Hyun,
+whose home base was Jeolla, as the next president. Roh Moo Hyun’s victory was attributable
+to two factors: his electoral alliance with Chung Moon Joon—a family member of the Hyundai
+conglomerate—to form a uniﬁed candidacy, and the younger generation’s preference for MDP (Kim,
+2009). The opposing GNP candidate was Lee Hoi Chang. He performed well in Gyeongsang, receiving
+over 67.7% of the votes (67.5% in Gyeongsang Namdo and 73.4% in Gyeongsang Bukdo). However,
+he received only 4% of the votes in the rival Jeolla province (4.6% in Jeolla Namdo and 6.1% in Jeolla
+Bukdo). On the contrary, Roh Moo Hyun received an overwhelming 91% of the votes in Jeolla (93.3% in
+Jeolla Namdo and 91.5% in Jeolla Bukdo), and approximately 21% of the votes in the rival Gyeongsang
+province (27.0% in Gyeongsang Namdo and 21.6% in Gyeongsang Bukdo).
+The results of the 2002 presidential election, like those of the 1997 presidential election,
+clearly show that regionalism or regional cleavage remained as important a determinant as ever.
+Even after ﬁve years, over 90% of the votes in Jeolla were for Roh Moo Hyun while only 4% were
+for Lee Hoi Chang. Similarly, in Gyeongsang, 21% of the votes were for Roh Moo Hyun while
+an overwhelming 67.7% were for Lee Hoi Chang. When elected, Roh Moo Hyun stated, “It is truly
+disappointing that we were unable to tear down the wall of regionalism this election” [26]. Nonetheless,
+although Roh Moo Hyun received fewer votes than Lee Hoi Chang in the Gyeongsang region, his 21%
+share of votes (27.0% in Gyeongsang Namdo) was a somewhat outstanding achievement compared to
+his 11% share in the 1997 presidential election. There were several reasons for these subtle changes
+in regional rivalry during the 2002 presidential election. On the one hand, because the major drivers
+of regional rivalry, the “Three Kims” (Kim Yong Sam, Kim Dae Jung, and Kim Jong Pil) all formally
+retired from ofﬁce. Regionalism was slowly attenuated even though it maintained a major effect on
+voters. On the other hand, because Roh Moo Hyun’s area of support was the democratic-based Jeolla
+province, but his hometown was in Gyeongsang (speciﬁcally Gyeongsang Namdo), these dualities of
+political ideology and birthplace-based regionalism inﬂuenced the election [69]. Because government
+personnel leaned towards the Gyeongsang province during the administration of the three generals
+and one civilian leader and towards the Jeolla province during the Kim Dae Jung administration,
+the complexity of Roh Moo Hyun’s background provides an exploratory environment for the
+relationships between regionalism, social network ties, and ﬁrm value. In fact, after assuming ofﬁce,
+Roh Moo Hyun carried out personnel changes considering the regional arrangement. Although he
+received over 90% of votes from the Jeolla region, 35% of his government personnel were from the
+Gyeongsang province and 27% were from the Jeolla region. He also pursued a government reform
+agenda toward more decentralization and balanced development between regions. In 2004, the Special
+Law on Decentralization Promotion was enacted that included transferring all central government
+agencies, most government ministries, and even the capital city, for the purpose of local autonomy,
+regional politics, and a balanced national development policy [70]. These regime changes lead us to
+propose the following hypotheses.
+Hypothesis 2a (H2a). In the Gyeongsang province, political connections are positively correlated with ﬁrm
+value during the Roh Moo Hyun administration.
+Hypothesis 2b (H2b). In the Jeolla province, political connections are positively correlated with ﬁrm value
+during the Roh Moo Hyun administration.
+The presidential election of 2007 was marked by the victory of the opposition candidate from the
+GNP , Lee Myung Bak. Lee Myung Bak scored a landslide win of 48.7% of the vote against the opposing
+candidate from the United New Democratic Party, Chung Dong Young, who received only 26.0% of
+the vote [69]. Lee’s victory was the second shift in political power from the democratic towards the
+conservative party, after the ﬁrst shift in the opposite direction in 1997. This second shift resulted
+from discontent with Roh Moo Hyun’s weak presidency and with the lingering economic uncertainty
+at home during his administration [69]. Korean voters decisively chose Lee Myung Bak hoping for
+
+--- PAGE 12 ---
+Sustainability 2019, 11, 327 12 of 25
+economic progress, stability, and a better quality of life, based on his career as the president of Hyundai
+Engineering and Construction and as the former mayor of Seoul [ 69]. He received over 55% of the
+vote from his base in Gyeongsang (55.0% in Gyeongsang Namdo and 72.5% in Gyeongsang Bukdo)
+and only 9% of the vote from the rival Jeolla province (9.2% in Jeolla Namdo and 9.0% in Jeolla Bukdo).
+In contrast, Chung Dong Young received an overwhelming 78% of the vote from his base in Jeolla
+(78.6% in Jeolla Namdo and 81.6% in Jeolla Bukdo), and only 6% of the vote in rival Gyeongsang
+(12.3% in Gyeongsang Namdo and 6.7% in Gyeongsang Bukdo).
+As Kim [ 69] discusses, although the major themes inﬂuencing constituents’ voting behavior
+changed over time from democratization, liberalization, equality of opportunity, policy changes,
+and resolving polarization to economic stabilization, individual well-being, and advancing the
+overall country, regionalism strongly affected the 2007 presidential election. In the Jeolla region,
+over 78% of votes belonged to Chung Dong Young while only 9% of votes were for Lee Myung
+Bak. However, in the Gyeongsang region, 55% of votes (72.5% in Gyeongsang Bukdo) were for
+Lee Myung Bak while only 6% of votes were for Chung Dong Young. The contrast between
+the two rival regions during the presidential election became sharper during the Lee Myung Bak
+administration. After taking ofﬁce as president, Lee Myung Bak was often criticized for his personnel
+appointments to key government positions. These appointments were referred to as “Ko So Young,”
+which stands for Korea University, the Somang church, and the Gyeongsang region, where Lee
+received strong constituent support in the presidential election [74]. In fact, 45.2% of Lee Myung Bak’s
+appointments to important posts, such as senior presidential secretaries, ministers, National Police
+Agency Commissioner, and government-afﬁliated institutes. In his initial years in ofﬁce, there were
+individuals from Gyeongsang while only 16.2% were individuals from Jeolla. The corresponding
+ﬁgures for Roh Moo Hyun’s administration were 35% for Gyeongsang and 27% for Jeolla [ 75].
+The regime change from a strongly liberal Jeolla province towards a strongly conservative Gyeongsang
+province after a decade resulted in favoritism to Gyeongsang and discrimination against Jeolla during
+the Lee Myung Bak administration. These regime changes lead us to propose the following hypotheses.
+Hypothesis 3a (H3a). In the Gyeongsang province, political connections are positively correlated with ﬁrm
+value during the Lee Myung Bak administration.
+Hypothesis 3b (H3b). In the Jeolla province, political connections are negatively correlated with ﬁrm value
+during the Lee Myung Bak administration.
+Political connections still positively affect firm value over time after political and economic
+liberalization remains open. Some scholars argue that the value of political connections gradually
+diminish because firms no longer require government intervention but mainly focus on their own
+capabilities, strategies, management, and corporate governance structures relative to their competitors.
+Many empirical results support this perspective in terms of market-based competition [ 3,8,47,49].
+However, others argue that the government still plays a significant role in market economies over time
+as a director of markets, regulator of industry policies, and even as a patron of specific firms [12,55,57,58].
+In the three decades since 1963, South Korea has experienced a drastic transformation of its political
+and economic environment towards liberalization. This remarkable turnaround has not only led
+to democratization and economic development but has also reinforced reciprocal social network
+ties, regional cleavage and conflict, exclusion, and rivalry competition for scarce resources during
+regime changes. Although collusion between politicians and businesses was once deemed a necessary
+evil for economic growth, it was also deemed a necessary resource for the survival of firms over
+time. For example, the countless scandals such as illegal political fundraising, arrests of CEOs,
+and investigations against former politicians covered on the front pages of newspapers after the
+presidential election reflect that political connections have become a common phenomenon after
+political and economic liberalization and that political and economic actors must fiercely battle to
+capture political and economic benefits [74,76–81].
+
+--- PAGE 13 ---
+Sustainability 2019, 11, 327 13 of 25
+Hypothesis 4 (H4). Political connections will continue to be highly positive and signiﬁcant determinants of
+ﬁrm value as time passes and regimes change after political and economic liberalization in South Korea.
+Overall, testing the proposed hypotheses allows for an investigation into whether corporate
+political ties can create signiﬁcantly positive or negative ﬁrm value depending on political
+regimes/regions, which previous literature has failed to study.
+5. Data and Measurements
+5.1. Sample
+This study focuses on Korean ﬁrms listed on the Korea Stock Exchange in the Gyeongsang
+and Jeolla regions. The number of ﬁrms increases over the study period from 89 (Gyeongsang 75,
+Jeolla 14) in 1998 to 177 (Gyeongsang 154, Jeolla 23) in 2013. First, it excludes 25 ﬁrms in the transport
+equipment-renting sector in the Gyeongsang province because they are paper companies based on
+the Ship Investment Company Act of 2002. Doing so balances the Gyeongsang sample with the
+sample from Jeolla, where no such companies exist. Second, several IPOs and delisted companies
+with tenures of less than 10 years during the study period are also excluded. Lastly, although Korean
+ﬁrms are obligated to report their ﬁnancial data and information to the Ministry of Trade, Industry,
+and Energy and the Korea Stock Exchange, some ﬁrms lack available data because of omitted or noisy
+information before 2000. Thus, a sample of 93 ﬁrms with 77 from Gyeongsang (83%) and 16 from
+Jeolla (17%), are constructed, spanning 1998 to 2013. This sample covers the majority of ﬁrms from
+each region. Reliable ﬁnancial data and socio-political information for the 93 ﬁrms are extracted from
+the KIS–VALUE database, the KOCOINFO database, the Korea Investor’s Network for Disclosure
+System (KIND) channel, and Korea Stock Annual reports. In particular, comprehensive data, such as
+total market value, total assets, total liabilities, and R&D intensity as well as information about CEOs,
+chairpersons, and directors, are obtained from KIS–VALUE, which is operated by NICE Investor
+Service, a leading credit rating agency in Korea. Other sources are utilized for a robustness check
+between databases.
+5.2. Dependent Variable
+Tobin’s Q, which is the ratio of the market value of a physical asset to its replacement value, is
+well known and widely accepted as a proxy for ﬁrm value and is commonly estimated as follows:
+(market value of common stock + book value of preferred stock + book value of debt)/(book value of
+total assets) [49,82]. Following Black, Jang, and Kim [ 82], we use the book value of total assets as a
+proxy for the replacement value because the replacement value is not easily obtained from ﬁrms and
+Korean ﬁrms reﬂect the value of their tangible assets to the current market value. Many studies focus
+only on the stock returns of politicians, CEOs, board members, and more. Thus, this novel dataset sheds
+light on more macro-level explanations for the overall ﬁrm value of political capital [ 4,13,23,26,42].
+Table 1 provides the descriptive statistics of Tobin’s Q for 93 ﬁrms in the Gyeongsang and Jeolla regions.
+For example, the number of ﬁrms for Region G Tobin’s Q under Regime 1 is 847, which means that,
+during 1998 to 2003, the Tobin’s Q of 847 ﬁrms is used in Gyeongsang.
+
+--- PAGE 14 ---
+Sustainability 2019, 11, 327 14 of 25
+Table 1. Descriptive statistics.
+Regime 1
+Variable Name Obs. Mean S.D. Min Max
+Region G
+Tobin’s Q 847 0.833 0.268 0.035 2.488
+Region J
+Tobin’s Q 176 0.874 0.308 0 2.175
+Regime 2
+Variable Name Obs. Mean S.D. Min Max
+Region G
+Tobin’s Q 770 0.895 0.387 0.258 3.275
+Region J
+Tobin’s Q 160 0.926 0.345 0.408 2.204
+Regime 3
+Variable Name Obs. Mean S.D. Min Max
+Region G
+Tobin’s Q 770 0.900 0.386 0.210 4.729
+Region J
+Tobin’s Q 160 0.970 0.393 0.538 4.454
+Regime 1 = 1998S1–2003S1, Regime 2 = 2003S2–2008S1, Regime 3 = 2008S2–2013S1. Region G = the Gyeongsang
+province, or the southeastern region, Region J = the Jeolla province, or the southwestern region.
+5.3. Independent Variables
+Many previous studies suggest deﬁnitions of political connections. Prominently, Faccio [ 3]
+deﬁnes them as “one of the company’s large shareholders or top directors, such as CEO, president,
+vice–president or secretary, is a member of the parliament, a minister, or the Chief of the State.”
+Similarly, Boubakri, Cosset, and Saffar [10] consider that, “at least one member of its board of directors
+or its supervisory board is or was a politician such as a member of parliament, a minister or any
+other top appointed-bureaucrat.” In Germany, Niessen and Ruenzi [49] deﬁne them as “at least one
+member or delegate of the Bundestag, supervisory board or advisory council.” In a recent study,
+Haveman et al. [34] consider them as “set equal to one in years when the focal ﬁrm’s CEO, at least one
+other top manager, or at least one member of the board of directors had served as the chief ofﬁcer or
+deputy chief ofﬁcer at the county level (chu ji) or above.”
+Overall, considering the general deﬁnitions across studies, a ﬁrm is deﬁned as politically
+connected if one of the following criteria is met: (1) a CEO, chairperson, director, large shareholder,
+or top ofﬁcer is/was a member of parliament, a minister, or top government ofﬁcial or senior civil
+servant, (2) the CEO or chairperson publicly supports a presidential candidate, or he or his employees
+participate in the presidential campaign, (3) the CEO or chairperson is reported by at least one of the
+major newspapers as supporting a certain political party, or (4) other social relations in terms of the
+Korean social network yonjul, kin ties, and school relations exist. This deﬁnition is very close to that of
+Faccio [3] but speciﬁcally adds a fourth yardstick reﬂecting the socio-political environment of Korea.
+For example, one of the directors of the Samsung Fine Chemicals Corporation from Gyeongsang
+was the senior civil servant of the Fair Trade Commission in 2008, and, thus, the company is politically
+connected, according to criterion (1). Similarly, the chairperson of Kumho Asiana from Jeolla served as
+the Presidential Secretary in 2005, and another director was a judge of the Constitutional Court. Thus,
+again, this is deﬁned as a connected ﬁrm. Furthermore, in 2007, the executive members of the union of
+nearly all of Hyundai’s afﬁliates, including HyunDai Mipo DockYard and HyunDai Hysco corporations
+from Gyeongsang, declared their support for Lee Myung Bak in the 2007 presidential election [83] and
+are politically connected, according to criterion (2). A major shareholder of DaYou Smart Aluminum
+ﬁrm from Jeolla is related by marriage to a politician, satisfying criterion (4). Other relations also
+include “indirect political connections,” such as lobbying, sponsorships, and well known relationships
+with the media. For example, the chairperson of Bohae Brew from Jeolla was arrested and investigated
+for suspicious lobbying for politicians in 2012, which also reﬂects connectedness [84].
+
+--- PAGE 15 ---
+Sustainability 2019, 11, 327 15 of 25
+To carefully capture the sources of political connections, a list of all CEOs, chairpersons, directors,
+and large shareholders between 1998 and 2013 is ﬁrst extracted from the KIS-VALUE database. The data
+are then compared with the other sources using the list of annual and semi-annual business reports
+obtained from KIND and collected data on the individuals’ work histories, speciﬁc social networks,
+kinship, and more from major websites, newspapers, and each ﬁrms’ homepage. Lastly, the study
+searched for news about their political ties in the form of participation in presidential campaigns and
+public declarations of support for speciﬁc candidates or parties. For instance, the study looked at
+news in three major newspapers called Chosun, Joongang, and Donga. Correspondingly, a dummy
+variable, PC, was constructed, which takes a value of one if a ﬁrm is viewed as politically connected
+and zero otherwise. To address these potential problems of unobserved political connections between
+businesses and government, a new dummy variable, PC_new, was constructed, which takes an
+additional criterion into consideration, criterion (5). The CEO or chairperson was born in Gyeongsang
+or Jeolla. As a result, 18 additional ﬁrms (fourteen ﬁrms in Gyeongsang and four ﬁrms in Jeolla) are
+labeled as politically connected ﬁrms during the study period (Table 2). In addition, a new dummy
+variable, PC_area, was constructed based on the birthplaces and supporting regions of presidents
+in the four sub-regions (the Gyeongsang Bukdo, Gyeongsang Namdo province, the Jeolla Bukdo,
+and Jeolla Namdo province) and their relations to each former president during the regime changes.
+Table 2 provides the numbers of politically connected ﬁrms and non-connected ﬁrms in each province
+depending on different measurements.
+Table 2. Political connection variables.
+Regime 1 Region G Region J
+Variable name Obs. (=1) Obs. (=0) Obs. (=1) Obs. (=0)
+Political connection dummy 48 29 11 5
+Political connection dummy_new 54 23 13 3
+Political connection dummy_area 45 32 9 7
+Regime 3 Region G Region J
+Variable name Obs. (=1) Obs. (=0) Obs. (=1) Obs. (=0)
+Political connection dummy 41 36 8 8
+Political connection dummy_new 44 33 10 6
+Political connection dummy_area 36 41 5 11
+Regime 1 = 1998S1–2003S1, Regime 2 = 2003S2–2008S1, Regime 3 = 2008S2–2013S1. Region G = the Gyeongsang
+province, or the southeastern region, Region J = the Jeolla province, or the southwestern region.
+5.4. Estimated Equation
+The baseline equation to be estimated is shown below.
+Valuei,t =α+β1·PC(O4IO)and ship between istic ger incentives to a f f ectholders.ve strong incentive to inholderse should consider other fi,t
++β2·Firmsizei,t +β3·Leveragei,t +β4·R&Di,t +Year Dummyt +εi,t
+where the subscripts i and t represent the ﬁrm and half-year, respectively. The dependent variable,
+Value, denotes Tobin’s Q. Control variables are used in the regression models as follows: Firmsize is
+calculated as the log of total assets, Leverage is measured as the total liabilities divided by the total
+assets, and R&D refers to R&D intensity, computed as the ratio of R&D expenditures to annual sales.
+The independent variable, PC, is a dummy variable for political connections. The year ﬁxed effects are
+controlled using year dummies from 1998 to 2013. This model is based on those of Nee and Opper [52]
+and Ang et al. [ 49]. However, their models focus on the effects of market structure and corporate
+governance on ﬁrm value. Instead, this study focuses on the effects of political regime change and
+regional competition or discrimination on ﬁrm value over time.
+The study includes all variables for 93 ﬁrms with dummies for each of the three political regimes
+and the two regions. The ﬁrst regime (1998S1–2003S1, Regime 1) covers the last year of civilian leader
+Kim Young Sam and the ﬁve-year presidency of democratic president Kim Dae Jung. The second
+
+--- PAGE 16 ---
+Sustainability 2019, 11, 327 16 of 25
+regime (2003S2–2008S1, Regime 2) includes the last year of Kim Dae Jung’s presidency and the
+presidency of his like-minded successor, Roh Mu Hyun. The third regime (2008S2–2013S1, Regime 3)
+includes the last year of Roh Moo Hyun’s presidency and the second regime changeover from liberal
+to conservative during the Lee Myung Bak administration. These half-year lagged regime dummies
+resolve the potential endogeneity problem.
+In addition, the study constructs regional dummies for the southeastern (the Gyeongsang province,
+Region G) and southwestern regions (the Jeolla province, Region J). Because the regime changes are
+unexpectedly exogenous events for the ﬁrms in the sample in both regions, this dataset of regime
+and region variables can provide ﬁrm-level dynamics to cleanly identify “the changing role of these
+political capital variables over the passage of time” [26,53].
+All the data for 93 ﬁrms in Gyeongsang and Jeolla from 1998 to 2013 are observed semi-annually.
+The pooled estimated generalized least squares estimation with seemingly unrelated regressions,
+proposed by Zellner, was used, which addresses both period heteroskedasticity and general correlations
+of observations within a given cross-section.
+6. Results
+6.1. Basic Result
+The results of the baseline model estimation are presented in Table 3. Most results fully support
+the basic concept from many other studies of emerging and transitioning economies that the political
+connections have signiﬁcantly positive or negative associations with ﬁrm value especially in relation
+to regime changes.
+The ﬁrst two columns show the results for the Gyeongsang and Jeolla provinces during the Kim
+Dae Jung administration (Regime 1). As predicted by H1a, political connections in the Gyeongsang
+province have a negative correlation with ﬁrm value, which is statistically signiﬁcant at the 5%
+level during Regime 1. Moreover, H1b, which predicts that political connections in the Jeolla
+province are positively correlated with ﬁrm value during Regime 1 holds, and the result is statistically
+signiﬁcant at the 10% level. These results are consistent with the study’s expectation that, during
+president Kim Dae Jung’s administration, ﬁrms in Jeolla received beneﬁts to ﬁrm value that were
+supported by the government’s political and economic resources despite the limited number of
+samples. More importantly, this includes the prolonged discrimination and exclusion from government
+policies. However, those in Gyeongsang saw a decrease in ﬁrm value resulting from discriminatory
+treatment by the government in terms of the ﬁrst regime changeover from conservative to liberal parties.
+Furthermore, because the empirical results show that politically connected ﬁrms have signiﬁcantly
+positive or negative associations relative to non-connected ﬁrms in both regions, the results also
+partially support H4, which states that political connections will continue to be signiﬁcant determinants
+of ﬁrm value over time throughout regime changes after political and economic liberalization in
+South Korea.
+Columns 3 and 4 report the results for the Gyeongsang and Jeolla provinces during the Roh Mu
+Hyun administration (Regime 2). In accordance with H2a, political connections in Gyeongsang have
+statistically highly signiﬁcant and positive associations with ﬁrm value during Regime 2. Similarly,
+in Jeolla, as predicted by H2b, politically connected ﬁrms have a positive and statistically signiﬁcant
+association with ﬁrm value during Regime 2. These results also indicate strong statistical support
+for the argument that, after Roh Mu Hyun assumed ofﬁce, ﬁrms in Jeolla continued to be offered
+the special privileges by the government that took ofﬁce during Kim Dae Jung’s administration and,
+thus, the estimated coefﬁcient also sharply increased because of the cumulative effect over time.
+Surprisingly, although politically connected ﬁrms in Gyeongsang have a negative association with
+ﬁrm value during Kim Dae Jung’s administration after the regime change to his successor, Roh Mu
+Hyun. Political connections are also positively associated with ﬁrm value in this province. This result is
+primarily because Roh Mu Hyun was from Gyeongsang and by his reform agenda of decentralization
+
+--- PAGE 17 ---
+Sustainability 2019, 11, 327 17 of 25
+and balanced regional development. Once again, consistent with H4, the impact of political network
+ties with the government is positively and signiﬁcantly correlated with ﬁrm value and becomes a
+signiﬁcant determinant of ﬁrm value over time throughout regime changes after political and economic
+liberalization in South Korea.
+Columns 5 and 6 present the results for the Gyeongsang and Jeolla provinces during Lee Myung
+Bak’s administration (Regime 3). As predicted by H3a, political connections in Gyeongsang have a
+positive and highly statistically signiﬁcant association with ﬁrm value Regime 3. On the contrary,
+in accordance with H3b, political connections have a signiﬁcantly negative correlation with ﬁrm value
+in Jeolla during Regime 3. As above, the empirical results fully support the hypotheses regarding
+the second regime change from liberal to conservative parties in the 2007 presidential election.
+Firms in Gyeongsang enjoyed more positive beneﬁts than in the former regime, which resulted
+from the preferential treatment of Lee Myong Bak’s administration. Conversely, the effects of political
+connections on ﬁrms in Jeolla changed drastically from positive to negative, which is explained by the
+severe exclusion from political and economic resources during Regime 3. Moreover, as predicted by H4,
+the political connections in both regions are clearly important and statistically signiﬁcant determinants
+of ﬁrm value over time throughout the regime changes after political and economic liberalization in
+South Korea.
+Lastly, H4 received strong support from the overall results. Political connections continue to
+be signiﬁcant determinants of ﬁrm value and to have highly positive effects in the Gyeongsang
+and Jeolla provinces during 1998S1-2013S1 except under special circumstances in which retribution,
+discrimination, or exclusion were driven by the government due to regime changes even after political
+and economic liberalization. In particular, although the number of politically connected ﬁrms decreased
+(Table 2), the absolute values of the coefﬁcients in both regions increased over time, which reﬂects
+bitterly intense competition among ﬁrms to secure new political capital. Some ﬁrms lose the game
+while others actively invest in forging political connection over time. This result is also similar to that
+of Siegel [26].
+Several control variables are also important for explaining ﬁrm value. Overall, ﬁrm size has
+positive or negative values and statistically signiﬁcant correlations with ﬁrm value, with one exception.
+These results are also similar to the ﬁnding of many prior studies that ﬁrm size may affect ﬁrm
+value depending on the extent of corruption, the quality of corporate governance, or the institutional
+environment, and more [ 16,42,52,62]. Speciﬁcally, in the Gyeongsang province, the value of this
+coefﬁcient changed from positive to negative. However, in the Jeolla region, ﬁrm size has a consistently
+negative association with ﬁrm value over time. Furthermore, leverage has a positive and signiﬁcant
+correlation with ﬁrm value in all regions across the study period, which is also supported by other
+studies [3,42,48,49,85]. However, the R&D intensity variable is not signiﬁcant in general. However,
+it is only marginally signiﬁcant during Regime 3 in the Jeolla region.
+Table 3. Estimation results: basic results.
+Regime 1 Regime 2 Regime 3
+Region G Region J Region G Region J Region G Region J
+−0.029 ** 0.014 * 0.275 *** 0.041 * 0.313 *** −0.084 **
+PC dummy (0.010) (0.008) (0.017) (0.024) (0.019) (0.022)
+−0.065 *** −0.138 *** 0.026 −0.107 ** 0.081 ** −0.163 **
+Firm size (0.015) (0.024) (0.023) (0.038) (0.025) (0.035)
+0.781 *** 0.768 *** 0.522 *** 0.639 *** 0.345 *** 0.684 ***
+Leverage (0.024) (0.019) (0.052) (0.051) (0.062) (0.079)
+−0.000 −0.000 −0.000 −0.012 −0.000 0.000 **
+R&D intensity (0.000) (0.001) (0.000) (0.008) (0.007) (0.000)
+Year ﬁxed effects YES YES YES YES YES YES
+R2 0.62 0.91 0.44 0.62 0.36 0.41
+Number of Observations 847 176 770 160 770 160
+Standard errors are given in parentheses. *, *, and *** denote signiﬁcance at the 10%, 5%, and 1% level, respectively.
+Regime 1 = 1998S1–2003S1, Regime 2 = 2003S2–2008S1, Regime 3 = 2008S2–2013S1. Region G = the Gyeongsang
+province, or the southeastern region, Region J = the Jeolla province, or the southwestern region.
+
+--- PAGE 18 ---
+Sustainability 2019, 11, 327 18 of 25
+6.2. Robust Results
+To check whether the above results and inferences are robust, the study performs a further test by
+adding a new criterion to distinguish between PC and non-PC ﬁrms. Under the previous deﬁnition
+of PC, the study considered the social relations between CEOs or chairpersons and political ﬁgures,
+excluding their birthplace regions. As Kim [ 66] notes, the formation of the Korean social network
+yonjul is signiﬁcantly affected by whether individuals have the same region of origin. Birthplace-based
+regionalism extensively affects the building of interpersonal social networks including the promotion of
+political and economic elites and, especially, presidential and parliamentary elections during political
+and economic liberalization in South Korea. Prominently, Siegel [26] generates rich empirical evidence
+that having a CEO or chairperson who was born in Jeolla, Chungcheng, or even North Korea has a
+signiﬁcantly positive or negative correlation with forming cross-border alliances when South Korea
+liberalizes. Table 4 presents the estimation results using the same empirical strategy as in the baseline
+equation, but the independent variable is now PC_new rather than PC.
+Table 4. First robustness test results: New deﬁnition of political connection.
+Regime 1 Regime 2 Regime 3
+Region G Region J Region G Region J Region G Region J
+−0.040 *** 0.019 ** 0.246 *** 0.049 ** 0.278 *** −0.051 **
+PC dummy_new (0.010) (0.007) (0.017) (0.024) (0.018) (0.022)
+−0.064 *** −0.148 *** 0.025 −0.108 ** 0.083 ** −0.152 **
+Firm size (0.017) (0.025) (0.023) (0.038) (0.027) (0.066)
+0.767 *** 0.771 *** 0.525 *** 0.635 *** 0.335 *** 0.716 ***
+Leverage (0.023) (0.020) (0.052) (0.051) (0.063) (0.078)
+−0.000 −0.000 −0.000 −0.012 −0.000 0.000 **
+R&D intensity (0.000) (0.001) (0.000) (0.008) (0.007) (0.000)
+Year ﬁxed effects YES YES YES YES YES YES
+R2 0.62 0.91 0.44 0.62 0.36 0.41
+Number of Observations 847 176 770 160 770 160
+Standard errors are reported in parentheses. *, **, and *** represent signiﬁcance at the 10%, 5%, and 1% levels,
+respectively. Regime 1 = 1998S1–2003S1, Regime 2 = 2003S2 2008S1, Regime 3 = 2008S2–2013S1. Region G = the
+Gyeongsang province, or southeastern region, Region J = the Jeolla province, or southwestern region.
+The results of the robustness check, based on the added deﬁnition of political connection, such as
+the basic results in Table 3, ﬁrmly support all hypotheses. Columns 1 and 2 show that political
+connections in Gyeongsang have a negative effect on ﬁrm value, which is statistically signiﬁcant
+at the 1% level during Regime 1 (compared with the 5% level in Table 3). However, those in
+Jeolla have a positive effect on ﬁrm value during Regime 1, which is statistically signiﬁcant at the
+5% level (compared with the 10% level in Table 3). In columns 3 and 4, political connections in
+Gyeongsang still have a positive and statistically highly signiﬁcant association with ﬁrm during
+Regime 2 even though the value of this coefﬁcient is slightly smaller than that in Table 3. Additionally,
+in Jeolla, political connections have a positive and statistically signiﬁcant association with ﬁrm value
+at the 5% level during Regime 2 (compared with the 10% level in Table 3). In columns 5 and 6,
+political connections in Gyeongsang still have positive and highly statistically signiﬁcant effects on
+ﬁrm value during Regime 3 while they have a signiﬁcantly negative correlation with ﬁrm value in
+Jeolla. Yet, the value of the coefﬁcient is slightly lower than the corresponding value in Table 3. Lastly,
+all the control variables exhibit very similar results to those in Table 3.
+Furthermore, the study tests for the robustness of these estimations using a more elaborate
+condition. There are cross-sectional subregions even within the southeastern Gyeongsang and
+southwestern Jeolla provinces: Gyeongsang Bukdo (North) and Gyeongsang Namdo (South)and
+Jeolla Bukdo (North) and Jeolla Namdo (South). Historically, there is longstanding sub-regional
+competition within Gyeongsang between the elites from Gyeongsang Bukdo, which are dominated by
+Daegu (TK), and those from Gyeongsang Namdo, which are dominated by Busan (PK). Among Korean
+
+--- PAGE 19 ---
+Sustainability 2019, 11, 327 19 of 25
+presidents, Park Jung Hee, Roh Tae Woo, Lee Myung Bak, and current president Park Geun Hye are all
+from TK, whereas Chun Doo Hwan, Kim Young Sam, and Roh Mu Hyun are from PK. As Siegel [26]
+describes, the competition between the TK-based networks and the PK-based networks for resources
+has been ﬁerce since 1980, inﬂuencing the presidential and parliamentary elections, social relations,
+and business-government relationship. In fact, the dichotomous results of the presidential elections in
+1997, when 61.9% of TK voted for Lee Hoi Chang and 31.3% of PK voted for Rhee In Je, and in 2003,
+when 73.4% of TK voted for Lee Hoi Chang and 27.0% of PK voted for Roh Moo Hyun, reﬂect that this
+sub-regional competition remains inﬂuential within Gyeongsang. In contrast, such competition has
+not generally been observed within Jeolla.
+To consider this condition, the study utilizes the political connection dummy_area. First,
+during Kim Dae Jung’s administration (Regime 1), the dummy takes the value of one for politically
+connected ﬁrms from both the Gyeongsang Namdo and Jeolla Namdo provinces, given that Kim Dae
+Jung was born in Jeolla Namdo and the previous president, Kim Young Sam, was born in Gyeongsang
+Namdo. Otherwise, the dummy takes a value of zero. Second, during Roh Mu Hyun’s administration
+(Regime 2), the dummy takes the value of one for politically connected ﬁrms from both the Gyeongsang
+Namdo and Jeolla Namdo provinces, considering that Roh Mu Hyun was born in Gyeongsang Namdo
+and the previous president, Kim Dae Jung, was born in Jeolla Namdo. Otherwise, it takes a value of
+zero. Third, during Lee Myung Bak’s administration (Regime 3), the dummy takes the value of one for
+politically connected ﬁrms from both Gyeongsang Bukdo and Jeolla Namdo since Lee Myung Bak was
+born in Japan but his supporting subregion is Gyeongsang Bukdo and the previous president, Roh Mu
+Hyun, was born in Gyeongsang Namdo but his supporting subregion is Jeolla Namdo. Speciﬁcally,
+the top 500 ﬁrms listed on the Korea Stock Exchange in the Gyeongsang Namdo region are considered
+because only 18 of the 77 ﬁrms are located in Gyeongsang Bukdo. Otherwise, the dummy takes a
+value of zero. Thus, 20 ﬁrms (13 in Gyeongsang and 2 ﬁrms in Jeolla) are removed from the set of
+politically connected ﬁrms during the study period (Table 2). Table 5 shows the estimation results
+using the same empirical strategy as in the baseline equation but using PC_area rather than PC as the
+independent variable.
+Table 5. Second robustness test results: New deﬁnition of political connection.
+Regime 1 Regime 2 Regime 3
+Region G Region J Region G Region J Region G Region J
+PC dummy_area −0.032 ** 0.067 *** 0.211 *** −0.005 0.293 *** −0.159 ***
+(0.011) (0.007) (0.017) (0.026) (0.022) (0.034)
+Firm size −0.066 *** −0.112 *** 0.048 * −0.114 ** 0.048 −0.208 **
+(0.017) (0.025) (0.025) (0.037) (0.030) (0.062)
+Leverage 0.777 *** 0.785 *** 0.536 *** 0.655 *** 0.387 *** 0.770***
+(0.022) (0.020) (0.054) (0.051) (0.063) (0.078)
+R&D intensity −0.000 0.000 −0.000 −0.013 −0.009 0.000
+(0.000) (0.001) (0.000) (0.008) (0.007) (0.000)
+Year ﬁxed effects YES YES YES YES YES YES
+R2 0.62 0.92 0.38 0.62 0.30 0.50
+Number of Observations 847 176 770 160 770 160
+Standard errors are reported in parentheses. *, **, and *** denote signiﬁcance at the 10%, 5%, and 1% levels,
+respectively. Regime 1 = 1998S1–2003S1, Regime 2 = 2003S2–2008S1, Regime 3 = 2008S2–2013S1. Region G = the
+Gyeongsang province, or the southeastern region, Region J = the Jeolla province, or the southwestern region.
+The results of the robustness check based on the sub-regional competition, like the basic results in
+Table 3, also strongly support all hypotheses. In columns 1 and 2, political connections in Gyeongsang
+still have a negative and statistically signiﬁcant correlation with ﬁrm value during Regime 1 even
+though the value of the coefﬁcient is slightly higher than in Table 3. In addition, those in Jeolla have a
+positive correlation with ﬁrm value during Regime 1. The result is statistically signiﬁcant at the 1%
+level (compared with the 10% level in Table 3). In columns 3 and 4, political connections in Gyeongsang
+
+--- PAGE 20 ---
+Sustainability 2019, 11, 327 20 of 25
+still have a positive and statistically highly signiﬁcant association with ﬁrm value during Regime 2
+even though the value of the coefﬁcient is slightly lower than that in Table 3. Unexpectedly, in Jeolla,
+political connections have a slight negative association with ﬁrm value, and the statistical signiﬁcance
+disappears, which differs from signiﬁcance at the 10% level in Table 3. This result is not very surprising
+because of the reduced sample size (Table 2). In columns 5 and 6, political connections in Gyeongsang
+still have positive and highly statistically signiﬁcant effects on ﬁrm value during Regime 3 even though
+the value of the coefﬁcient is slightly lower than it is in Table 3. Furthermore, political connections
+still have a negative correlation with ﬁrm value in Jeolla during Regime 3, and this relationship is
+statistically signiﬁcant at the 1% level (compared with the 5% level in Table 3). All the results for the
+control variables are similar to those in Table 3.
+7. Conclusions
+Prior studies simply argue that political network ties have only positive, negative, or no effects
+on ﬁrm value in a given political and economic environment, but no deﬁnitive empirical study
+has addressed the impact of changes in the environment on changes to net ﬁrm value over time in
+emerging and transitioning economies. Fundamentally, this study ﬁnds that political network ties to
+the regime currently in power have signiﬁcantly positive effects on politically connected ﬁrms but
+not on non-connected ﬁrms and that political network ties to the political opposition to the regime in
+power has signiﬁcantly negative effects on politically connected ﬁrms but not on non-connected ﬁrms.
+Moreover, from a contingency perspective, unexpected political regime changes have a sharp effect on
+the relationship between political ties and ﬁrm value over time. Lastly, political network ties continue
+to be highly positive and signiﬁcant determinants of ﬁrm value over time throughout regime changes
+after the political and economic liberalization in South Korea.
+Several prior studies only focus on relationships between political and economic actors as having
+positive effects, negative effects, or no correlation with ﬁrm value in emerging and transitioning
+economies, but they do not investigate the inﬂuence of changes to the political and economic
+environments on overall ﬁrm value as time passes from a contingency perspective [ 1–4,7,9]. Thus,
+the ﬁndings of this study further extend the focus of the existing literature by arguing that political
+capital is not immovable but rather that a ﬁrm can enjoy positive beneﬁts from reciprocal social network
+ties for a certain period, even though these ties can conversely contribute to negative treatment by
+a rival network later on. Similarly, negative treatment from a rival network may change at another
+time. Clearly, these positive cascades of favorable treatment and negative cascades of out-group
+exclusion reinforce regionalism, social cleavage, conﬂict, exclusion, and competition for political and
+economic resources during regime changes. Since the study ﬁndings provide evidence that corporate
+political ties could have signiﬁcantly positive or negative impact on ﬁrm value depending on political
+environments, corporate and political risk management should consider the characteristics and set
+time-varying policies.
+Another signiﬁcant ﬁnding of this study is that political network ties remained signiﬁcant
+determinants of ﬁrm value even after South Korea achieved political and economic liberalization.
+Whether political connections gradually diminish in value [3,47,49] or still play a signiﬁcant role [57,58]
+after political and economic liberalization is a heated debate in the ﬁeld of political economy.
+The empirical results of this study strongly support the notion that business-government network ties
+between CEOs, chairpersons, or large shareholders and politicians, top government ofﬁcials, or senior
+civil servants generate positive beneﬁts from 1998 to 2013, which is the sample period of this study.
+This reﬂects that the government still controls resources in market economies as the director of the
+market, the regulator of industry policies, and a patron of speciﬁc ﬁrms after liberalization.
+This study also raises further questions that cannot be readily answered with the current data.
+First, although this study shows that the value of political connections changes within and between
+rival regions as time passes, depending on regime changes, an unanswered question is how different
+politically connected ﬁrms are and how many of these differences change over time across ﬁrms in the
+
+--- PAGE 21 ---
+Sustainability 2019, 11, 327 21 of 25
+two regions. As previously mentioned, this study was conducted based on semi-annual data and could
+not employ control variables for city-level economic development due to the relatively small sample
+size in Jeolla. One possible alternative is to increase the sample size in that region using listed ﬁrms
+on the Korean Securities Dealers Automated Quotations, which is similar to the NASDAQ, and to
+perform a quantitative comparison within and between those two regions.
+Second, although this study uses the standard deﬁnition of political connection, it manually
+collected information from databases, government websites, and newspapers. The micro characteristics
+of political connections cannot easily be identiﬁed from such sources, which may distort the results.
+We need strategies to precisely detect political connectedness between ﬁrms and the government,
+reduce the number of sampling errors in constructing dummy variables, and effectively alleviate the
+effect of observed heterogeneity across ﬁrms. Recent studies employ the propensity score matching
+method to control the conditions on potential confounds, which eliminates spurious results [34,45].
+Introducing these statistical strategies enhances the estimation results considerably.
+Lastly, one of the main ﬁndings of this study is that political capital is not immovable,
+which reﬂects the positive and negative dynamics of political capital. The results reveal a series
+of positive cascades of favorable treatment and a series of negative cascades of out-group exclusion.
+However, the conditions under which these positive and negative connections are most advantageous
+or harmful remain unclear, including the reasons for change in the direction of their effects. Speciﬁcally,
+it remains to be determined if discriminatory treatment immediately increases after the opposition
+gains power and if the positive connection between political and economic actors is stronger. Similarly,
+it remains to be seen whether favorable treatment immediately increases after the opposition network
+gains power if the negative connection between the actors is stronger. From the ﬁrm’s perspective,
+an important question is whether only one-sided political ties to the government provide more beneﬁt
+or whether multiple-deal connections more stably improve ﬁrm value over a long time horizon. It is
+not possible to answer these questions with the current data. Eminently, Zhu and Chung [13] show
+that a ﬁrm’s portfolio of political ties, including ruling and opposition parties, affects its performance,
+which provides theoretical insight into a promising task using the concept of diversiﬁcation strategies.
+This study has several limitations, which can be addressed in future extensional research. First,
+this study investigates the contingent value of political connections for ﬁrms in South Korea, which is
+a representative emerging economy. However, as Walder [28,29] mentions, because countries vary
+widely in terms of the extent, order, speed, and phase of political and economic reform as time passes
+in emerging and transitioning economies and even in developed economies [8,24,50], the determinants,
+aspects, and consequences of political capital dynamics also have vast cross-national heterogeneity
+depending on the institutional environment. Different types of political systems (i.e., multi-party or
+single-party democracy, communism, military dictatorship, and so on), different economic structures
+(i.e., planned, market, or mixed economies), and different strengths of regulatory constraints from
+government policies may have complex effects on the contingent positive and negative values over
+time. Thus, various types of favor exchanges and discrimination or exclusion may operate between
+rival political and economic actors. These contradictory interactions may inﬂuence overall ﬁrm value
+differently. Second, the current empirical estimation is not immune from the endogeneity problem.
+One may address the potential endogeneity problem between corporate political ties and ﬁrm value
+based on the recent remedy in Li [85]. Third, small ﬁrms are more likely to be connected to small rival
+parities not in power and larger ﬁrms to be connected to large parties in power, and, thus, an alternative
+measure for ﬁrm size could be considered [86]. Lastly, the study could have obtained better results
+if it had considered the channels through which political ties affect ﬁrm outcomes. One important
+channel could be corporate governance mechanisms such as the effect of board composition or market
+competition. These limitations are left for future studies to address.
+Author Contributions: C.Y.C. designed the research. J.H.B. performed research and analyzed the data. C.Y.C.,
+S.J., and J.Y. wrote the paper. All authors read and approved the ﬁnal manuscript.
+Funding: This research received no external funding.
+
+--- PAGE 22 ---
+Sustainability 2019, 11, 327 22 of 25
+Acknowledgments: We would like to thank the three reviewers for their helpful comments and suggestions.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Fisman, R. Estimating the value of political connections. Am. Econ. Rev. 2001, 91, 1095–1102. [CrossRef]
+2. Khwaja, A.I.; Mian, A. Do lenders favor politically connected ﬁrms? Rent provision in an emerging ﬁnancial
+market. Q. J. Econ. 2005, 120, 1371–1411. [CrossRef]
+3. Faccio, M. Politically connected ﬁrms. Am. Econ. Rev. 2006, 91, 369–386. [CrossRef]
+4. Claessens, S.; Feijen, E.; Laeven, L. Political connections and preferential access to ﬁnance: The role of
+campaign contributions. J. Financ. Econ. 2008, 88, 554–580. [CrossRef]
+5. Shleifer, A.; Vishny, R.W. Politicians and ﬁrms. Q. J. Econ. 1994, 109, 995–1025. [CrossRef]
+6. Shleifer, A.; Vishny, R.W.The Grabbing Hand: Government Pathologies and Their Cures ; Harvard University
+Press: Cambridge, MS, USA, 2002.
+7. Hellman, J.S.; Jones, G.; Kaufmann, D. Seize the state, seize the day: State capture and inﬂuence in transition
+economies. J. Comp. Econ. 2003, 31, 751–773. [CrossRef]
+8. Bertrand, M.; Kramarz, F.; Schoar, A.; Thesmar, D. Politicians, Firms and the Political Business Cycle:
+Evidence from France. Available online: http://www.crest.fr/ckfinder/userﬁles/files/Pageperso/kramarz
+/politics_060207_v4.pdf (accessed on 17 January 2018).
+9. Fan, J.P .; Wong, T.J.; Zhang, T. Politically connected CEOs, corporate governance, and post-IPO performance
+of China’s newly partially privatized ﬁrms. J. Financ. Econ. 2007, 84, 330–357. [CrossRef]
+10. Boubakri, N.; Cosset, J.; Saffar, W. Political connections of newly privatized ﬁrms.J. Corp. Financ. 2008, 14,
+654–673. [CrossRef]
+11. Shleifer, A.; Vishny, R.W. Corruption. Q. J. Econ. 1993, 108, 599–617. [CrossRef]
+12. Agrawal, A.; Knoeber, C.R. Do some outside directors play a political role? J. Law Econ. 2001, 44, 179–198.
+[CrossRef]
+13. Zhu, H.; Chung, C. The Portfolio of Political Ties and Market Entries of Business Groups in Emerging
+Economies: Evidence from Taiwan. Adm. Sci. Q. 2014, 59, 599–638. [CrossRef]
+14. Imai, M. Mixing family business with politics in Thailand. Asian Econ. J. 2006, 20, 241–256. [CrossRef]
+15. Burt, R.S. The contingent value of social capital. Adm. Sci. Q. 1997, 42, 339–365. [CrossRef]
+16. Yeh, Y.; Shu, P .; Chiu, S. Political connections, corporate governance and preferential bank loans.Pac. Basin
+Finan. J. 2013, 21, 1079–1101. [CrossRef]
+17. Hillman, A.J.; Zardkoohi, A.; Bierman, L. Corporate political strategies and ﬁrm performance: Indications of
+ﬁrm speciﬁc beneﬁts from personal service in the US government. Strat. Manag. J. 1999, 20, 67–81. [CrossRef]
+18. Peng, M.W.; Luo, Y. Managerial ties and ﬁrm performance in a transition economy: The nature of a
+micro-macro link. Acad. Manag. J. 2000, 43, 486–501.
+19. Kroszner, R.S.; Stratmann, T. Interest-group competition and the organization of congress: Theory and
+evidence from ﬁnancial services’ political action committees. Am. Econ. Rev. 1998, 1163–1187.
+20. Smith, A. The Logic of Political Survival; MIT Press: Cambridge, MA, USA, 2005.
+21. Bellettini, G.; Berti Ceroni, C.; Prarolo, G. Political Persistence, Connections and Economic
+Growth. Available online: http://pseweb.eu/ydepot/semin/texte0809/BEL2009POL.pdf (accessed on
+25 January 2018).
+22. Leuz, C.; Oberholzer-Gee, F. Political relationships, global ﬁnancing, and corporate transparency:
+Evidence from Indonesia. J. Financ. Econ. 2006, 81, 411–439. [CrossRef]
+23. Goldman, E.; Rocholl, J.; So, J. Political Connections and the Allocation of Procurement Contracts.
+Available online: http://idei.fr/sites/default/ﬁles/medias/doc/conf/icied/papers_2011/goldman.pdf
+(accessed on 3 February 2018).
+24. Goldman, E.; Rocholl, J.; So, J. Do politically connected boards affect ﬁrm value? Rev. Financ. Stud. 2009, 22,
+2331–2360. [CrossRef]
+25. Choi, J.P .; Thum, M. The economics of politically-connected ﬁrms.Int. Tax Pub. Financ. 2009, 16, 605–620.
+[CrossRef]
+26. Siegel, J. Contingent political capital and international alliances: Evidence from South Korea. Adm. Sci. Q.
+2007, 52, 621–666. [CrossRef]
+
+--- PAGE 23 ---
+Sustainability 2019, 11, 327 23 of 25
+27. Parish, W.L.; Michelson, E. Politics and markets: Dual transformations. Am. J. Sociol. 1996, 1042–1059.
+[CrossRef]
+28. Walder, A.G. Markets and inequality in transitional economies: Toward testable theories. Am. J. Sociol. 1996,
+101, 1060–1073. [CrossRef]
+29. Walder, A.G. Elite opportunity in transitional economies. Am. Sociol. Rev. 2003, 68, 899–916. [CrossRef]
+30. Bunkanwanicha, P .; Wiwattanakantang, Y. Big business owners in politics. Rev. Financ. Stud. 2009, 22,
+2133–2168. [CrossRef]
+31. Stark, D. Recombinant property in east European capitalism. Am. J. Sociol. 1996, 101, 993–1027. [CrossRef]
+32. Stark, D.; Bruszt, L. Postsocialist Pathways: Transforming Politics and Property in East Central Europe ;
+Cambridge University Press: Cambridge, UK, 1998.
+33. Whyte, M.K. Paradoxes of China’s economic boom. Ann. Rev. Sociol. 2009, 35, 371–392. [CrossRef]
+34. Haveman, H.A.; Jia, N.; Shi, J.; Wang, Y. China’s economic transition and the value of ﬁrms’ political
+connections: A longitudinal study of publicly listed ﬁrms. Available online: http://www-bcf.usc.edu/~{}y
+ongxiaw/text%202013-06-20.pdf (accessed on 5 January 2018).
+35. Boisot, M.; Child, J. From ﬁefs to clans and network capitalism: Explaining China’s emerging economic
+order. Adm. Sci. Q. 1996, 600–628. [CrossRef]
+36. Do, Q.; Lee, Y.; Nguyen, B.D.; Nguyen, K. Out of Sight, Out of Mind: The Value of Political Connections in
+Social Networks. Available online: https://mercury.smu.edu.sg/rsrchpubupload/20710/22-2012_OutofSig
+htOutofMindTheValueofPoliticalConnectionsinSocialNetworks.pdf (accessed on 1 March 2018).
+37. Levine, M.E.; Florence, J.L. Regulatory capture, public interest, and the public agenda: Toward a synthesis.
+J. Law Econ. Organ. 1990, 6, 167–198. [CrossRef]
+38. Mantere, S.; Pajunen, K.; Lamberg, J.A. Vices and virtues of corporate political activity: The challenge of
+international business. Bus. Soc. 2009, 48, 105–132. [CrossRef]
+39. Knights, D.; Morgan, G. Corporate strategy, organizations and subjectivity: A critique. Organ. Stud. 1991, 12,
+251–273. [CrossRef]
+40. Lilley, S. The language of strategy. InThe Language of Organization; Westwood, R., Linstead, S., Eds.; Sage:
+London, UK, 2001; pp. 66–88.
+41. Li, F. Endogeneity in CEO power: A survey and experiment. Invest. Anal. J. 2016, 45, 149–162. [CrossRef]
+42. Hu, F.; Leung, S. Appointment of Political Top Executives and Subsequent Performance and Corporate
+Governance: Evidence from China’s Listed SOEs. Available online: https://papers.ssrn.com/sol3/papers.cf
+m?abstract_id=1361617 (accessed on 17 February 2018).
+43. Chang, E.C.; Wong, S.M. Corporate Governance, Political Interference, and Corporate Performance of China’s
+Listed Companies. Available online: http://www.hiebs.hku.hk/public/working_papers/pdf/wp1037.pdf
+(accessed on 12 March 2018).
+44. Liu, Q.; Luo, W.; Xu, N. Political Motivation, Over-Investment and Firm Performance. Available online:
+https://poseidon01.ssrn.com/delivery.php?ID=65300409409910607307702700600707809504901703108309
+00350641000910960081231250910271210221020980311190630131020990800120000960710000200660870351
+01014099019064029073047043021000081029094016121117093112121081112089105120126078017008085009
+091116119113067&EXT=pdf (accessed on 3 February 2018).
+45. Hellman, J.; Schankerman, M. Intervention, corruption and capture: The nexus between enterprises and the
+state. Econ. Transit. 2000, 8, 545–576. [CrossRef]
+46. Shen, C.; Wang, Y.; Lin, C. Do strong corporate governance ﬁrms still require political connection?Int. Rev.
+Econ. Financ. 2015, 39, 107–120. [CrossRef]
+47. Wong, S.H. Political connections and ﬁrm performance: The case of Hong Kong. J. East. Asian Stud. 2010, 10,
+275–313. [CrossRef]
+48. Ang, J.S.; Ding, D.K.; Thong, T.Y. Political Connection and Firm Value. Available online: https://ink.library.
+smu.edu.sg/cgi/viewcontent.cgi?article=5438&context=lkcsb_research (accessed on 5 April 2018).
+49. Niessen, A.; Ruenzi, S. Political connectedness and ﬁrm performance: Evidence from Germany.Ger. Econ. Rev.
+2010, 11, 441–464. [CrossRef]
+50. Qin, B. Political Connection and Government Patronage: Evidence from Chinese Manufacturing Firms.
+Available online: https://www.hhs.se/contentassets/3f12530a0244444297c2eedca4602bb4/quin-paper.pdf
+(accessed on 12 January 2018).
+
+--- PAGE 24 ---
+Sustainability 2019, 11, 327 24 of 25
+51. Nee, V .; Opper, S. Political Connections in a Market Economy. Available online: https://pdfs.semanticschol
+ar.org/0f42/d87910a34cd781ac158b59774fbc08c357fa.pdf (accessed on 5 March 2018).
+52. Sheng, S.; Zhou, K.Z.; Li, J.J. The effects of business and political ties on ﬁrm performance: Evidence from
+China. J. Mark. 2011, 75, 1–15. [CrossRef]
+53. Johnson, S.; Mitton, T. Cronyism and capital controls: Evidence from Malaysia. J. Financ. Econ. 2003, 67,
+351–382. [CrossRef]
+54. Solinger, D.J. Urban entrepreneurs and the state: The merger of state and society. InState and Society in China;
+Rosenbaum, A.L., Ed.; Westview: Boulder, CO, USA, 1992; pp. 121–142.
+55. Sapienza, P . The effects of banking mergers on loan contracts. J. Financ. 2002, 57, 329–367. [CrossRef]
+56. Ferguson, T.; Voth, H. Betting on Hitler—The value of political connections in Nazi Germany. Q. J. Econ.
+2008, 123, 101–137. [CrossRef]
+57. Imai, M.; Shelton, C.A. Elections and political risk: New evidence from the 2008 Taiwanese Presidential
+Elections. J. Public Econ. 2011, 95, 837–849. [CrossRef]
+58. Bandeira-de-Mello, R.; Marcon, R.; Burstein Goldszmidt, R.G.; Zambaldi, F. Firm performance effects of
+nurturing political connections through campaign contributions. Afr. J. Bus. Manag. 2012, 6, 3327–3332.
+[CrossRef]
+59. Hung, M.; Wong, T.; Zhang, T. Political considerations in the decision of Chinese SOEs to list in Hong Kong.
+J. Account. Econ. 2012, 53, 435–449. [CrossRef]
+60. Jayachandran, S. The Jeffords effect. J. Law Econ. 2006, 49, 397–425. [CrossRef]
+61. Liedong, T.A. Corporate Political Activity and Firm Performance—A Systematic Review. Available online:
+http://dspace.lib.cranfield.ac.uk/handle/1826/8065 (accessed on 3 March 2018).
+62. Stam, W.; Arzlanian, S.; Elfring, T. Social capital of entrepreneurs and small ﬁrm performance:
+A meta-analysis of contextual and methodological moderators. J. Bus. Ventur. 2014, 29, 152–173. [CrossRef]
+63. Biggart, N.W. Explaining Asian economic organization. Theory Soc. 1991, 20, 199–232. [CrossRef]
+64. Orru, M.; Biggart, N.W.; Hamilton, G.G. Organizational Isomorphism in East Asia: Broadening the New
+Institutionalism; Institute of Governmental Affairs: Oakland, CA, USA, 1991; pp. 361–389.
+65. Biggart, N.W.; Hamilton, G.G. On the limits of a ﬁrm-based theory to explain business networks: The western
+bias of neoclassical economics. In Networks and Organizations: Structure, Form and Action ; Nohria, N.,
+Eccles, R., Eds.; Harvard Business School Press: Boston, MA, USA, 1992.
+66. Kim, Y. Social Networks within Korea: With a Special Reference to Regional Ties. Available online:
+http://web.yonsei.ac.kr/youngheart/profile1219.htm (accessed on 5 March 2018).
+67. Tu, W. The rise of industrial east Asia: The role of Confucian values. Cph. J. Asian Stud. 2008, 4, 81–98.
+68. Fukuyama, F. Trust: The Social Virtues and the Creation of Prosperity; Free Press: New York, NY, USA, 1995.
+69. Kim, N. Regionalism and Political Institutions in South Korea. Available online: https://lup.lub.lu.se/luur
+/download?func=downloadFile&recordOId=1473798&ﬁleOId=1473812 (accessed on 8 April 2018).
+70. Park, S.C. Regionalism in the South Korean context. Korea Publ. Adm. Rev. 2009, 0, 1–11.
+71. Khaled, I. Pakistan and Lessons from East Asia: Growth, Equity, and Governance. Available online:
+http://www.creb.org.pk/uploads/Khalid%20Ikram%20Policy%20Paper%2001-11%20Complete.pdf
+(accessed on 15 March 2018).
+72. Lee, S.J. Economic Voting and Regionalism in South Korea: A Statistical Analysis of the 2007 Presidential
+Election. Available online: https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/3779/Lee_
+duke_0066N_10841.pdf?sequence=1 (accessed on 16 February 2018).
+73. Park, G.S.; Ki, K.P . Rethinking the state-business relations in Park’s era: Business on the center stage.Asia Res.
+2010, 53, 126–225.
+74. Lee, M.G. Scandal of political connection: 1 billion of lobbying for the election. Donga, 3 March 2018; H3.
+75. Choi, H.S. Old School Ties—Boon or Bane? Available online: http://www.koreaherald.com/view.php?ud=
+20140312001410 (accessed on 15 March 2018).
+76. Kim, G.S. Korea disease: Collusion between government and ﬁrms. Segye, 4 April 2018; H12.
+77. Kim, H.Y . The national police investigate the company’s political fund scandal.Presssian, 16 January 2018; H7.
+78. Byun, H.J. Practical impossibility of political reform before 2007 presidential election. Upkorea,
+3 February 2018; H13.
+79. Choi, G.C. “Park Yun Cha Gate”: The result? Financial News, 15 January 2018; H5.
+
+--- PAGE 25 ---
+Sustainability 2019, 11, 327 25 of 25
+80. Gu, G.H.; Ryu, J.I. The investigation towards former president Roh. Kyunghyang, 5 March 2018; H2.
+81. Kim, C.H. “Jin Seung Hyun Gate” was not found guilty. Donga, 17 April 2018; H7.
+82. Black, B.S.; Jang, H.; Kim, W. Does corporate governance predict ﬁrms’ market values? Evidence from Korea.
+J. Law Econ. Org. 2008, 22, 366–413. [CrossRef]
+83. Lee, S.G. The declaration for Lee Myung Bak from Hyundai. Hankook, 3 May 2018; H5.
+84. Kim, T.G. BoHae scandals between Lim Gun Woo and Park Ji Yuan. Hankyoreh, 18 January 2018; H21.
+85. Li, Z.F. Mutual monitoring and corporate governance. J. Bank. Financ. 2014, 45, 255–269.
+86. Dang, C.; Li, Z.F.; Yang, C. Measuring ﬁrm size in empirical corporate ﬁnance. J. Bank. Financ. 2018, 86,
+159–176. [CrossRef]
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

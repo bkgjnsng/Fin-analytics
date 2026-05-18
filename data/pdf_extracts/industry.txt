@@ -1,0 +1,946 @@
+
+
+--- PAGE 1 ---
+The Financial Review 38 (2003) 531- -551
+Does an Industry Effect Exist for Initial
+Public Offerings?
+Aigbe Akhigbe
+University of Akron
+Stephen F. Borde∗
+University of Central Florida
+Ann Marie Whyte
+University of Central Florida
+Abstract
+We examine the impact of initial public offerings (IPOs) on rival firms and find that the
+valuation effects are insignificant. This insignificant reaction can be explained by offsetting
+information and competitive effects. Significant positive information effects are associated
+with IPOs in regulated industries and the first IPO in an industry following a period of dor-
+mancy. Significant negative competitive effects are associated with larger IPOs in competitive
+industries, those in relatively risky industries, those in high-performing industries, and those in
+the technology sector. IPO firms that use the proceeds for debt repayment appear to represent
+a more significant competitive threat to rival firms relative to IPO firms that use their proceeds
+for other purposes.
+Keywords: Initial public offering, IPO, intra-industry effects, competitive effects, information
+effects
+JEL Classification: G14
+∗Corresponding author : Department of Finance, College of Business Administration, University of
+Central Florida, Orlando, FL 32816-1400; Phone: (407) 823-2977; Fax: (407) 823-6676; E-mail:
+stephen.borde@bus.ucf.edu
+531
+
+--- PAGE 2 ---
+532 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+1. Introduction
+The literature presents clear evidence that initial public offerings (IPOs) of equity
+are underpriced. For example, Ibbotson and Ritter (1995) observe that IPO underpric-
+ing for the period from 1960 to 1992 is about 15%, on average. However, existing
+studies focus primarily on the valuation effects for the issuing firm. We examine
+whether the announcement of an IPO also has industry-wide implications. We are
+motivated to consider the issue by previous studies which have shown that firm-level
+announcements have implications for rival firms. For example, Lang and Stulz (1992)
+and Cheng and McDonald (1996) find that bankruptcy announcements have signif-
+icant implications for rival firms. Similarly, Slovin, Sushka, and Poloncheck (1992)
+document significant intra-industry effects for seasoned equity issues by commer-
+cial and investment banks, Akhigbe, Madura, and Whyte (1997) for bond rating
+downgrades resulting in significant negative effects for rivals, and Kohers (1999) for
+dividend omissions. Other studies document insignificant intra-industry effects on
+average. For example, Laux, Starks, and Yoon (1998) find that large dividend changes
+have diverse effects within the same industry, resulting in insignificant average price
+changes, and Hertzel (1991) finds insignificant announcement period abnormal re-
+turns for rivals in response to stock repurchases. Similarly, Howe and Shen (1998)
+find that dividend initiations do not contain an industry-wide component. Instead,
+the information conveyed by dividend initiations is firm-specific, resulting in no
+discernible intra-industry effect.
+In this context, we test the hypothesis that an IPO may have significant intra-
+industry implications. An IPO is likely to have industry-wide implications for at least
+two reasons. First, an IPO could signal a change in the outlook for the industry as a
+whole, resulting in significant valuation effects for rival firms.
+1 Second, the IPO could
+cause a reassessment of the competitive balance within the industry. Since the IPO
+raises funds that the firm can use to expand and compete more effectively, the firm
+could gain a competitive advantage over its rivals. Indeed, Slovin, Sushka, and Ferraro
+(1995) find that rivals react negatively to the 107 IPOs in their sample. They conclude
+that the negative reaction occurs because the IPO conveys unfavorable information
+to the market regarding industry prospects. However, their primary focus is on rival
+reaction to equity carve-outs, spinoffs, and asset sell-offs. Further, they do not explore
+underlying differences in the characteristics of the IPO or the industry that could cause
+the reaction of rivals to vary. We build on their work using a more comprehensive
+sample to explicitly examine the factors that explain the diverse valuation effects of
+rival firms.
+We find that the valuation effects for rival firms are insignificant, seeming to
+indicate that IPOs are purely firm-specific events with no implications for rivals.
+1 Alternatively, one might argue that a favorable industry outlook triggers an attractive environment for a
+firm in that industry to go public.
+
+--- PAGE 3 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 533
+However, we find that the insignificant reaction can be explained by the presence of
+offsetting positive information and negative competitive effects. Significant positive
+information effects are associated with IPOs in regulated industries and the first
+IPO in the industry following a period of dormancy. Significant negative competitive
+effects are associated with relatively large IPOs in highly competitive industries,
+those in relatively risky industries, those in high-performing industries, and those in
+the technology sector. IPO firms that use the proceeds for debt repayment appear to
+represent a more significant competitive threat to rival firms relative to firms that use
+their proceeds for other purposes.
+2. Hypotheses
+The impact of an IPO on rival firms may vary, depending on several factors.
+First, an IPO could convey information that is relevant to the industry as a whole,
+causing a revaluation of rival firms’ share prices (information effects). Second, an
+IPO could alter the competitive balance within the industry, causing the market to
+reassess the relative competitiveness of rival firms (competitive effects). Finally, an
+IPO may have an insignificant impact on a sample of rivals, either because the event
+is firm specific or has a diverse impact on rivals, resulting in insignificant effects on
+average.
+2.1. Information effects
+Ritter (1991) argues that firms may choose to go public when investors are
+“irrationally over-optimistic” about the future of certain industries. Thus, an IPO could
+be construed as a favorable signal for the industry as a whole, causing rival firms’ share
+prices to be revised upwards. Conversely, Slovin, Sushka, and Ferraro (1995) note that
+managerial signaling models developed by Leland and Pyle (1977) and Titman and
+Trueman (1986), among others, are built on the assumption that there is an adverse
+selection problem associated with the decision to go public. Given that managers
+of the IPO firm are presumed to be better informed than outside investors, outside
+investors infer negative signals from the decision to go public. If the information is
+pertinent to the industry as a whole, the share prices of rival firms should fall. The
+following factors are examined to test for information effects.
+Relative size of rival firms : Following Atiase (1985), we hypothesize that the
+strength of the signal conveyed by an IPO is inversely related to the relative size of
+rivals. Since smaller firms are not as closely followed by analysts, there is generally
+less information available about smaller firms. Thus, the incremental information
+conveyed by the IPO is likely to cause a more significant revaluation in the share
+prices of relatively small rivals.
+Regulation in the industry: Kohers (1999) argues that industries that are relatively
+homogeneous may have a more pronounced reaction to intra-industry information
+transfer. One measure of the degree of homogeneity is the presence of regulation.
+
+--- PAGE 4 ---
+534 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+Kohers notes that the constraints imposed by regulation result in less diversity across
+firms, increasing the propensity of investors to draw industry-wide inferences from
+firm-level events such as IPOs. Thus, we expect IPOs by firms in regulated industries
+to have stronger information effects for rivals.
+Stock exchange of IPO : The exchange on which shares of the IPO firm trade
+may be an important determinant of rival valuation effects. One school of thought
+suggests that NYSE-traded firms have a higher level of institutional ownership and
+are generally more actively traded, causing investors to assign greater importance to
+information related to such firms (Kohers, 1999). Another school of thought suggests
+that the opposite may be true. This is based on the assertion that there is a greater
+degree of information asymmetry regarding NASDAQ-traded firms, which could
+cause the incremental information released by the IPO to be more valuable. Thus,
+the relation between the stock exchange of the IPO and rival valuation effects is an
+empirical question.
+First IPO in the industry: Previous intra-industry studies (Akhigbe, Madura, and
+Whyte, 1997) have shown that the first event is generally associated with the strongest
+rival valuation effects. Thus, we expect that the first IPO in an industry following a
+period of dormancy should have the strongest information effects. The advent of a
+new IPO generates additional exposure, both for the IPO firm and the industry as a
+whole. To the extent that an IPO conveys information that is relevant to the industry
+as a whole, the first IPO should result in more pronounced valuation effects for rivals
+relative to subsequent IPOs.
+2.2. Competitive effects
+The decision to go public could cause investors to reevaluate the competitive
+position of the IPO firm relative to its rivals. Since the IPO increases the visibility of
+the firm and raises funds that the firm can use to expand and compete more effectively,
+the firm could gain a competitive advantage. These changes are likely to affect rivals
+adversely. The following factors are examined to test for competitive effects.
+Growth opportunities within the industry : The extent of growth opportunities
+within the industry could affect the ability of a rival firm to respond to the com-
+petitive threat of a newly public firm. Firms with relatively high Tobin ’s q ratios
+are likely to have more investment opportunities than those with relatively low
+q ratios (Lang, Stulz, and Walkling, 1991). In the context of the entire industry,
+rivals with relatively low q ratios should have fewer growth prospects and may not
+have the ability to respond to the competitive threat of a newly public firm with
+greater resources. Consequently, they are more likely to be adversely affected by
+an IPO.
+Degree of concentration within the industry: We expect that rivals in less concen-
+trated (more competitive) industries will experience more severe competitive effects
+(Lang and Stulz, 1992). The additional capital raised by the IPO firm is more likely
+to be a threat to rivals in industries with a relatively low degree of concentration.
+
+--- PAGE 5 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 535
+Interaction of degree of concentration and IPO size : We expect that relatively
+large IPOs in industries with a low degree of concentration (highly competitive in-
+dustries) should have the strongest competitive effects. The greater the size of the
+IPO, the more funds available to the firm and the greater the potential competi-
+tive threat. This threat would be exacerbated in an industry that is already highly
+competitive.
+Use of proceeds: The proceeds generated by an IPO may be used for different
+purposes including debt repayment, expansion, and acquisition financing. On one
+hand, use of IPO proceeds for purposes such as financing an expansion could gen-
+erate a stronger competitive advantage for the IPO firm. Alternatively, use of the
+proceeds for debt repayment could enhance the firm ’s competitive position to the
+extent that its debt burden is reduced. In this case, rivals may react more adversely to
+the IPO.
+Relative risk level of rival firms: Rivals with a relatively high level of risk could
+be limited in their ability to challenge their competitors or respond appropriately to
+the competitive threat. Thus, to the extent that the risk level of rivals is higher than
+that of the IPO firm, the competitive effects should be stronger.
+Prior performance of rival firms : Underperforming rivals are more likely to
+be adversely affected by a new IPO, because they may not have the capacity to
+respond appropriately to the additional competition. Alternatively, high-performing
+rivals could lose because firms tend to enter industries with excess rents. As more
+competition enters the industry, the market anticipates that excess rents will be re-
+duced, causing high-performing rivals to react negatively.
+Technology IPO: Kohers and Kohers (2000) find that high-tech targets are per-
+ceived as relatively attractive investments because of the higher growth potential
+of technology firms. In general, the high technology industry is characterized by a
+high degree of competition, a rapidly changing environment, and a high level of un-
+certainty. In this environment, the entrance of a newly public firm with additional
+resources would place rivals at a competitive disadvantage, causing them to react
+more adversely to an IPO.
+Degree of similarity: Lang and Stulz (1992), Firth (1996), and Erwin and Miller
+(1998) argue that the degree of similarity between a firm and its rivals may influence
+the intra-industry effects. Thus, we hypothesize that rivals whose returns are relatively
+highly correlated with the IPO firm are more likely to be impacted by the IPO.
+2.3. Insignificant effects
+Two interpretations of an insignificant impact on rivals are plausible. First, the
+event is firm-specific with no corresponding implications for rivals. Evidence of
+this type of firm-specific event is presented by Hertzel (1991) for stock repurchases
+and Howe and Shen (1998) for dividend initiations. Second, the event could have
+heterogeneous effects within the industry. In this case, the IPO could have industry-
+wide implications that are being obscured by offsetting information and competitive
+
+--- PAGE 6 ---
+536 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+Table 1
+Distribution of IPOs (1989–2000)
+This table presents the number of IPOs per year and the percentage of the total number of IPOs occurring
+each year. The sample of IPOs is obtained from Thomson Financial.
+IPO filings with CRSP
+SIC code and at least
+one publicly traded
+Year All IPO filings % of total rival firm % of total
+1989 15 0.38 10 0.40
+1990 119 3.05 65 2.61
+1991 291 7.45 182 7.30
+1992 354 9.06 206 8.26
+1993 509 13.03 292 11.71
+1994 341 8.73 219 8.78
+1995 399 10.22 293 11.75
+1996 586 15.00 408 16.37
+1997 413 10.57 258 10.35
+1998 242 6.20 135 5.42
+1999 432 11.06 319 12.80
+2000 205 5.25 106 4.25
+TOTAL 3,906 100.00 2,493 100.00
+effects. For example, Laux, Starks, and Yoon (1998) find that the information and
+competitive effects offset, resulting in insignificant returns on average to rivals of
+firms announcing large dividend revisions.
+3. Sample selection and methodology
+The sample of all IPO filings occurring between 1989 and 2000 is obtained
+from Thomson Financial. The sample consists of 3,906 IPO filings occurring on the
+NYSE, AMEX, and NASDAQ that have data available from the Center for Research
+in Security Prices (CRSP).
+2 When we impose the requirement that each IPO firm
+have at least one publicly traded rival with the same Standard Industry Classification
+(SIC) code, the sample is reduced to 2,493 IPOs. Table 1 shows the distribution of
+all IPO filings and IPO filings with at least one publicly traded rival. The number of
+IPO filings ranges from a minimum of 15 in 1989 to a maximum of 586 in 1996. The
+sample of IPO filings with at least one publicly traded rival ranges from a low of ten
+in 1989 to a high of 408 in 1996.
+2 We exclude spinoffs from the sample because some capital generally flows to the parent company, which
+could confound the results.
+
+--- PAGE 7 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 537
+3.1. Assessing rival abnormal returns
+We obtain abnormal returns (ARs) for rival firms using the standard event study
+methodology. The ARs are assessed on both the filing date and the initial trading
+date. Since the filing date is the date on which public information first becomes
+available about the new competition, rivals are likely to react on the filing date.
+Rivals could also react when the IPO first begins trading, since additional information
+may be released during that period. Following Lang and Stulz (1992), we form an
+equally-weighted portfolio of publicly traded rival firms that share the same Standard
+Industrial Classification (SIC) code as the IPO firm on both the filing date and the
+initial trading date (day 0). This procedure accounts for potential cross-sectional
+correlation of returns in the industry. We use the returns of each rival portfolio to
+estimate the market model parameters over the period (− 220 to − 20) relative to the
+IPO filing (or trading) date and compute the ARs of each rival portfolio (p) and
+for each day in the event period (− 11, + 11). We report cumulative abnormal returns
+(CARs) over three different time intervals: day (0), days (0,+ 1), and days (+ 2, + 10).
+We then compute the equally-weighted average of the CARs of the rival portfolios.
+Following the methodology of Mikkelson and Partch (1988), we use the z-statistic to
+test the statistical significance of the CARs
+.
+3.2. Cross-sectional model development
+We use the following cross-sectional model, which has the advantage of control-
+ling for both competitive and information effects simultaneously (see, for example,
+Howe and Wei, 1993) to explain the reaction of rival firms:
+RIVCAR
+j = β 0 + β 1 RELSIZE j + β 2REGULj + β 3EXCH j
++ β 4FIRST j + β 5GROWTHj + β 6HI j + β 7HISIZE j
++ β 8USE j + β 9RELRISK j + β 10PRIORPERF j
++ β 11TECH j + β 12CORRj + β 13TIME j + ε j (1)
+where:
+RIVCARj = the two-day (0, + 1) CAR of the portfolio of rival firms in
+response to an IPO filing by firm j
+RELSIZEj = the relative size of rival firms measured as the median market
+value of rivals relative to the market value of the IPO firm.
+Market values are calculated as the product of the number of
+common shares outstanding and the closing price on the first
+trading day
+REGUL
+j = 1 if the IPO firm is in a regulated industry, including fi-
+nancial services, utility, communications, and transportation;
+0 otherwise
+
+--- PAGE 8 ---
+538 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+EXCHj = 1 if the IPO firm is traded on the NYSE or AMEX; 0 otherwise
+FIRSTj = 1 if the IPO is the first in the industry within a two-year period
+of time prior to the current IPO; 0 otherwise
+GROWTHj = 1 if the median value of the ratio of market to book value of
+common stock of all rival firms, a proxy for Tobin’s q, is greater
+than 1; 0 otherwise.
+HIj = the Herfindahl index for the industry which is computed as the
+squared sum of the fractions of industry market capitalization
+of rival firms
+HISIZE
+j = an interaction term calculated by multiplying the Herfindahl
+Index for the industry by the relative size of the IPO
+USEj = 1 if the proceeds are used for debt repayment; 0 otherwise
+RELRISKj = the relative beta of rival firms compared to the beta of IPO
+firm j (measured from + 20 to + 220). This variable assumes
+a value of 1 when the industry median beta is greater than the
+beta for the IPO firm; 0 otherwise
+PRIORPERF
+j = the CAR of rival firms in the 60-day period prior to the IPO
+filing by firm j
+TECHj = 1 if the IPO firm j is in the technology industry;3 0 otherwise
+CORRj = 1 if the correlation of the returns between the IPO firm and
+the industry portfolio (during the event period + 20 to + 220)
+is greater than the median; 0 otherwise
+TIMEj = 1 if the IPO of firm j occurs in 1991 or earlier; 0 otherwise
+εj = a random error term
+The TIME variable is included to capture any changes in rival reaction in the
+post-1991 period, the period not covered by the Slovin, Sushka, and Ferraro (1995)
+study. Beyond this control function, the TIME variable reflects two years with rela-
+tively low IPO volume, as shown in Appendix A. Following the explanation posed
+with respect to the FIRST variable, we argue that in a cold IPO market and in
+an industry with little IPO activity, a filing is more newsworthy, causing more in-
+formation to be disseminated. This could lead to positive information effects for
+rivals.
+We estimate three versions of the above model. The first model includes the
+factors related to information effects, the second includes the factors related to com-
+petitive effects, and the third model includes both sets of factors.
+3 Garner, Nam, and Ottoo (2002) point out that SIC codes sometimes incorrectly classify high-tech firms.
+To overcome this potential bias, we identify technology firms using the Value Line industry classifications.
+Value Line continually updates the industry groups to reflect new entrants, allowing us to include firms
+from relatively new industries such as internet and biotechnology. Other technology industries include
+telecommunications, computer hardware and software, aerospace, data processing, and office equipment.
+See Kohers and Kohers (2000) for a comprehensive list of technology industries.
+
+--- PAGE 9 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 539
+Table 2
+Comparison of characteristics of IPO firms and their industry rivals
+This table provides mean and median values for various characteristics of the IPO firms and the industry
+rivals. The market value of equity is measured 220 trading days following the IPO; the proxy for Tobin’s
+Q is the ratio of market to book value of common stock; ROE is the return on equity. Free cashflow is
+measured as (earnings before interest and taxes plus depreciation)/total assets. Leverage is the ratio of
+total debt to total assets. Beta is estimated over the period starting 20 days after the IPO and ending 220
+days after the IPO. The mean and median market values of equity and beta are calculated from the CRSP
+database (N = 2493). The other variables are obtained from the Compustat database (N= 2433). Financial
+statement data are obtained in the calendar year end following the IPO. The t-statistic tests whether the
+mean and median values are significantly different for the IPO firm and the industry portfolios.
+IPO firms Industry portfolios t-test for difference in
+Variable Mean Median Mean Median Mean Median
+1. Market value of equity 307.24 103.43 365.20 56.73 − 0.96 1 .30
+2. Total assets 711.76 50.36 393.40 51.74 1 .15 − 0.01
+3. Tobin’s Q 4.16 3.05 2.72 2.35 15 .97∗∗∗ 6.76∗∗∗
+4. ROE (%) 8.05 9.14 10.27 11.99 − 5.37∗∗∗ − 4.52∗∗∗
+5. Free cashflow (%) 2.98 8.57 7.97 8.71 − 10.69∗∗∗ − 0.49
+6. Leverage (%) 16.65 4.26 13.42 5.39 0 .96 − 0.91
+∗∗∗Indicates statistical significance at the 0.01 level.
+4. Empirical results
+4.1. Valuation effects for rivals
+Table 2 provides a comparison of the characteristics of IPO firms relative to
+their rivals.4 Rivals and IPO firms are similar in terms of market value of equity, total
+assets, and leverage. However, IPO firms have a significantly higher Tobin’s Q (4.16
+on average compared to 2.72 for rival firms) and beta (1.63 on average compared to
+1.33 for rivals), but IPO firms have a significantly lower return on equity (ROE) and
+free cash flow.
+Although not reported in the table, the mean (median) number of rivals per event
+is 11.91 (5) respectively with a minimum of one rival and a maximum of 224 rivals
+per event. The sample consists of firms from 190 different industries. Appendix A
+reports the 190 different four-digit SIC codes and the number of IPOs each year.
+Table 3 discloses CARs for rivals. Panel A reports the results for rival firms on
+the IPO filing date. Rival firms do not experience a significant reaction to IPO filings,
+4 Although not reported in the tables, we also estimate the degree of underpricing for the IPO firm and find
+that the average underpricing is about 23%. This is consistent with previous studies that have documented
+significant underpricing. We estimate the underpricing as follows:UP
+j = (P1 − P0)/P0 where UPj measures
+the extent of the underpricing, P1 is the closing price on the first trading day, and P0 is the offer price.
+We then compute the equally-weighted average underpricing for the portfolio of IPO firms on the initial
+trading date of the IPO. Closing share prices are obtained from the CRSP daily returns file.
+
+--- PAGE 10 ---
+540 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+Table 3
+Cumulative abnormal returns (CARs) for rivals (N = 2493)
+This table presents the cumulative abnormal returns (CARs) of industry rivals in response to the IPO. Rival
+portfolios contain all rival firms (identified using the CRSP SIC code) that are publicly traded at the time
+of the IPO. The sample period is from 1989 to 2000. Rival CARs are calculated as the differences between
+the actual returns and expected returns. Expected returns are generated from the market model parameters,
+estimated with daily returns from the period t-
+220 to t-20 where t0 is date of the IPO. The z-statistic tests
+the null hypothesis that the CARs equal zero.
+Panel A: CARs for rival portfolios on the IPO filing date
+Event period Number of events CAR (%) z-statistic % positive
+(0) 2,493 0.04 0.27 47
+(0, + 1) 2,493 − 0.07a − 0.38 45
+(+ 2, + 10) 2,493 − 0.08 − 0.97 45
+Panel B: CARs for rival portfolios on the initial trading date of the IPO
+Event period Number of events CAR (%) z-statistic % positive
+(0) 2,493 − 0.05 − 1.63 46
+(0, + 1) 2,493 − 0.02b − 0.73 45
+(+ 2, + 10) 2,493 0.10 0.27 47
+aThe median, maximum, and minimum day (0) (day (0, + 1)) abnormal returns for rival firms are 0.00%
+(− 0.20%), 84.00% (89.81%), and − 30.28% (− 39.03%) respectively.
+bThe median, maximum, and minimum day (0) (day (0,+ 1)) abnormal returns for rival firms are− 0.18%
+(− 0.29%), 49.81% (41.63%), and − 15.28% (− 33.84%) respectively.
+regardless of the time interval considered. Similar results are shown in Panel B for
+rival portfolios on the initial trading date.5 These results differ from those of Slovin,
+Sushka, and Ferraro (1995), who find a significant negative reaction for rivals. The
+difference may be related to differences in sample size, sample composition, and
+time period studied. Specifically, their sample examines an earlier period (from 1980
+to 1991), consists of relatively large firms, uses a considerably smaller sample (n =
+107), and excludes financial firms and firms traded on NASDAQ, where most IPOs
+are launched.
+Table 4 shows the CARs for rival portfolios based on factors related to informa-
+tion and competitive effects. The results for some variables are presented by quar-
+tiles, while others are presented in two different subgroups. In general, the results are
+not significantly different across subgroups for most of the factors considered, with
+two notable exceptions: the first IPO in an industry (FIRST) and prior performance
+5 The lack of a significant reaction on both the filing and initial trading dates may be related to the fact
+that although the filing conveys information to the market, additional information is released during the
+subsequent road show. Further, a substantial amount of time may elapse between the filing and initial
+trading dates, making it difficult to capture a significant reaction within the event window.
+
+--- PAGE 11 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 541
+Table 4
+CARs for subsamples of industry portfolios partitioned by characteristics
+This table shows CARs for subgroups based on various characteristics of the IPO, IPO firm, rivals, and the industry as
+a whole. Thez-statistic tests the significance of the CARs and thet-statistic tests whether the CARs are significantly
+different from each other (and from first to fourth quartiles). RELSIZE is the size of rival firms relative to the
+market value of the IPO firm; REGUL is equal to 1 if the IPO firm is in a regulated industry, 0 otherwise; EXCH is
+equal to 1 if the IPO firm is traded on the NYSE or AMEX, 0 otherwise; FIRST is equal to 1 if the IPO is the first
+in the industry within a two-year period of time prior to the current IPO; 0 otherwise; GROWTH is equal to 1 if the
+median value of market to book value of common stock of all rival firms of firm j, a proxy for Tobin’s q,i sg r e a t e r
+than 1, 0 otherwise; HI is the Herfindahl index for the industry; USE is equal to 1 if the proceeds are used for debt
+repayment, 0 otherwise; RELRISK is the median beta of rival firms relative to the beta of firm j; PRIORPERF is
+the CAR of rival firms in the 60-day period prior to the IPO filing by firm j; TECH is equal to 1 if the IPO firm j is
+in the technology industry, 0 otherwise; and CORR is equal to 1 if the correlation between the returns of the IPO
+firm and the industry portfolio is greater than the median; 0 otherwise. TIME is equal to 1 if the IPO filing date of
+firm j occurs in 1991 or earlier, 0 otherwise. For those variables broken down by quartile, the smallest or lowest
+values are represented in the first quartile, and the largest or highest values are represented in the fourth quartile.
+Quartile or group N CAR z-statistic t-statistic
+RELSIZE 1 608 − 0.01 − 0.02
+2 608 − 0.03 − 0.07
+3 608 − 0.07 0.07
+4 609 − 0.19 − 0.83 0.58
+REGUL 1 211 0.22 0.58
+0 2,222 − 0.10 − 0.60 0.98
+EXCH 1 247 0.30 1.49
+0 2,186 − 0.12 − 0.92 1.52
+FIRST 1 250 0.45 1.18
+0 2,183 − 0.14 − 0.87 1.86 ∗
+GROWTH 1 1,873 − 0.05 0.20
+0 560 − 0.15 − 1.28 0.34
+HI 1 608 − 0.04 − 0.10
+2 608 0.06 − 0.52
+3 608 0.05 − 0.19
+4 609 − 0.39 − 0.01 1.21
+USE 1 448 − 0.21 − 0.62
+0 1,985 − 0.04 − 0.16 0.67
+RELRISK 1 608 0.01 0.49
+2 608 − 0.08 − 0.39
+3 608 0.01 − 0.33
+4 609 − 0.20 − 0.52 0.88
+PRIORPERF 1 608 0.54 2.81 ∗∗∗
+2 608 − 0.06 − 0.14
+3 608 − 0.22 − 2.04∗∗
+4 609 − 0.57 − 1.98∗∗ 3.29∗∗∗
+TECH 1 817 − 0.13 0.05
+0 1,616 − 0.04 − 0.55 0.47
+CORR 1 1,197 − 0.01 − 0.81
+0 1,236 − 0.13 0.22 0.63
+TIME 1 237 0.33 0.16
+0 2,196 − 0.12 − 0.49 0.98
+∗∗∗Indicates statistical significance at the 0.01 level.
+∗∗Indicates statistical significance at the 0.05 level.
+∗ Indicates statistical significance at the 0.10 level.
+
+--- PAGE 12 ---
+542 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+of rival firms (PRIORPERF). The first IPO in an industry generates higher rival
+CARs (0.45%) relative to subsequent IPOs (− 0.14%), although the difference is only
+marginally significant at the 0.10 level. With respect to PRIORPERF, the results
+vary significantly across subgroups. Rivals with relatively low prior performance
+(quartile 1) gain 0.54% in response to the IPO filing, significant at the 0.01 level.
+Rivals in the higher-performing quartiles (quartiles 3 and 4) experience significantly
+negative CARs. The t-statistic (which tests whether the returns for quartiles 1 and 4
+are significantly different from each other) reveals that the difference is significant
+at the 0.01 level. This finding is contrary to our hypothesis that underperforming
+rivals are more likely to be adversely affected, since they may not have the resources
+to respond to the competitive threat. The inconsistency in results across rivals with
+differing prior performance may be explained as follows. Since firms tend to enter
+industries with excess rents, more competition within those industries could signal
+excess rent reductions. This could have a more adverse effect on high-performing
+rivals, because their high performance may be partially driven by excess rents. Thus,
+one could argue that high-performing rivals have more to lose from the entrance of
+a strong competitor, and low-performing rivals may benefit more from additional
+information released by the IPO. Furthermore, high-performing rivals may already
+have been privy to the information revealed by the IPO, resulting in poor-performing
+rivals gaining more from new information than they lose from competitive effects.
+Thus, prior performance may proxy for both a competitive and an information effect,
+depending on the prior condition of the rival firm.
+Table 5 shows the CARs for three cross-classifications of rival portfolios: CORR
+and HI, Tobin’s Q and HI, and IPO size and HI. The CARs are insignificant for most
+subgroups with the exception of rivals with a low Tobin’s Q and a low HI. The sig-
+nificant negative CAR of 0.30% suggests that rivals in low growth industries that are
+not highly concentrated (i.e. more competitive industries) could be at a disadvantage
+when a competitor goes public. However, the t-statistic indicates no significant dif-
+ference between the CARs of rivals at the two extremes: low Tobin ’s Q and low HI
+compared to high Tobin’s Q and high HI.
+4.2. Robustness tests
+The analysis of CARs reported thus far is based on using an equally-weighted
+portfolio of rival returns. Following Erwin and Miller (1998), we test the robustness of
+our results by reestimating the CARs using a value-weighted portfolio of rival returns.
+The results are qualitatively similar to those obtained using the equally-weighted
+portfolio and, hence, are not reported. The similarity of the results using value- and
+equally-weighted portfolios is consistent with Lang and Stulz (1992) and Erwin and
+Miller (1998). As an additional robustness test, we use the methodology employed
+by Szewczyk (1992) to limit the number of rivals. We form industry portfolios by
+randomly selecting a maximum of five rivals (the median number of rivals in the
+
+--- PAGE 13 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 543
+Table 5
+Two-way classification of rival portfolio CARS
+This table shows the results for rival portfolios based on various cross-classifications. HI is the Herfindahl
+Index for the industry, CORR is the correlation between the returns of the IPO firm and the industry
+portfolio, the proxy for Tobin’s Q is the ratio of market to book value of common stock, and IPO size is
+the size of the IPO.
+Panel A: Based on correlation and HI
+Low HI High HI
+N CAR (%) z-statistic N CAR (%) z-statistic t-statistic
+Negative CORR 624 − 0.01 0.26 612 − 0.26 0.06
+Positive CORR 627 0.02 − 0.84 570 − 0.05 − 0.27 0.18
+Panel B: Based on Tobin’s Q and HI
+Low HI High HI
+N CAR (%) z-statistic N CAR (%) z-statistic t-statistic
+Low Tobin’s Q 197 − 0.30 − 2.07∗∗ 363 − 0.06 − 0.14
+High Tobin’s Q 1,054 0.07 0.33 819 − 0.21 − 0.07 0.29
+Panel C: Based on IPO size and HI
+Low HI High HI
+N CAR (%) z-statistic N CAR (%) z-statistic t-statistic
+Relatively small IPOs 843 0.02 − 0.66 600 − 0.33 − 0.85
+Relatively large IPOs 408 − 0.02 0.16 582 0.01 0.73 0.05
+∗∗Indicates statistical significance at the 0.05 level.
+unrestricted sample) with the same four-digit SIC code as the IPO firm. The results
+indicate that rival CARs are not sensitive to the selection process used to determine
+the rivals.
+4.3. Cross-sectional results
+Table 6 shows the cross-sectional results based on the CARs derived from IPO
+filing dates. Model 1 shows the results when only the factors related to information
+effects are included in the model. The primary result that emerges from this table is
+that the information effects are generally positive and statistically significant, with
+the exception of the relative size of rival firms (RELSIZE) and the exchange of the
+IPO firm (EXCH). The positive coefficient estimate on REGUL is consistent with
+Kohers’s (1999) argument that industries characterized by a high degree of homo-
+geneity should have a more pronounced reaction to intra-industry information transfer.
+
+--- PAGE 14 ---
+544 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+Table 6
+Explaining cross-sectional variation in rival valuation effects
+This table shows the results of estimating three models: the information effects model, the competitive
+effects model, and the combined model. The dependent variable is the 2-day (0,+ 1) CAR of the portfolio
+of rival firms in response to an IPO filing by firm j. RELSIZE is the size of rival firms relative to the market
+value of the IPO firm; REGUL is equal to 1 if the IPO firm is in a regulated industry, 0 otherwise; EXCH
+is equal to 1 if the IPO firm is traded on the NYSE or AMEX, 0 otherwise; FIRST is equal to 1 if the IPO is
+the first in the industry within a two-year period of time prior to the current IPO; 0 otherwise; GROWTH
+is equal to 1 if the median value of market to book value of common stock of all rival firms of firm j, a
+proxy for Tobin’s q, is greater than 1, 0 otherwise; HI is the Herfindahl index for the industry; HISIZE is
+an interaction term calculated by multiplying the HI for the industry by the relative size of the IPO; USE
+is equal to 1 if the proceeds are used for debt repayment, 0 otherwise; RELRISK is the median beta of
+rival firms relative to the beta of firm j; PRIORPERF is the CAR of rival firms in the 60-day period prior
+to the IPO filing by firm j; TECH is equal to 1 if the IPO firm j is in the technology industry, 0 otherwise;
+and CORR is equal to 1 if the correlation between the returns of the IPO firm and the industry portfolio is
+greater than the median; 0 otherwise. TIME is equal to 1 if the IPO filing date of firm j occurs in 1991 or
+earlier, 0 otherwise. Variance inflation factors, which test for multicollinearity, are generally low (<1.5),
+indicating that multicollinearity is not a problem. Marquardt and Snee (1975) suggest that a VIF value of
+greater than 5.0 indicates the presence of multicollinearity.
+Model 3:
+Model 1: Model 2: Competitive and
+Variable Information effects Competitive effects information effects
+Intercept − 0.016∗∗∗ 0.018∗∗∗ 0.013∗∗
+RELSIZE 0.001 − 0.001
+REGUL 0.020 ∗∗∗ 0.035∗∗∗
+EXCH 0.008 0.012 ∗
+FIRST 0.013 ∗∗ 0.022∗∗∗
+GROWTH − 0.000 0.000
+HI − 0.013∗∗∗ − 0.018∗∗∗
+HISIZE − 0.003∗∗∗ − 0.003∗∗∗
+USE − 0.029∗∗∗ − 0.028∗∗∗
+RELRISK − 0.010∗∗∗ − 0.010∗∗
+PRIORPERF − 0.009∗∗∗ − 0.015∗∗∗
+TECH − 0.019∗∗∗ − 0.014∗∗∗
+CORR 0.013 ∗∗∗ 0.016∗∗∗
+TIME 0.029 ∗∗∗ 0.031∗∗∗ 0.020∗∗
+R2 = 0.017 R 2 = 0.067 R 2 = 0.085
+Adjusted R2 = 0.015 Adjusted R 2 = 0.063 Adjusted R 2 = 0.080
+F-Value = 8.32∗∗∗ F-Value = 19.14∗∗∗ F-Value = 17.19∗∗∗
+N = 2433 N = 2433 N = 2433
+∗∗∗Indicates statistical significance at the 0.01 level.
+∗∗ Indicates statistical significance at the 0.05 level.
+∗ Indicates statistical significance at the 0.10 level.
+The implication is that the constraints imposed by regulation increase the propensity
+of investors to draw industry-wide inferences from firm-level events such as IPOs.
+The first IPO (FIRST) within an industry also generates the strongest information
+effects.
+
+--- PAGE 15 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 545
+Model 2 presents the results for factors related to competitive effects. It is again
+worth noting that the coefficient estimates on the competitive factors are generally
+negative and statistically significant, with the exception of GROWTH and CORR. The
+degree of concentration (HI) is inversely related to rival valuation effects, consistent
+with our hypothesis that rivals in less concentrated (more competitive) industries
+experience more severe competitive effects. The results suggest that the additional
+capital raised by the IPO firm is more likely to be a threat to rivals in industries with a
+relatively low degree of concentration. When we interact the size of the IPO with the
+degree of concentration in the industry (HISIZE), the reaction is also significant. The
+negative coefficient estimate suggests that large IPOs in highly competitive industries
+have the strongest competitive effects. A large IPO generates more funds for the newly
+public firm, increasing the threat to rivals, and this threat appears to be exacerbated in
+industries that are already highly competitive. The coefficient estimate of− 0.029 for
+the USE variable is negative and significant at the 0.01 level. This suggests that when
+IPO proceeds are used for debt repayment the firm could be more of a competitive
+threat to rivals, perhaps because management may be preparing for a more aggressive
+stance in the wake of a reduced debt burden. The coefficient estimate on RELRISK
+(− 0.010) is negative and significant at the 0.01 level, suggesting that competitive
+effects are more pronounced for higher risk rivals that may not have the flexibility to
+respond to the competitive threat. The prior performance of rivals (PRIORPERF) is
+inversely related to the reaction of rival firms. This is contrary to the expected reaction
+and suggests that underperforming firms may have less to lose from the entrance of
+a newly public competitor. The competitive effects are significant for IPOs in the
+technology sector. The coefficient estimate on TECH is − 0.019, and is significant
+at the 0.01 level, supporting the notion that technology rivals are more vulnerable
+to competitive shocks, perhaps because of the rapidly changing, highly competitive
+environment in which these firms operate. Finally, the CARs are positively related to
+CORR and TIME.
+Model 3 shows the results when both information and competitive factors are
+included in the same model. The results are qualitatively similar to those reported
+when the models are estimated separately.
+We also estimate a simple regression model (not reported in the tables) with
+the degree of underpricing of the IPO firm as the independent and rival CARs
+from the initial trading date (as opposed to the filing date) as the dependent vari-
+able. Since the underpricing is only apparent on the trading date, the CARs on
+the filing date (which occurs well before the underpricing is evident) would not
+be appropriate as the dependent variable on that date. We estimate the model in
+an effort to test the hypothesis that IPOs that are significantly underpriced pro-
+vide more information regarding industry prospects. The coefficient estimate on
+the degree of underpricing is positive (0.0063) and significant (at the 0.05 level:
+t = 2.25), suggesting that more information is released by highly underpriced
+IPOs.
+
+--- PAGE 16 ---
+546 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+5. Conclusion
+We examine a comprehensive sample of IPOs to determine whether IPOs have
+implications for rival firms. We find that the average valuation effects for rival firms
+are insignificant. The insignificant reaction does not indicate that IPOs are purely
+firm-specific events with no implications for the industry as a whole. Instead, we
+find that the insignificant reaction can be explained by the presence of offsetting pos-
+itive information and negative competitive effects. Significant positive information
+effects are associated with IPOs in regulated industries and the first IPO in the industry
+following a period of dormancy. Significant negative competitive effects are asso-
+ciated with relatively large IPOs in highly competitive industries, those in relatively
+risky industries, those in better-performing industries, and those in the technology
+sector. Firms that use the proceeds of the IPO for debt repayment appear to represent
+a more significant competitive threat to rival firms relative to firms that use their
+proceeds for other purposes.
+Appendix A
+Number of IPOs by year and industry (4-digit SIC code)
+This appendix shows the 190 different SIC codes represented in the sample during the sample period
+1989–2000.
+Number SIC Code 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+1 1321 0 0 0 0 0 0 0 1 0 0 0 0
+2 1380 0 1 1 0 1 0 1 3 2 0 0 0
+3 1531 0 0 0 1 0 0 0 0 1 0 0 0
+4 1620 0 0 0 1 0 0 0 0 0 0 0 0
+5 1790 0 0 0 0 0 1 0 0 0 0 0 0
+6 2020 1 0 0 1 0 0 0 0 1 1 0 0
+7 2030 0 0 0 0 1 2 0 0 1 0 0 0
+8 2052 0 0 0 0 0 1 0 0 0 0 0 0
+9 2060 0 1 0 0 2 0 0 1 0 0 0 0
+10 2080 0 0 0 0 1 0 0 0 0 0 0 0
+11 2250 0 0 0 1 0 0 0 0 0 0 0 0
+12 2260 0 0 0 1 0 0 0 0 0 0 0 0
+13 2360 0 0 0 0 1 0 0 0 0 0 0 0
+14 2430 0 0 0 0 1 0 0 0 0 0 0 0
+15 2520 0 0 1 0 0 0 0 0 0 0 0 0
+16 2650 0 0 0 1 0 0 0 1 0 0 0 0
+17 2711 0 0 0 0 1 0 0 0 1 0 0 0
+18 2730 0 0 1 1 0 0 0 1 0 0 0 0
+19 2750 0 1 0 1 0 1 0 0 2 1 1 0
+20 2760 0 0 0 0 0 0 1 0 0 0 0 0
+21 2819 0 1 0 0 0 1 0 0 0 0 0 0
+22 2830 2 2 34 15 12 11 12 36 11 2 8 2
+23 2834 1 0 0 1 0 0 0 1 5 0 0 14
+24 2835 0 0 0 0 1 0 0 1 0 0 0 1
+(continued)
+
+--- PAGE 17 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 547
+Appendix A (continued)
+Number of IPOs by year and industry (4-digit SIC code)
+Number SIC Code 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+25 2840 0 0 0 0 0 1 1 0 0 0 0 0
+26 2870 0 0 0 0 1 1 0 0 0 0 0 0
+27 2879 0 0 1 0 0 0 0 0 0 0 0 1
+28 2890 0 0 0 1 0 1 1 0 0 0 0 0
+29 2911 0 1 0 0 0 0 0 0 0 0 0 0
+30 3070 0 0 0 0 1 0 0 0 0 0 0 0
+31 3080 0 0 2 1 4 1 0 1 2 1 0 0
+32 3144 0 0 0 1 1 0 0 0 0 0 0 0
+33 3149 0 1 0 0 0 0 0 0 0 0 0 0
+34 3310 0 0 0 0 2 1 1 1 0 0 0 0
+35 3312 0 0 0 0 1 1 0 0 1 0 0 0
+36 3320 0 0 0 0 0 1 0 0 0 0 0 0
+37 3356 0 0 0 0 0 0 0 1 0 0 0 0
+38 3429 0 0 0 0 0 1 0 0 0 0 0 0
+39 3440 0 0 0 0 1 1 1 1 2 0 0 0
+40 3448 0 0 0 1 0 0 0 0 0 0 0 0
+41 3460 0 0 0 0 2 0 0 0 0 0 0 0
+42 3470 0 0 0 0 0 0 1 0 0 0 0 0
+43 3510 0 0 0 0 1 0 0 0 0 0 0 0
+44 3519 0 0 0 1 0 0 0 0 0 0 0 0
+45 3530 0 0 0 0 0 1 1 1 0 1 0 0
+46 3550 0 0 0 2 4 2 0 0 0 0 0 0
+47 3560 1 0 2 1 1 1 1 1 1 0 0 0
+48 3570 0 1 4 10 9 5 15 11 3 0 13 5
+49 3571 0 0 0 0 0 0 1 0 0 0 1 1
+50 3572 0 0 0 0 1 0 0 1 0 0 1 2
+51 3577 0 0 1 2 0 1 0 1 0 0 0 2
+52 3579 0 0 0 0 0 0 1 0 0 0 0 0
+53 3580 0 0 0 1 4 1 1 0 0 0 0 0
+54 3610 0 0 0 0 1 0 0 0 0 0 0 1
+55 3620 0 0 0 1 0 1 1 2 0 0 1 1
+56 3630 0 0 0 0 1 0 0 0 0 0 0 0
+57 3650 0 0 1 2 0 2 2 0 0 0 0 0
+58 3651 0 0 0 0 0 0 0 0 0 0 1 0
+59 3660 0 2 4 3 10 10 14 15 5 4 16 0
+60 3661 0 0 0 0 3 0 0 0 0 1 1 9
+61 3663 0 0 0 0 0 4 4 1 0 1 1 4
+62 3670 0 2 7 8 19 11 19 6 16 5 8 2
+63 3674 0 3 0 0 1 1 2 0 1 0 3 8
+64 3679 0 0 1 0 0 0 0 0 0 0 0 0
+65 3690 0 0 1 3 3 3 2 3 0 0 0 0
+66 3710 0 0 1 1 3 6 3 4 0 0 0 0
+67 3711 0 0 1 0 1 0 0 0 0 0 0 0
+68 3714 0 0 0 0 0 0 0 0 2 0 0 0
+69 3720 0 0 0 0 0 0 0 2 1 1 0 0
+(continued)
+
+--- PAGE 18 ---
+548 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+Appendix A (continued)
+Number of IPOs by year and industry (4-digit SIC code)
+Number SIC Code 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+70 3730 0 0 0 0 0 0 1 0 0 1 0 0
+71 3810 0 1 1 0 1 0 1 1 1 0 0 0
+72 3812 0 0 0 0 0 1 0 0 0 0 0 0
+73 3820 0 0 2 7 7 2 5 7 10 0 4 1
+74 3829 0 0 0 0 0 0 0 1 0 0 0 0
+75 3840 0 4 17 17 6 8 22 31 12 0 1 0
+76 3842 0 0 1 2 0 0 1 0 0 0 0 2
+77 3845 0 0 0 0 0 0 0 0 0 0 0 3
+78 3851 0 0 0 0 0 1 1 0 0 0 0 0
+79 3860 0 0 0 0 0 0 0 1 0 0 0 0
+80 4010 0 0 1 0 1 0 0 2 0 0 0 0
+81 4011 0 0 0 1 0 0 0 0 0 0 0 0
+82 4210 0 1 1 1 1 9 2 0 4 0 0 0
+83 4213 0 0 0 0 1 0 0 0 0 0 0 0
+84 4510 0 1 0 0 2 2 1 0 1 1 0 0
+85 4730 0 0 0 1 1 0 1 1 0 1 0 0
+86 4810 0 1 1 3 4 4 11 9 5 4 23 0
+87 4812 0 0 0 0 0 0 0 1 0 0 0 5
+88 4813 0 0 0 0 0 0 0 1 1 1 2 3
+89 4830 0 0 1 0 4 1 4 0 0 0 0 0
+90 4832 0 0 1 0 0 0 0 1 0 0 0 0
+91 4840 0 0 0 0 4 1 2 1 1 0 6 0
+92 4911 0 0 1 0 0 0 0 1 0 0 0 2
+93 4920 0 0 0 0 0 0 0 0 1 0 0 0
+94 4930 0 0 0 0 0 0 0 1 0 0 0 0
+95 4950 0 3 2 2 1 0 0 2 2 2 0 0
+96 4953 0 2 0 0 0 0 0 0 1 0 0 0
+97 4960 0 0 1 0 0 0 0 0 0 0 0 0
+98 5020 0 1 0 0 0 0 0 0 0 0 0 0
+99 5030 0 0 0 0 1 0 0 1 0 0 0 0
+100 5040 0 1 1 4 3 4 2 7 2 0 1 0
+101 5045 0 0 0 0 0 0 1 0 0 0 0 0
+102 5060 1 3 1 0 3 7 1 2 0 0 1 0
+103 5090 0 0 0 0 6 0 4 2 4 0 0 0
+104 5110 0 0 1 0 0 1 0 1 0 0 0 0
+105 5120 0 0 1 1 1 1 1 1 1 0 0 0
+106 5130 0 0 1 1 1 2 2 3 1 1 0 0
+107 5140 0 0 1 1 2 0 0 2 1 0 0 0
+108 5160 0 0 0 2 0 0 0 0 1 0 0 0
+109 5190 0 0 2 0 2 0 0 2 2 1 0 0
+110 5311 0 0 1 2 0 0 0 0 0 0 1 0
+111 5411 0 0 1 0 0 0 1 1 0 0 0 0
+112 5620 0 0 1 0 3 0 0 0 0 1 0 0
+113 5650 0 0 1 0 1 0 1 1 1 0 0 0
+114 5660 0 0 0 0 1 1 0 0 1 0 0 0
+(continued)
+
+--- PAGE 19 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 549
+Appendix A (continued)
+Number of IPOs by year and industry (4-digit SIC code)
+Number SIC Code 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+115 5710 0 1 0 0 1 1 1 0 0 0 0 0
+116 5712 0 0 0 0 1 0 0 0 0 0 0 0
+117 5730 0 0 1 1 5 1 1 2 2 3 2 0
+118 5800 0 0 0 0 0 1 0 0 0 0 0 0
+119 5810 0 2 2 9 8 6 7 10 5 3 2 0
+120 5812 0 0 2 0 1 0 0 1 1 0 0 0
+121 5910 0 0 0 1 0 0 1 0 0 0 1 0
+122 5940 0 0 0 3 2 1 1 3 1 1 6 0
+123 5944 0 0 0 0 0 0 0 1 0 0 0 0
+124 5960 1 2 1 1 2 1 3 4 2 2 7 0
+125 5990 0 0 3 6 5 4 1 3 0 0 0 0
+126 6020 0 0 1 2 6 3 2 5 4 16 3 0
+127 6021 0 0 0 0 0 0 0 1 0 0 0 0
+128 6022 0 0 0 1 0 0 0 0 0 0 0 1
+129 6030 1 1 2 1 2 0 0 4 3 3 1 0
+130 6159 0 1 1 1 1 0 0 2 0 2 0 0
+131 6162 0 0 1 0 0 0 0 0 0 0 0 0
+132 6210 0 0 1 1 1 0 0 2 0 1 0 0
+133 6211 0 0 1 1 1 0 0 2 1 1 2 0
+134 6282 1 0 0 4 2 0 0 0 1 1 1 0
+135 6310 0 0 0 1 0 0 1 0 0 0 0 0
+136 6311 0 0 1 1 0 0 1 1 0 0 0 0
+137 6320 0 2 2 1 3 1 2 0 1 0 0 0
+138 6321 0 0 1 0 0 0 0 0 0 1 1 0
+139 6330 0 1 0 2 3 0 1 1 1 1 0 0
+140 6331 0 1 4 1 0 0 2 1 0 0 0 0
+141 6410 0 0 1 0 0 2 0 2 0 1 0 0
+142 6411 0 0 0 0 0 0 0 1 0 0 1 0
+143 6510 0 0 0 1 0 0 0 0 0 0 0 0
+144 6550 0 0 0 1 0 0 0 1 1 0 0 0
+145 6710 1 2 0 2 2 3 1 2 1 0 1 0
+146 6712 0 0 0 0 0 0 0 0 0 0 0 2
+147 6720 0 0 0 1 1 1 1 1 1 0 0 0
+148 6790 0 0 2 1 0 0 0 2 5 0 0 0
+149 6798 0 0 1 5 24 15 2 7 19 2 0 0
+150 7010 0 0 1 0 3 4 0 4 0 0 0 0
+151 7011 0 0 1 0 1 1 3 4 0 1 0 0
+152 7200 0 0 1 1 0 1 1 1 0 0 0 0
+153 7299 0 0 1 0 1 0 0 0 0 0 0 0
+154 7310 0 1 2 0 0 0 3 4 0 0 0 0
+155 7312 0 0 0 0 0 0 0 1 0 0 0 0
+156 7330 0 0 0 0 1 0 1 1 0 0 0 0
+157 7350 0 0 0 2 0 1 1 0 1 1 0 0
+158 7359 0 0 0 1 2 0 1 1 1 3 0 0
+159 7360 0 0 0 1 3 1 1 4 1 1 0 0
+(continued)
+
+--- PAGE 20 ---
+550 A. Akhigbe et al./The Financial Review 38 (2003) 531–551
+Appendix A (continued)
+Number of IPOs by year and industry (4-digit SIC code)
+Number SIC Code 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+160 7363 0 0 0 0 0 1 1 0 0 0 0 0
+161 7370 0 2 15 19 28 18 65 85 43 40 120 8
+162 7372 0 2 4 4 6 3 7 11 8 6 29 18
+163 7373 0 0 1 2 1 1 1 5 5 2 6 5
+164 7374 0 1 1 2 1 1 1 0 2 1 0 0
+165 7380 0 1 1 0 2 5 5 11 8 4 27 0
+166 7389 0 0 0 0 0 0 1 1 3 0 0 0
+167 7390 0 0 0 0 0 0 0 2 0 0 0 0
+168 7810 0 1 2 0 1 3 3 4 1 0 0 0
+169 7812 0 0 0 0 0 0 0 1 1 0 0 0
+170 7820 0 0 0 0 1 0 0 0 1 0 0 0
+171 7822 0 0 0 0 0 0 0 0 0 0 1 0
+172 7832 0 0 0 0 0 0 0 0 1 0 0 0
+173 7940 0 0 0 0 0 1 0 0 0 0 0 0
+174 7990 0 0 0 4 6 5 1 3 0 0 3 0
+175 8011 0 1 1 0 0 0 2 0 0 0 0 0
+176 8020 0 0 0 0 0 0 0 1 0 0 0 0
+177 8070 0 2 3 3 1 1 1 2 0 0 0 0
+178 8071 0 0 1 0 1 1 0 0 0 0 0 1
+179 8080 0 0 2 2 0 3 1 3 0 0 0 0
+180 8090 0 4 5 4 3 4 5 6 5 1 1 0
+181 8093 0 1 0 0 0 0 0 0 0 0 1 0
+182 8099 0 1 1 1 0 0 0 0 0 0 0 0
+183 8240 0 0 0 0 0 1 0 0 0 0 0 0
+184 8710 0 0 1 0 1 0 0 1 0 0 1 0
+185 8711 0 0 1 0 1 0 0 0 0 0 0 0
+186 8730 0 0 3 2 2 3 8 7 8 3 2 0
+187 8740 0 1 1 0 1 0 1 4 7 3 4 0
+188 8742 0 0 0 0 1 0 0 0 1 0 1 2
+189 8744 0 0 0 0 0 0 0 1 0 0 0 0
+190 8990 0 0 0 1 0 0 0 0 1 0 1 0
+Total 10 65 182 206 292 219 293 408 258 135 319 106
+References
+Akhigbe, A., J. Madura, and A.M. Whyte, 1997. Intra-industry effects of bond rating adjustments,Journal
+of Financial Research 20, 545–561.
+Atiase, R., 1985. Predisclosure information, firm capitalization, and security price behavior around earnings
+announcements, Journal of Accounting Research 23, 21–36.
+Cheng, L.T.W. and J.E. McDonald, 1996. Industry structure and ripple effects of bankruptcy announce-
+ments, The Financial Review 31, 783–807.
+Erwin, G.R. and J.M. Miller, 1998. The intra-industry effects of open market share repurchases: Contagion
+or competitive? Journal of Financial Research 21, 389–406.
+Firth, M., 1996. Dividend changes, abnormal returns, and intra-industry firm valuations,Journal of Finan-
+cial and Quantitative Analysis 31, 189–210.
+
+--- PAGE 21 ---
+A. Akhigbe et al./The Financial Review 38 (2003) 531–551 551
+Garner, J.L, J. Nam, and R.E. Ottoo, 2002. Determinants of corporate growth opportunities of emerging
+firms, Journal of Economics and Business 54, 73–93.
+Hertzel, M.G., 1991. The effects of stock repurchases on rival firms, Journal of Finance 46, 707–716.
+Howe, J.S. and Y . Shen, 1998. Information associated with dividend initiations: Firm-specific or industry-
+wide? Financial Management 27, 17–26.
+Howe, J.S. and P. Wei, 1993. The valuation effects of warrant extensions,Journal of Finance48, 305–314.
+Ibbotson, R. and J. Ritter, 1995. Initial public offerings, in North-Holland Handbooks of Operations
+Research and Management Science–Finance, ed. Robert Jarrow, V ojislav Maksimovic, and William
+Ziemba (North-Holland, New York).
+Kohers, N., 1999. The Industry-wide implications of dividend omission and initiation announcements and
+the determinants of information transfer, The Financial Review 34, 137–158.
+Kohers, N. and T. Kohers, 2000. The value creation potential of high-tech mergers, Financial Analysts
+Journal 56, 40–50.
+Lang, L. and R.M. Stulz, 1992. Contagion and competitive intra-industry effects of bankruptcy announce-
+ments, Journal of Financial Economics 32, 45–60.
+Lang, L.H.P., R.M. Stulz, and R.A. Walkling, 1991. A test of the free cash flow hypothesis: The case of
+bidder returns, Journal of Financial Economics 29, 315–335.
+Laux, P., L.T. Starks, and P. Yoon, 1998. The relative importance of competition and contagion in intra-
+industry information transfers, Financial Management 27, 5–16.
+Leland, H.E. and D. Pyle, 1977. Informational asymmetries, financial structure, and financial intermedi-
+ation, Journal of Finance 32, 371–387.
+Mikkelson, W. and M. Partch, 1988. Withdrawn security offerings,Journal of Financial and Quantitative
+Analysis 23, 119–34.
+Ritter, J., 1991. The long-run performance of initial public offerings, Journal of Finance 46, 3–27.
+Slovin, M.B., M.E. Sushka, and S.R. Ferraro, 1995. A comparison of the information conveyed by equity
+carve-outs, spin-offs, and asset sell-offs, Journal of Financial Economics 37, 89–104.
+Slovin, M.B, M.E. Sushka, and J.A. Polonchek, 1992. Informational externalities of seasoned equity issues,
+Journal of Financial Economics 32, 87–101.
+Szewczyk, S., 1992. The intra-industry transfer of information inferred from announcements of corporate
+security offerings, Journal of Finance 47, 1935–1945.
+Thomson Financial (data services).
+Titman, S. and B. Trueman, 1986. Information quality and the valuation of new issues,Journal of Account-
+ing and Economics 8, 159–172.
+
+--- PAGE 22 ---
+
+
+--- PAGE 23 ---
+Copyright of Financial Review is the property of Wiley-Blackwell and its content may not be copied or emailed
+to multiple sites or posted to a listserv without the copyright holder's express written permission. However,
+users may print, download, or email articles for individual use.

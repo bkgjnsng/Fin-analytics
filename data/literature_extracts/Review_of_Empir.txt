@@ -1,0 +1,1507 @@
+Accessed : Monday, May 18, 2026 7:11 PMDownload by : 203.253.XXX.XX3
+재무연구
+제24권 제2호
+ISSN : 1229-0351(Print) 2713-6531(Online)
+Review of Empirical Studies on IPO Activity and Pricing Behavior in
+Korea
+Mun-Soo Choi
+To cite this article : Mun-Soo Choi (2011) Review of Empirical Studies on IPO Activity and Pricing Behavior in
+Korea, 재무연구, 24:2, 621-663
+① earticle에서 제공하는 모든 저작물의 저작권은 원저작자에게 있으며, 학술교육원은 각 저작물의 내용을 보증하거나 책임을 지
+지 않습니다.
+② earticle에서 제공하는 콘텐츠를 무단 복제, 전송, 배포, 기타 저작권법에 위반되는 방법으로 이용할 경우, 관련 법령에 따라 민,
+형사상의 책임을 질 수 있습니다.
+www.earticle.net\nwww.earticle.net
+Asian Review of Financial Research Vol. 24 No. 2 (May 2011)
+621
+Review of Empirical Studies on 
+IPO Activity and Pricing 
+Behavior in Korea
+Mun-Soo Choi* Professor, School of Business, Soongsil University1)
+Abstract This paper reviews the hypotheses and empirical evidence that have been proposed to 
+explain IPO activities and pricing behavior in Korea. The paper particularly reviews 
+empirical evidence and explanations related to the three patterns associated with 
+Korean IPOs: underpricing, hot issue markets, and long-run underperformance. 
+Explanations for underpricing can be grouped under two broad categories: deliberate 
+underpricing and behavioral approaches. The first category can be divided into two 
+subcategories: asymmetric information and price stabilization. While the first sub-
+category attempts to explain underpricing in the efficient market framework and con-
+sider it as a part of the costs associated with IPOs, the last subcategory turns to one of 
+the services that underwriters use to provide price stabilization. While the hypotheses 
+based on asymmetric information are well established and supported by the literature, 
+the significant variation in the degree of underpricing over time together with the poor 
+long-term performance makes many researchers doubtful whether information-based 
+theories could be enough to explain the large initial returns. Some researchers thus 
+turn to behavioral explanations which put more emphasis on the effect of investors’ ir-
+rational behavior or sentiment on stock prices. Evidence suggests that no hypothesis 
+can dominantly explain large initial returns. Thus the hypotheses reviewed here are not 
+mutually exclusive and a given hypothesis can be more relevant to some IPOs than to 
+others. 
+Keywords IPO Pricing, Underpricing, Price Stabilization, Hot Issue Markets, Long-Run 
+Performance
+Received 23 Dec. 2010
+Revised 21 Apr. 2011
+Accepted 02 May 2011
+* Address: Soongsil University, 511 Sangdo-dong, Dongjak-gu, Seoul 156-743, Korea; E-mail: mschoi@ssu.ac.kr; 
+Tel: 82-2-820-0586.
+The paper was accomplished as a part of the knowledge database project by the Korean Finance Association 
+and was supported by the Korean Finance Association and Soongsil University. The author thanks two anony-
+mous referees, and the Editor, Hee-Joon Ahn, for their helpful comments.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+622․재무연구
+Ⅰ. Introduction
+Initial public offering of shares (IPO) provides access for a privately held 
+firm to raise equity capital in a public market and may lower the cost of 
+capital needed for the firm’s operations and investments. It also provides an 
+opportunity for current shareholders to realize their capital gains and diversify 
+their investments. But IPOs can be quite risky to each of the three major 
+parties involved: issuers, investment bankers, and investors. The big risk stems 
+from the pricing of IPO shares which is complicated by the fact that the 
+valuation of  shares is based on relatively incomplete and imperfect information 
+since issuers tend to be young, private firms. 
+If  the price is set too high, then the investor will earn an inferior return 
+and consequently might avoid the IPO market. If  it is priced too low, the 
+issuer does not gain the full advantage of  its ability to raise capital and will 
+be unwilling to participate in the IPO market. 
+The empirical evidence on the pricing of  IPOs provides a puzzle to those 
+who otherwise believe in efficient markets. Many empirical studies have shown 
+that when firms go public,  their shares tend to be significantly underpriced, 
+for which the market price jumps substantially on the initial day of trading. 
+That is, the initial returns, estimated as the percentage difference between 
+the offer price and the initial market price, are positive. Numerous studies 
+document that this phenomenon exists in every nation with a stock market, 
+although the extent of initial returns varies from country to country. The 
+Korean IPO market is no exception to the phenomenon. The average initial 
+return of IPOs is 57.6% over the period 2000~2007 (Lee and Kim 2009). 
+It is markedly larger than the extent of initial returns in the U.S., which aver-
+ages 25.68% over the period 2000~2007.
+1)
+1) The average initial return is calculated by using IPO data available from the homepage of Jay R. Ritter, a pro-
+fessor of University of Florida.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․623
+Given the level of competition and information efficiency in financial mar-
+kets, this is a surprising result an d is considered an omalous to the efficient 
+market hypothesis. A number of hypotheses have been offered to explain 
+this phenomenon in the Korean IPO market, focusing on various aspects 
+of the relations among underwriters, issuers, and investors. In general, these 
+hypotheses can be grouped under two broad categories: deliberate underpricing 
+and behavioral approaches. The first category can be further divided into two 
+subcategories: asymmetric information and price stabilization. While the first 
+subcategory attempts to explain underpricing in the framework of the efficient 
+market and consider it as a part of the necessary costs associated with initial 
+public offerings, the last subcategory turns to one of services that underwriters 
+provide in connection with IPOs -the price support practice which is designed 
+to reduce price drops in the aftermarket. Behavioral approaches regard initial 
+returns as fads or bubbles caused by irrational investors who bid up the price 
+of IPO shares beyond true value. 
+Empirical evidence documented in the literature suggests that each of the 
+hypotheses alone cannot fully account for the large initial returns observed 
+in the Korean IPO market. The hypotheses reviewed in this paper thus are 
+not mutually exclusive and a given hypothesis can be more relevant to some 
+IPOs than to others. 
+The purpose of this paper is to review the hypotheses and empirical evidence 
+that have been proposed to explain IPO activities and pricing behavior in 
+the Korean market. The paper particularly reviews the three patterns associated 
+with IPOs: large initial returns, hot issue markets, and long-run underper-
+formance. The IPO literature in Korea is now fairly mature and has accumu-
+lated a large body of evidence, which is enough to cast light on the Korean 
+IPO market. Because of limited space, however, this paper sets its main focus 
+on papers presented in academic finance journals such as the Asia-Pacific 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+624․재무연구
+Journal of Financial Studies, The Korean Journal of Finance (Asian Review 
+of Financial Research), The Korean Journal of Financial Management, and 
+The Korean Journal of Financial Studies. 
+The remainder of this paper is organized as follows. First, evidence regarding 
+IPO underpricing is presented. Second, the principal hypotheses proposed to 
+explain IPO underpricing are discussed under the two subcategories mentioned 
+above: information asymmetry and price stabilization. Third, the cyclical pat-
+tern of IPO activities (i.e., hot and co ld issue markets) and the aftermarket 
+performance of IPOs in the long run are presented and discussed in con-
+junction with behavioral explanations. Finally, concluding remarks are provided. 
+Ⅱ. Evidence of IPO Underpricing in the Korean IPO 
+Market
+The well-known phenomenon associated with going public is  one of large 
+initial returns accruing to investors in the secondary market. These initial re-
+turns are considered evidence of the underpricing of IPOs. <Table 1> summa-
+rizes the evidence of underpricing in the Korean IPO markets documented 
+by empirical studies since Kang (1990) . As shown in <Table 1>, there have 
+been in general two measures used to show the extent of underpricing: initial 
+returns and market-adjusted initial returns. Initial returns are estimated as the 
+percentage difference between the offer price and the market price on the 
+first day of trading. Market-adjusted abnormal returns are initial returns ad-
+justed by market returns which are the percentage difference between the 
+market index on the offer day and the market index on the first trading day. 
+The difference between the two measures appears to be minimal according 
+to several studies including Kang (1990), Jung (1992), Joo (1995), Choi (1999), 
+Choi and Huh (2000), Choi (2000), and Lee and Joh (2007). For instance, 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․625
+<Table 1> Evidence of Underpricing in the Korean IPO market
+Evidence is collected from the academic finance journals such as the Asia-Pacific Journal of 
+Financial Studies, The Korean Journal of Finance (Asian Review of Financial Research), The 
+Korean Journal of Financial Management, and The Korean Journal of Financial Studies. 
+Average under-
+pricing
+Underpricing meas-
+ures 1
+Sample 
+size Sample firms Sample period Authors
+80.84% Market adjusted 
+abnormal returns 126 KSE firms 1988~1989 Kang (1991)
+99.80% Initial returns 153 KSE firms 1988~1989 Kang (1990)
+97.20% Market adjusted 
+abnormal returns 153 KSE firms 1988~1989 Kang (1990)
+70.00% Initial returns 361 KSE firms 1980.09~1991.04 Jung (1992)
+68.70% Market adjusted 
+abnormal returns 361 KSE firms 1980.09~1991.04 Jung (1992)
+54.21% Initial returns 108 KSE firms 1989~1994 Joo (1995)
+54.56% Market adjusted 
+abnormal returns 108 KSE firms 1989~1994 Joo (1995)
+30.62% Initial returns
+*  61 KSE firms 1990~1992 Jang and Woo 
+(1997)
+75.45% Market adjusted 
+abnormal returns 342 KSE firms 1988~1994 Lim (1997)
+77.96% Initial returns  62 KSE firms 1994.01~1996.09 Choi (1999)
+78.70% Market adjusted 
+abnormal returns  62 KSE firms 1994.01~1996.09 Choi (1999)
+69.55% Initial returns 107 KSE firms 1992.01~1996.10 Choi and Huh 
+(2000)
+70.21% Market adjusted 
+abnormal returns 107 KSE firms 1992.01~1996.10 Choi and Huh 
+(2000)
+62.74% Initial returns 141 KSE firms 1992~1998 Choi (2000)
+64.11% Market adjusted 
+abnormal returns 141 KSE firms 1992~1998 Choi (2000)
+19.01% Market adjusted 
+abnormal returns 130 KOSDAQ 
+firms 1999.01~2000.12 Huh, Yoon and Lee
+(2002)
+58.29% Initial returns 125 KSE firms 1992~1998 Choi (2003)
+14.98% Market adjusted 
+abnormal returns 161 KOSDAQ 
+firms 1997~2000 Lee and Yi (2003)
+56.66% Market adjusted 
+abnormal returns  39 KSE firms 1997~2000 Lee and Yi (2003)
+31.69% Market adjusted 
+abnormal returns 360 KOSDAQ 
+firms 2000.09~2003.12 Choi (2005)
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+626․재무연구
+<Table 1> Continued
+Average under-
+pricing
+Underpricing meas-
+ures 1
+Sample 
+size Sample firms Sample period Authors
+57.00% Initial returns 453 KOSDAQ 
+firms 2000.07~2005.05 Choi and Jun 
+(2006)
+74.90%2 Market adjusted 
+cumulative 
+abnormal returns
+256 KOSDAQ 
+firms 1999.11~2001.01 Kim and Lee 
+(2006)
+61.00% Market adjusted 
+abnormal returns 343 KOSDAQ 
+firms 2001.01~2003.09 Park, Lim, and 
+Sung  (2006)
+61.10% Market adjusted 
+abnormal returns 363 KOSDAQ 
+firms 2001.01~2003.12 Park, Kim, and 
+Sung (2007)
+45.50% Market adjusted 
+abnormal returns 174
+KSE (20), 
+KOSDAQ 
+(154)
+2003.09~2006.06 Lee andJoh (2007)
+45.60% Initial returns 174
+KSE (20), 
+KOSDAQ 
+(154)
+2003.09~2006.06 Lee andJoh (2007)
+34.70% Market adjusted 
+abnormal returns  50 KSE firms 1999.01~2006.12 Park and Shin 
+(2007)
+46.20% Market adjusted 
+abnormal returns 819 KOSDAQ 
+firms 1999.01~2006.12 Park and Shin 
+(2007)
+45.79% Initial returns 33 KSE firms 2000.02~2007.07 Lee and Kim 
+(2009)
+58.29% Initial returns 569 KOSDAQ 
+firms 2000.02~2007.07 Lee and Kim 
+(2009)
+10.24% Market adjusted 
+abnormal returns  91
+KOSDAQ 
+venture 
+firms
+2004.01~2007.12 Lee, Lee, and Yoon
+(2010)
+55.53% Market adjusted 
+abnormal returns 432 KOSDAQ 
+firms 2001.01~2005.12 Kim and Jung 
+(2010)
+Note: 1 Initial returns are estimated as the percentage difference between the offer price and the market price on the 
+first day of trading, and market-adjusted abnormal returns are initial returns adjusted by market returns which 
+are the percentage difference between the market index on the offer day and the market index on the first trad-
+ing day.
+         2   The cumulative abnormal return for 20 days.
+Kang (1990) reports an initial return of 99.8% and a market-adjusted abnormal-
+return of 97.2%. Academics in the U.S.  and other countries use the terms 
+underpricing and initial returns (not market-adjusted abnormal returns) inter-
+changeably.
+Some studies also calculate initial returns using the market prices after several 
+days of initial trading, although they are not reported here. In Korea, the 
+stock market has a ‘daily price limit’ of 15% restricting price fluctuations.
+2)
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․627
+Thus, aftermarket prices may take several days before they reach the equili-
+brium price. In such a case, it makes sense to measure initial returns over 
+a longer window. 3)
+As <Table 1> shows, the distribution of initial returns is highly skewed, 
+with a large positive mean. There is also substantial variation in IPO under-
+pricing over time. In the 1980s, the average initial return is 70% for 361 
+KSE firms, according to Jung (1992). Over the period of 1992~1996, Choi 
+and Huh (2000) reports 69.55% for 107 KSE firms. Lee and Yi (2003) report 
+56.66% for 39 KSE firms over the period of 1997~2000. In the period 2000 
+to 2007, there were only 33 KSE firms that went public and their initial returns 
+averaged 45.79%, according to Lee and Kim (2009), which is approximately 
+two thirds of the average returns for th e 1980s and 1990s. In contrast, over 
+the period of 2000~2007, 569 firms reportedly went public on the KOSDAQ 
+market with an average initial return of 58.29% accruing to investors, again 
+Lee and Kim (2009). This drastic decrease in the number of IPOs in the 
+KSE market inspired a large body of empirical literature in the 2000s focusing 
+more on the IPOs occurring on the KOSDAQ market. 
+The degree of IPO underpricing in Korea is still large compared to other 
+developed countries, but as <Table 1> shows, there is a substantial decrease 
+in underpricing over time. This decreasing trend can be attributed to a learning 
+process for each of the major parties involved: issuers, underwriters, and 
+investors. But it is more likely that this trend is strongly associated with changes 
+in regulations covering the mechanics and the valuation process of IPOs.
+4)
+2) The daily price limit was 12% prior to December 1998. Furthermore, as described in Appendix 2, there exists a 
+change in the opening price of initial trading. Prior to June 2000, the opening price of initial trading was the offer 
+pricebut now is the first asking price. These changes in the daily price limit and the opening price of initial trad-
+ing could have an impact on initial returns when the aftermarket price of some IPO shares has run up to the limit. 
+3) Most studies presented in <Table 1> present the initial return results measured by using a variety of longer 
+windows. Thus some studies contain many different measures for the initial return. Because of limited space, 
+this paper presents only the initial return on the first trading day of each study.
+4) Regulatory changes in the Korean IPO process, including the bookbuilding process, the allocation mechanics, 
+and the valuation methods, are presented in Appendix 1 and 2.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+628․재무연구
+Such regulatory changes could have influenced the size of initial returns. 
+The most critical regulatory change in the pricing of  IPO shares is the im-
+plementation of  the bookbuilding process. Prior to bookbuilding, every IPO 
+in Korea had to use the intrinsic pricing method to estimate the initial price 
+of IPO shares. This practice normally sets the offer price relatively low and 
+enables investors who successfully received an allocation to reap significant 
+profits (see e.g., Lim (1991), Kang and Cho (2000)). Despite its significant 
+impact of initial returns, most empirical studies have not controlled for the 
+effect of regulatory changes on initial returns. This could lead to an invalidation 
+of their hypotheses testing based on initial returns.
+Ⅲ. Asymmetric Information Hypotheses
+Among the IPO underpricing hypotheses reviewed, the hypotheses based 
+on asymmetric information are well established and have accumulated a large 
+body of evidence. Asymmetric informa tion models assume that one of the 
+major parties, such as investors, issuers, and investment bankers, knows more 
+than the others and that such informational frictions give rise to underpricing.
+1. Winner’s Curse
+Rock (1986) assumes that investors are differentially informed such that 
+some investors are actually better informed regarding the true value of IPO 
+shares. Informed investors are more likely to buy underpriced shares, but other 
+investors buy shares without distinction. Thus, other investors will be allocated 
+more of the least desirable IPO shares , resulting in a winner’s curse. Faced 
+with this problem, the uninformed investors will purchase shares only if IPOs 
+are underpriced sufficiently to compensate them for the bias in the allocation 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․629
+of IPO shares. This requires that all IPOs should be underpriced in expectation 
+so that the uninformed earns a non-negative expected return even after ad-
+justed for rationing. The earliest empirical study on the winner’s curse model 
+is Kang’s (1990) analysis for IPOs in  the KSE market, wh ere oversubscribed 
+IPO shares are allocated on a pro-rata basis. Kang (1990) examines the under-
+pricing behavior of 247 KSE firms which went public over the period of 
+1988~1989 and finds that the extent of underpricing is negatively related to 
+the subscription rate which measures the likelihood of receiving oversub-
+scribed IPOs. He also shows that average expected returns decrease sig-
+nificantly, from 99.8% to 2%, when adjusted for pro-rated allocations. 
+Since Kang’s (1990) study, there has been no attempt to test the winner’s 
+curse model. But Kang’s analysis on IPOs can be replicated using subscription 
+rates reported by the literature. The unconditional expected returns reported 
+by Choi (1999), Choi and Huh (2000), Choi (2000), Kim and Lee (2006), 
+Lee and Joh (2007), and Lee and Kim (2009) are well above 45% during 
+the sample period, but they decline to less than 1.1% when adjusted for sub-
+scription rates reported in their papers. Although the competition for IPO 
+shares among investors and the subsequent rationing sharply reduces the ex-
+pected returns, they never decline to less than zero. Rock’s model suggests 
+that when properly adjusted for rationing, uninformed investors earn zero 
+expected returns and informed investors earn returns which are just enough 
+to cover their costs of becoming informed. Since it is difficult to identify 
+whether investors are informed or uninformed, non-zero expected returns for 
+every investor who receives an allocation can be regarded as evidence support-
+ing the winner’s curse hypothesis. 
+2. Ex Ante Uncertainty
+In line with Rock’s winner’s curse, Beatty and Ritter (1986) propose a hy-
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+630․재무연구
+pothesis that the greater is the ex ante uncertainty about the value of IPO 
+shares, the larger is the extent of underpricing. The intuition behind this hy-
+pothesis is that being informed in the IPO market is similar to implicitly inves-
+ting in a call option on an IPO. 5) An increase in ex ante uncertainty will 
+make the call option more valuable and thus induce more investors to become 
+informed. This will further worsen the winner’s curse and force issuing parties 
+to raise the degree of underpricing to attract more uninformed investors. This 
+explanation has a relatively simple testable implication – a positive relation be-
+tween the ex ante valuation uncertainty and the degree of IPO underpricing.
+All theories of underpricing based on asymmetric information share the pre-
+diction that underpricing is positively related to ex ante uncertainty, which 
+supposedly contributes to the degree of asymmetric information. Thus, any 
+empirical test on hypotheses based on  asymmetric information must control 
+for ex ante uncertainty. Indeed, this hypothesis has been tested by various 
+empirical studies, but the testing has been conducted only as one of the con-
+trolling variables i.e., there has been no attempt to directly test the hypothesis. 
+<Table 2> summarizes the proxies for  the ex ante uncertainty used in the 
+literature, including their estimation results. As shown in <Table 2>, there 
+is a wide range of proxies for ex ante uncertainty and their estimation results 
+differ across studies.
+<Table 2> shows that variables repr esenting the size of IPO firms, such 
+as total assets, sales, and gross proceeds, are the most commonly used proxies 
+for ex ante uncertainty. However, their estimated results are not consistent 
+across studies. It is well known that the size variables can proxy anything. 
+A potentially more promising approach might be to identify potential uses 
+of IPO proceeds as disclosed in the prospectus (Ljungqvist and Wilhelm, 2003) 
+or the number of risk factors listed in the prospectus (Beatty and Welch, 
+5) This option is exercised if the true value of IPO shares exceeds the offer price.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․631
+<Table 2> Survey of Proxies for Ex Ante Uncertainty
+Evidence is collected from the academic finance journals, such as the Asia-Pacific Journal of 
+Financial Studies, The Korean Journal of Finance (Asian Review of Financial Research), The 
+Korean Journal of Financial Management, and The Korean Journal of Financial Studies. 
+Authors Proxy variables Predicted 
+sign Results (sign)
+Lee et al. (2010) Age +/ – Significant (+)
+　 Venture dummy +/ – Significant (+)
+Log total assets +/ – Insignificant (+)
+Kim and Jung (2010) Age +/ – Insignificant (+)
+　 Gross proceeds +/ – Significant (-)
+　 Log total assets +/ – Insignificant (-)
+Lee and Kim (2009) Log age +/ – Insignificant (+/-)
+　 Log gross proceeds – Insignificant (-)
+Lee and Joh (2007) Gross Proceeds + Significant (+)
+　 Age + Insignificant (+)
+Park and Shin (2007) Age – Significant (-)
+　 Total assets – Significant (-)
+　 Gross Proceds – Significant (-)
+Kim and Lee (2006) Gross Proceeds – Significant (-)
+　 Age – Significant (-)
+Park et al. (2006) Age – Insignificant (-)
+　 Gross proceeds – Significant (-)
+　 Leverage +/ – Significant (-)
+　 Venture dummy +/ – Insignificant (-)
+Choi (2005) Total Assets (per share) + Significant (+)
+　 Gross Proceeds – Significant (-)
+Yoon (2003) Age – Significant (-)
+　 Log total assets – Significant (-)
+Lee and Yi (2003) Age – Significant (-)
+　 Log capital – Insignificant (+)
+Huh et al. (2002) Age +/ – Significant or
+insignificant (-)
+　 Log total assets +/ – Significant (-)
+Kang (2001) Log total assets – Significant (-)
+　 Age – Insignificant (-)
+Jang and Khil (2000) Venture dummy +/ – Insignificant (+)
+　 Gross proceeds +/
+– Insignificant (+)
+　 Age +/ – Insignificant (+)
+Choi (1999) Age – Insignificant (-)
+　 Log Sales – Significant (-)
+　 Standard deviation of net income + Significant (+)
+Lee, Lim, and Yon (1995) 1/gross proceeds + Significant (+)
+Joo (1995) Total assets – Significant (-)
+　 Total equity + Insignificant (+)
+Gross Proceeds + Insignificant (+)
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+632․재무연구
+1996).6) These variables could provide more  interesting insights on the issue. 
+3. Partial Adjustment (Information Extraction)
+Bookbuilding methods give underwriters wide discretion over allocations, 
+allowing them to elicit private information from investors which can be used 
+in setting the offer price. In so doing, investmen t bankers must compensate 
+investors through underp ricing. In this framework, the ex ante measure of 
+firm-specific uncertainty is directly r elated to the marginal value of investors’ 
+(positive) private information. If the firm-specific uncertainty about the value 
+of IPO shares is great, any information that reduces such uncertainty will 
+be valuable to an issuer, who is  then expected to collect such information 
+as much as possible via the bookbuilding process (Benveniste and Spindt, 1989), 
+Benveniste and Wilhelm, 1990). However, when the issuer is faced with the 
+truth-telling constraint, information gathering becomes costly in the form of 
+underpricing as uncertainty increases. This leads to a prediction that there 
+will be a partial adjustment of the offer price from that specified in the prelimi-
+nary prospectus. More precisely, from the positive information revealed, the 
+issuer and underwriter factor in their  expectations about what the full-in-
+formation price of  shares will be and raise the offer price from that set prior 
+to the bookbuilding period but set the final offer price less than the full-in-
+formation price. This leads to a positive relation between the price revision 
+over the process of bookbuilding and underpricing. 
+Testing this hypothesis is relatively new to the Korean IPO literature. This 
+is because it has been just 10 years since the bookbuilding process was in-
+troduced to the Korean market. Choi (2005) has directly tested this partial- 
+adjustment hypothesis using 390 KOSDAQ firms. His study documents the 
+6) Ljungqvist and Wilhelm (2003) argue that firms intending to use their IPO proceeds to fund operating activities 
+rather than investing activities or debt repayment are potentially more risky.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․633
+supporting evidence that underpricing is positively related to revisions in the 
+offer price made during the bookbuilding period. 7) This evidence, however, 
+is applicable only to the sample IPO firms which adopt the comparative pricing 
+method, such as price multiples, for the initial valuation of IPO shares. The 
+other method commonly used for the initial pricing of IPO shares is the 
+intrinsic pricing method based on the book value of net assets, the future 
+profitability predicted over 2 years following the IPO year, and the market 
+value of competing firms in the same industry. Prior to the deregulation of 
+the pricing practice of the IPO, every IPO in Korea must adopt the intrinsic 
+pricing method to estimate the initial price of IPO shares. This practice is 
+known according to the literature (see e.g., Lim, 1991), Kang and Cho, 2000) 
+that the offer price tends to be set too low and investors who successfully 
+received allocation can reap significant gains. If the initial price of IPO shares 
+is set too low prior to the bookbuilding process and investors who participate 
+in the bookbuilding know it, then there will be no motivation for investors 
+who participate in bookbuilding to reveal their private information in the parti-
+al-adjustment framework. That is, these investors can potentially benefit by 
+not revealing positive info rmation about new issues. For this reason, Choi 
+(2005) argues, the partial-adjustment hypothesis is not supported when the 
+sample IPOs use the intrinsic pricing practice.
+8)
+On the other hand, the average initial price based on the comparative pricing 
+practice is reportedly far less than that based on the intrinsic pricing method. 9) 
+7) Although there has been a strict restriction on how underwriters in Korea allocate IPO shares to their clients until 
+recently, underwriters in Korea had discretion of the allocation of IPO shares to those who participate in the 
+bookbuilding process (high-yield funds or institutional investors). The allotment to high-yield funds and institu-
+tional investors at that time was 30% to 55% and 15% to 30%, respectively. IPO shares were allocated to 
+high-yield funds and institutional investors participating in the bookbuilding process according to their weights 
+deter mined by their credit ratings and the proximity of their bidding price to the potential offer price. Thus, the 
+bookbuilding system at that time allowed underwriters to have discretion on the allocation to investors and pro-
+vided some inducements for informed investors (high-yield funds and institutional investors participating in the 
+bookbuilding) to reveal their information.
+8) More detailed information on the current rule regarding how to set offer prices is explained in Appendix 2.
+9) For instance, the average initial prices based on the comparative pricing practice and the intrinsic pricing prac-
+tice are ￦8,777 and ￦10,195, respectively, according to the results presented by Choi (2005).
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+634․재무연구
+This would mean additional pressure on underwriters for aggressive road show 
+activities in order to secure more (positive) information from investors. Since 
+investors are assured of positive returns as a compensation for revealing their 
+private information, this implies that there will be a positive relation between the 
+price revision and underpricing for the sample IPO firms with the comparative 
+pricing method. The author finds the evidence consistent with this prediction.
+4. Information Spillover
+In conjunction with the partial-adjustment hypothesis, there may exist the 
+effect of information spillover in the IPO market. If underwriters and investors 
+deal with each other repeatedly in the IPO market, the cost of information 
+acquisition can be reduced. Investment banks that are more active in the IPO 
+market have a natural advantage in pricing IPOs i.e., their larger IPO deals 
+allow them to obtain investors’ cooperation more cheaply than less active 
+underwriters can. Thus, repeated interaction creates information spillover from 
+the primary market to the secondary market and results in less underpricing. 
+This information spillover effect can be intensified by bundling offerings across 
+time.
+10) Obtaining information from other offerings allows investors to eval-
+uate other offerings more cheaply. Such economies of scale could result in 
+much less underpricing. In contrast, the first firm going public (i.e., pioneering 
+IPO firm) should compensate investors for their whole information production 
+effort, thereby resulting in larger underpricing. 
+Choi and Jun (2006) have examined the effects of information spillover, 
+bundling, and pioneering IPOs on underpricing in the Korean market. Their 
+results indicate that the information spillover from bundling indeed decreases 
+the marketing and information production expenditures through higher offer 
+prices and lower underpricing. Their study also finds that pioneering IPO 
+10) Refer to Ljungqvist (2006) for further detail on the information spillover hypothesis.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․635
+firms tend to have lower offer prices and larger underpricing than their fol-
+lowers do. 
+5. Certification Effect 
+The repeated interaction between investment bankers and investors as men-
+tioned above can also create a certification effect on IPO underpricing. If 
+an underwriter and investor interact repeatedly in the IPO market, the investor 
+could become afraid of being excluded from all the current and future IPO 
+deals being managed by that underwriter. This enables underwriters who are 
+more active in the IPO market to have a natural advantage in collecting in-
+formation from investors and pricing IPOs. Then, hiring underwriters who 
+are more active and more prestigious can certify the quality of IPOs and 
+reduce underpricing. This is because  investment bankers who accumulate val-
+uable reputation capital through repeated interactions will restrain themselves 
+from underwriting low-quality issuers (Booth and Smith , 1986; Carter and 
+Manaster, 1990; Michaley and Shaw, 1994). 
+The earliest empirical study on this is sue is done by Kang (1991), who has 
+examined the role of an underwriter’s reputation on the underpricing of a 
+Korean IPO. He first identifies prestigious and non-prestigious underwriters 
+based on the equity size of underwriters and the size and number of IPOs 
+undertaken by them during the per iod of 1988~1989. His study shows that 
+average initial returns for prestigious and non-prestigious banks are 76.01% 
+and 84.24%, respectively, and their difference is not significant according to 
+t-test. He argues that one of the reasons for this weak result  is the short 
+history of the Korean IPO market. 
+This certification effect has been extended to examine the role of venture 
+capitalists in the IPO market by several empirical studies (e.g., Lee, Lim and 
+Choi, 1998; Jang and Khil, 2000; Huh et al., 2002; Yoon, 2003). The authors 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+636․재무연구
+suggest that because venture capitalists repeatedly bring firms to the public 
+market, they can credibly stake their re putation that the firms they bring to 
+market are not overvalued. They test the idea using samples of venture 
+(capital)-backed IPOs and non-venture (capital)-backed IPOs. Their empirical 
+results, however, are mixed. It appears that the results are quite sensitive to 
+the market and period examined. Lee et al. (1998), report that there has been 
+no significant relation between the reputation of venture capitalists and under-
+pricing, after examining a matched set of 25 venture-backed and non-ven-
+ture-backed KSE IPOs between 1987 and 1996.  
+Jang and Khil (2000) also confirm their finding that the underpricing of 
+venture-backed IPOs is not significantly less than that of non-venture-backed 
+IPOs, after examining a matched set of 34 KOSDAQ IPOs between 1996 
+and 1999. 
+Huh, Yoon, and Lee (2002) have examined the difference of underpricing 
+between IPOs backed by a prestigious venture capitalist (KTB) and IPOs 
+backed by other (non-KTB) venture capitalists. They report that the prestigious 
+venture capitalist (KTB) is associated with lower underpricing than other ven-
+ture capitalists, after examining a matched set of 65 venture-backed and 
+non-venture-backed KOSDAQ IPOs between 1999 and 2000. They argue that 
+KTB-backed IPOs are less underpriced because the prestigious venture capital-
+ist (KTB) has monitored the quality of the offering. 
+Yoon (2003), however, finds mixed evidence for the certification effect of 
+the prestigious venture capitalists which include KTB. He has compared under-
+pricing of IPOs backed by the prestigious venture capitalists including KTB 
+with that of IPOs backed by other venture capitalists using both average abnor-
+mal returns of the initial trading day and average abnormal returns of the 
+trading day at which successive daily price limits end. His results show that 
+there is no significant difference in abnormal returns for the initial trading 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․637
+day between the two groups. But when KTB is excluded from the prestigious 
+group, the result becomes significant at the 10% level. When the abnormal 
+returns of the trading at which successive daily price limits end are used, 
+IPOs backed by the prestigious group including KTB are less underpriced.  
+But when KTB is excluded from the prestigious group, there is no difference 
+between the two groups.  
+Park et al. (2006), investigate, using a sample of 343 IPO firms over the 
+period of 2001~2003, whether an IPO firm’s relationship with a merchant 
+bank has a certification effect on unde rpricing. They document no supporting 
+evidence for the certification effect of merchant banks. 
+The results on this issue are in general mixed. This suggests that they are 
+sensitive not only to the sample firms and period examined, but also to the 
+methodologies used. For instance, some studies that examined venture capital-
+ists for KOSDAQ IPOs do not clearly explain how their prestigious venture 
+capitalists are defined. They simply classify prestigious and non-prestigious 
+groups based on the government regulations that guide how venture capitalists 
+are formed. But it would be more plausible to use a proxy for the reputation 
+capital of venture capitalists, such as the market share of the venture capital 
+industry. 
+There may be an endogeneity bias on the certification effect on underpricing. 
+An issuer doesn’t select an underwriter  randomly, nor does an investment 
+bank randomly agree on which firms are to go public (Habib and Ljungqvist, 
+2001). The choices we actually observe are presumably made by agents. But 
+issuers also likely base their choices on the underpricing they expect to suffer. 
+This leads to an endogeneity bias when initial returns are regressed for under-
+writer choice. 
+The certification effect may also be impeded by a conflict of interest arising 
+from the relationship between the underwriting business and the asset manage-
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+638․재무연구
+ment business which coexist in a security firm. Park and Shin (2007) examine 
+IPOs from 1999 through 2006 and find that the extent of underpricing is 
+larger when IPOs are underwritten by securities firms that have asset manage-
+ment businesses. They also find that the degree of underpricing is positively 
+associated with the market share of the asset management business. Their 
+findings imply that securities firms may have favored customers of their asset 
+management business at the expense of those of the underwriting business 
+because they can get more profit from the former which is growing much 
+faster than the latter.
+11)
+This does not mean that security fi rms make the underwriting business a 
+scapegoat for the growth of asset management business. On the contrary, 
+security firms expand their underwriting businesses to continuously favor cus-
+tomers of their asset management businesses. In so doing, they must make 
+their underwriting business attractive and prestigious enough to attract more 
+IPO customers, but at the same time they must deeply underprice IPO shares 
+to satisfy the greed of their asset management customers. This conflict of 
+interest potentially reduces the certification effect arising from the good reputa-
+tion and prestige of underwriters. 
+Ⅳ. Price Stabilization
+Several studies turn to the practice of price stabilization for explaining IPO 
+underpricing. One of the services that underwriters provide in connection with 
+an IPO is price support. This service is intended to reduce price drops in 
+the aftermarket for a few weeks or months and used to be legally mandatory 
+11) However, it is not evident that the conflict of interest occurs in the market. To be evident, we need the alloca-
+tion data to examine whether the asset management business benefits from the allocation of IPO shares. 
+Furthermore, their approach ignores the endogeneity bias mentioned above. That is, issuers also likely base 
+their choices of underwriters on the underpricing they expect to suffer.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․639
+in the Korean IPO market. Ruud (1993) argues that the positive initial returns 
+observed are not the result of deliberate underpricing, but the result of the 
+price stabilization practice of IPOs whose prices threaten to fall below the 
+offer price. The price support of underwriters reduces IPOs with negative 
+initial returns that would be observed in the aftermarket. This censoring of 
+the negative tail of the distribution produces positive mean initial returns even 
+if IPOs are priced at their intrinsic value. Accordingly, Ruud hypothesizes 
+that if there is no deliberate underpricing, then the initial return distribution 
+of unsupported offerings should have a mean zero.  This hypothesis is devel-
+oped under the efficient market hypothesis. 
+Unlike the U.S. market where direct evidence of price support is limited 
+because price support activities are not generally public information, under-
+writers in Korea must make a public announcement with regard to which 
+IPOs are initially supported, how the intensity of stab ilization varies overtime, 
+and at what time support is withdrawn. This makes it possible to test directly 
+the price support hypothesis in Korea.
+12)
+Jang and Woo (1997) examine the price stabilization hypothesis proposed 
+by Ruud. To investigate whether the observed initial returns are the byproduct 
+of price stabilization, as Ruud proposes, or deliber ate underpricing, Jang and 
+Woo estimate average initial returns for the two hypothesized distributions 
+of supported and unsupported IPOs. If Ruud is correct in saying that there 
+is no deliberate underpricing, then the initial return distribution of unsupported 
+offerings should have a mean zero. This, however, is not what they find. 
+They find that the distribution of unsupported IPOs has a mean first-day 
+12) The price stabilization hypothesis proposed by Ruud is different from the price stabilization hypothesis pro-
+posed and tested by other studies appearing in this paper such as Shin et al. (2004), Kim and Lee (2006), Lee 
+and Kim (2009), and Lee and Joh (2007). Ruud has to investigate the price support hypothesis through the 
+examination of the skewness of initial returns. In Korea, however, any activities supporting the aftermarket 
+price is public information and this makes it possible to test directly the price support of underwriters. Thus, 
+the hypothesis and results presented by those studies (except Jang and Woo, 1997) are not directly com-
+parable to those of Ruud (1993).
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+640․재무연구
+return of 35.54%, while the distribution of supported IPOs has a mean 
+first-day return of 18.86%. They argue that  the mean of first-day return for 
+unsupported IPOs is too large to justify the price stabilization hypothesis pro-
+posed by Ruud and suggest that underpricing in the Korean IPO market is 
+caused by factors other than price support. 
+Kim and Lee (2006) also confirm the finding that the distribution of IPOs 
+without the aftermarket intervention has an average 20-day cumulative abnor-
+mal return of 86.4%, while the distribution of IPOs with the aftermarket inter-
+vention has a mean 20-day cumulative abnormal return of 6%. This result 
+also rejects the price stabilization hypothesis proposed by Ruud.
+13)
+Shin, Chang, and Chung (2004) take a different approach to examine the 
+effect of the aftermarket price support on underpricing. In the Korean IPO 
+markets, price stabilization was legally mandatory until May 1999 and was 
+abolished briefly over the period from May 1999 to February 2000. The prac-
+tice, however, was reinstated from March 2000 as a recommended system 
+rather than an obligatory system. This unique regulatory environment provides 
+an opportunity to test their hypothesis that without the mandatory price sup-
+port system, the extent of underpricing would be less because of decreased 
+uncertainty faced by underwriters with regard to aftermarket price stabilization. 
+They find no difference in underpricing between the two periods and argue 
+that the reintroduction of the aftermarket price support system does not affect 
+the magnitude of underpricing. 
+Their hypothesis is also examined by Kim and Lee (2006). They report that 
+average 20-day cumulative returns are 91% before the reinstatement and 65.4% 
+after the reinstatement and their difference is statistically significant. Their 
+regression analysis also confirms the significant difference between them even 
+after controlling other factors that presumably influence underpricing. Their 
+13) Although Kim and Lee (2006) do not directly examine Ruud’s hypothesis, they have shown the result con-
+sistent with that of Jang and Woo.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․641
+evidence thus does not support the hypothesis proposed by Shin et al. (2004), 
+and indicates that the existence of the price support system decreases, rather 
+than increases, the extent of underpricing. 
+Lee and Kim (2009), however, provide evidence that supports the price 
+stabilization hypothesis. They analyze the data of 602 IPO stocks listed on 
+the Korea Exchange (KRX) along with KSE and KOSDAQ from February 
+2000 to July 2007 and find that average initial returns are 62.26% for the 
+period with price support and 49.17% for the period without support. Their 
+finding is consistent with the hypothesis that the existence of price stabilization 
+increases the extent of IPO underpricing because of the aftermarket un-
+certainty faced by underwriters. They also report that the effect of the 
+non-trading period, which is defined as the period from the first day of offering 
+to the first day of trading, is one of the important factors which determine 
+IPO underpricing. Using the option pricing approach, they find that the option 
+value for the non-trading period is on average 11.98% of the offering price.
+14)  
+They also report that the degree of I PO underpricing increases as the option 
+value of the IPO stock increases, and thus the loss of the option value that 
+investors may suffer during the non-trading period is another important factor 
+in IPO underpricing in the Korean market. 15)
+Price stabilization can be thought of as a put option written by underwriters 
+and held by IPO investors, in the sense that the price support activities put 
+a floor under initial aftermarket prices and thus act as insurance against price 
+falls. In fact, security-issuance regulati on in Korea allows investors to have 
+the right to sell their stocks back to underwriters within the first month of 
+14) They first define the non-trading period effect as the expected losses that can occur during the non-trading 
+period and then measure an option value of the non-trading period effect with an option pricing model and an-
+alyze the effect of the option values on the IPO underpricing.
+15) But, the value of an option increases as the time to expiration increases. Thus, their result may be due to the 
+characteristics of the option pricing model. That is, the longer the non-trading period is, the larger the value of 
+the option is. The length of the non-trading period may depend on the timing of the initial trading. Underwriters 
+of ‘cold offerings’ may wait for the ‘hot issue market’ or the time to bundle cold offerings with hot offerings for 
+the initial trading.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+642․재무연구
+trading at 90% of the offer price. 16) With such put-back options, investors 
+investing in IPO shares are protected against price falls below 90% of the 
+offer price, while underwriters are exposed to the risk arising from the sale 
+of a put option. Thus the value of a put-back option reflects the risk faced 
+by underwriters, which is similar to the risk of price stabilization. 
+Lee and Joh (2007) have examined the relationship between underpricing 
+and the ex ante value of put-back options, using a sample of 174 KSE and 
+KOSDAQ IPO firms over the period of 2003~2006. They argue that the 
+larger the ex ante risk of the aftermarket price falling below the offer price 
+is, the larger the ex ante value of  the put-back option is. Underwriters as 
+market makers then deliberately lower the initial offer price of an IPO to 
+reduce the ex ante risk of the price falling below the 90% threshold. They 
+hypothesize that the initial return and the ex ante value of a put-back option 
+are negatively correlated and find the evidence of negative correlation between 
+them. 
+However, lowering the offer price means a larger initial return(larger under-
+pricing), rather than a smaller initial return. Contrary to their own hypothesis, 
+this leads to a positive relation between the ex ante value of put-back option 
+and the initial return.
+17) That is why they use the volatility of the industry 
+index to which an IPO firm belongs (instead of the volatility of the market 
+price of the IPO firm) to estimate the value of the put-back option.  
+This view of the origin of underpricing together with such mixed results 
+leaves a critical question regarding the pricing mechanism of IPOs. Under 
+the efficient market hypothesis, the market price of IPO shares reflects the 
+true value so that positive initial returns indicate underpricing. Then any activ-
+ity of the aftermarket price stabilization may implicitly indicate a failure of 
+16) The put-back option system existed over the period from September, 2003 to July, 2007.
+17) Of course, there should be a negative relation between initial returns and the ex-post (not ex ante)value of 
+put-back option. But what Lee and Joh (2007) attempt to find is a relation between underpricing (initial returns) 
+and the ex ante (not ex-post) value of put-back option.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․643
+the IPO pricing mechanism. That is, the offer price is overvalued or the market 
+price reflects bubbles or fads, instead of the true value, and thus would burst 
+quickly leaving the market price to fall below the offer price. This suggests 
+that a different approach may be needed to examine the relation between 
+price stabilization and underpricing. 
+A possible approach is to measure underpricing using the premarket information. 
+Kim and Lee (2006) adopt this approach and measure the extent of premarket 
+underpricing using the ratio of the offer price to the ‘intrinsic value’ specified 
+in the preliminary prospectus. This allows them to eliminate a possible in-
+troduction of fads or bubbles in me asuring underpricing (Choi, 1999). Their 
+regression result indicates that their pr emarket underpricing measure (the aver-
+age ratio of the offer price to the ‘intrinsic value’) after the reinstatement 
+is significantly larger than that before the reinstatement even after controlling 
+other factors. This evidence is consistent with the price stabilization hypothesis: 
+the existence of price stabilization increases the aftermarket uncertainty faced 
+by underwriters, thereby lowering the offer price further. 
+Ⅴ. Hot Issue Markets
+Some researchers attempt to find an explanation for underpricing from the 
+phenomenon known as hot issue markets(e.g., Ibbotson and Jaffe, 1975; Ritter, 
+1984). They note that cycles exist in both the volume and average initial returns 
+of IPOs; high initial returns tend to be followed by rising IPO volume.
+18) 
+The periods of high average initial return s with rising IPO volume are referred 
+to as ‘hot issue’ markets. This empirical regularity is often observed in Korea 
+and other countries and can be hardly accounted for in the framework of 
+18) One of referees points out that underpricing can exist in even cold markets. 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+644․재무연구
+the market efficiency. For this reason, the empirical literature turns to a behav-
+ioral explanation for the hot  issue markets phenomenon. 
+Kim and Jung (2010) have examined 432 IPOs over the period of 2001~ 
+2005. They first identify sample IPOs based on the return of  the industry 
+index to which an IPO belongs over the 3 months preceding the closing 
+of  the order book. This market conditions variable is then split into terciles, 
+and each IPO is assigned to one of  the terciles. They find that initial returns 
+and long-run underperformance of  IPOs in the upper tercile (hot market 
+samples) are larger than those in the lower tercile (cold market samples) and 
+their differences are significant. Their analysis further shows that the proxies 
+for the optimistic investors’sentiment have positive effects on initial returns 
+and negative effects on long-term performance. Therefore, the observed initial 
+returns of IPOs, they argue, are more likely to reflect bubbles or fads that 
+would eventually burst rather than deliberate underpricing the favorable market 
+conditions that prevail at the time of  an offering generate over-optimism from 
+some investors about the prospects of  the offering.
+19)
+Although Kim and Jung turn to a behavioral explanation for the phenomenon, 
+their results provide interesting aspects to be explored further from the per-
+spective of information acquisition. Kim and Jung’s distinction of hot issue 
+markets does not accord with the cyclic al nature of hot issue markets in the 
+literature, where they are characterized by not only high levels of  initial return 
+but also high IPO volumes (see e.g., Ibbotson and Jaffe, 1975; Ritter, 1984). 
+This is because Kim and Jung classify the sample IPOs based on the in-
+dustry-index returns rather than on the cyclical nature of  IPO activities. 
+Although their approach seems appropriate, it could ignore the effect arising 
+from IPO volumes on underpricing. This effect is closely related to the in-
+formation spillover effect from bundling IPOs in the same industry. Benveniste 
+19) One of referees points out that this could result from investors’overexcitement over a certain industry at a time, 
+as experienced during the internet bubble period.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․645
+et al. (2002), offer an alternative explanation to the hot issue markets pheno-
+menon. They develop a model in which underwriters bundle IPOs in the 
+same industry in order to share the costs of  information production (i.e., 
+underpricing). The central idea is that obtaining information about the industry 
+component allows investors to evaluate other offerings from that industry 
+more cheaply. Such economies of scale could lead to many firms in the same 
+industry going public at the same time. This is consistent with Kim and Jung’s 
+empirical observation that companies tend to go public in industry-specific 
+waves.
+20)
+Kim and Jung’s results also imply that initial returns can be predicted using 
+market conditions, which are measured by industry-index returns in the 
+3-month period prior to the offerings, prevailing prior to the offering that 
+is, there is a positive relation between the pre-market condition and initial 
+returns. This contradicts the information extraction theory proposed by 
+Benveniste and Spindt (1989), since the industry-index returns are public in-
+formation which is freely available, so there is no need to compensate investors 
+for it by leaving money on the table. 
+Ⅵ. Long-Run Performance
+Another unique pattern associated with IPOs is the poor aftermarket per-
+formance of IPOs in the long run. Measured from the aftermarket prices 
+over the various time frames, <Table 3> summarizes the evidence on the 
+long-term performance of the Korean IPOs documented by empirical studies 
+since Lim and Lee (1995). 
+As shown in <Table 3>, there are in gen eral three measures used to show 
+20) Booth and Chua (1996) also argue that when there is a sequence of many offerings in the market, the marginal 
+cost of information production is less, thereby reducing underpricing.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+646․재무연구
+the long-term performance: cumulative abnormal returns (CARs), buy and hold 
+abnormal returns (BHARs), and relative wealth (WR). Results presented in 
+<Table 3> show a declining tendency of long-term performance of IPOs 
+over a period of 36 months and these meas ures appear to be different across 
+studies.21) This suggests that they are sensitive to the methods and benchmarks 
+used. Thus, research on this area has been subject to more rigorous empirical 
+testing. Fama (1970) particularly emphasizes that all models for expected re-
+turns are incomplete descriptions of the systematic patterns in average returns 
+during any sample period. As a result, tests of performance are always con-
+taminated by a bad-model problem. The bad-model problem is less serious 
+in performance studies that focus on short return windows (a few days), al-
+though the problem grows with the return horizon.  
+To mitigate the problem, Choi and Huh (2000) have used various bench-
+marks that are carefully constructed to avoid known biases. They have also 
+adopted a monthly calendar-time portfolio approach for measuring long-term 
+abnormal performance. By forming monthly calendar-time portfolios, all 
+cross-correlations of event-firm abnormal returns are automatically accounted 
+for in the portfolio variance. Any methodology that ignores cross-sectional 
+dependence of event-firm abnormal returns that are overlapping in calendar- 
+time is likely to produce overstated test statistics (Mitchell and Stafford, 1998). 
+Their results show that long-term abnormal returns based on a calendar-time 
+portfolio approach are 0.31% for 12 months, 0.48% for 24 months, and 0.54% 
+for 36 months, confirming the poor long-term performance of IPOs.
+22)
+21) The result of Kim and Kim (2000) presented in <Table 3> is the only one that shows positive long-term perform-
+ance over a 36-month period. Their long-term returns are adjusted only by the return of control firms com-
+parable to IPO firms. Their tests of the long-term performance could be contaminated by a bad-model prob-
+lem as suggested by Fama (1998). One way to mitigate the problem is to adjust returns of IPO shares by vari-
+ous benchmarks which are carefully constructed to avoid known biases, as suggested by Choi and Huh 
+(2000). 
+22) Returns are estimated by the Fama-French three factor model. The three factors are zero-investment portfolios 
+representing the excess return of the market; the difference between a portfolio of small stocks and big stocks, 
+SMB; and the difference between a portfolio of high BE/ME stocks and low BE/ME stocks, HML. BE/ME is the 
+ratio of the book value of equity to the market value of equity.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․647
+<Table 3> Survey of Long-Term Performance of Korean IPOs
+BHARs are calculated as the difference between the average monthly returns for the event 
+firms and the benchmark portfolios. CARs are calculated by summing the average monthly ab-
+normal returns. The wealth relative (WR) is the average gross return of the sample firms divided 
+by the average gross return of the benchmark.
+Author(s) Sample 
+period
+Sample 
+size
+Under
+pricing 
+(%)
+Market Period 
+(months)
+Performance measure
+CAR (%) BHAR 
+(%) WR
+Lim and Lee1 (1995) 1980~1990 331  46.77 KSE  62 . 3 8 - -
+12 1.33 - -
+24 -4.96 - -
+36 -11.53 - -
+Lim (1997) 1988~1994 342  75.45
+KSE 12 - - 0.99
+24 - - 0.96
+36 - - 0.95
+Choi and Huh
+5 (2000) 1992~1996 107  70.21 KSE 12 -0.31 - 0.99
+24 -0.48 - 0.98
+36 -0.54 - 0.93
+Kim and Kim
+3 (2000) 1988~1994 267  6 4.47 2.31 -
+12 5.47 1.04 1.14
+24 10.46 -0.12 1.01
+36 18.87 -3.76 -
+Choi (2000)
+2 1992~1998 141 114.37 KSE 36 7.71 2.94 -
+Lee and Yi1 (2003) 1997~2000  39  56.66 KSE  69 . 2 7 -1 . 6 3
+12 -6.6 - 1.56
+24 10.02 - 1.93
+36 -21.31 - 1.80
+131  14.98
+KOSDAQ  62 5 . 5 8- 1 . 5 3
+12 31.9 - 1.30
+24 14.01 - 1.35
+36 -7.83 - 1.08
+Kim and Jung
+4 (2010) 2001~2005 432  55.53 KOSDAQ  6 -5.25 -13.71 -
+12 -11.34 -23.31 -
+24 -25.72 -50.53 -
+36 -30.81 -90.67 -
+Note : 1 Returns (CAR) are adjusted to control for the market risk premium.
+2 Returns (CAR & BHAR) are adjusted to control for the benchmark return based on size portfolios.
+3 Returns (CAR & BHAR) are adjusted to control for the return of control firms. 
+4 Returns (CAR & BHAR) are adjusted to control for the return of Fama-French portfolios.
+          5 Returns are estimated by the Fama-French three factor model. The three factors are zero-investment portfo-
+lios representing the excess return of the market; the difference between a portfolio of small stocks and 
+big stocks, SMB; and the difference between a portfolio of high BE/ME stocks and low BE/ME stocks, 
+HML. BE/ME is the ratio of the book value of equity to the market value of equity. 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+648․재무연구
+The large initial returns together with the poor long-term performance, as 
+shown in <Table 3>, cast doubt on the explanations based on information 
+asymmetry and price stabilization. Some researchers, thus, turn their attention 
+to behavioral explanations for IPO un derpricing. Behavioral theories assume 
+that the favorable market conditions that prevail at the time of an offering 
+generate over-optimism from some investors about the prospects of IPO 
+firms. Such investors bid up the price of IPO shares beyond true value and 
+the aftermarket share price eventually falls below the IPO price in the months 
+following the offering. There are several empirical studies that build on this 
+explanation.  
+Choi (2000) has examined the effect of optimistic investors’ sentiment on 
+the large initial returns and the poor aftermarket performance. He uses the 
+subscription rate at the time of offering as a proxy for investors’ demand 
+for IPOs at the time of trading and reports its positive relation with the initial 
+return but negative relation with long-term performance.
+23)
+Kim and Jung (2010) also examine the relation between investors’ sentiment 
+and the underpricing phenomenon. They report that the proxies for the opti-
+mistic investors’ sentiment, as measured by the volatility of initial returns, 
+have positive effects on initial returns and negative effects on long-term 
+performance. The result of these studies suggests that the observed initial 
+returns of IPOs are more likely to reflect bubbles or fads rather than deliberate 
+underpricing.   
+Several studies attempt to relate long-term underperformance to poor operat-
+ing performance occurring since the offering. If  managers attempt to win-
+dow-dress their accounting numbers prior to going public, this will lead to 
+pre-IPO performance being overstated and post-IPO performance being 
+understated. Managers of  IPO firms also tend to offer their issues to coincide 
+23) Benveniste and Spindt’s (1989) model also suggests that underpricing should be concentrated among the 
+IPOs drawing the highest level of pre-market interest.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․649
+with periods of  unusually good performance levels, which cannot be sustained 
+in the future. 
+Lim (1997) find that firms going public exhibit a substantial decline in ROA, 
+ROE, and total assets turnover ratio over the 4 years from the offering. Kim 
+and Kim (2000) also confirm Lim’s result that post-issue sales growth, account 
+receivables turnover ratio, and ROS decline significantly over the 3 years after 
+the IPO, as compared to those ratios in the IPO year. 
+Choi and Kim (2008) examine underwriters’ opportunistic earnings forecast 
+behavior and its relation with the long-term performance of IPO firms. They 
+find that the earnings forecast errors of IPO firms, which are estimated by 
+using earnings forecasts made at the time of filing the registration statements, 
+are positive and significantly large, suggesting that their future earnings have 
+been too optimistic. They also report that such forecast errors have positive 
+effects on initial returns and negative effects on long-term performance.  
+Overall, these studies report that the performance of IPO firms declines 
+significantly relative to their pre-IPO levels, based on several performance 
+measures. Further, they present evidence to support the contention that high 
+pre-IPO operating performance levels may lead investors to develop optimistic 
+assessments of earnings growth for the IPO firms. 
+The natural question that arises is whether the long-run decline in operating 
+performance subsequent to the IPO is anticipated by the market. In the effi-
+cient market framework, the market is not fooled by this behavior and correctly 
+anticipates and accounts for it in its valuation of  the firm. If  the market 
+is able to account for window dressing, the long-term stock price performance 
+of  IPOs should be normal. As we have seen in the literature, however, the 
+decline in operating performance is not anticipated and investors are constantly 
+surprised by the poor operating performance of  IPO firms, resulting in the 
+long-term underperformance of  IPO shares. Therefore, the results in the liter-
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+650․재무연구
+ature suggest that potential investors initially have high expectations of  future 
+earnings growth, which are not subsequently fulfilled, and bid up the after-
+market price of IPO shares beyond true value at the time of initial trading. 
+This is also consistent with behavioral explanations.  
+Ⅶ. Concluding Remarks
+This paper reviews the hypotheses and empirical evidence that have been 
+proposed to explain IPO activities and pricing behavior in the Korean market. 
+In particular, the paper reviews empirical evidence and explanations related 
+to the three patterns associated with IPOs: underpricing(positive initial re-
+turns), hot issue markets, an d long-run underperformance. 
+A number of hypotheses have been offered to explain large initial returns 
+in the Korean IPO market, focusing on various aspects of the relations be-
+tween underwriters, issuers, and investo rs. In general, these hypotheses can 
+be grouped under two broad categories: deliberate underpricing and behavioral 
+approaches. The first category can be further divided into two subcategories: 
+asymmetric information and price stabilization. While the first subcategory 
+attempts to explain underpricing in the framework of the efficient market 
+and consider it as a part of necessary costs associated with initial public offer-
+ings, the last subcategory turns to one of services that underwriters provide 
+in connection with IPOs - the price stabilization practice which is intended 
+to reduce price drops in the aftermarket. Behavioral approaches regard initial 
+returns as fads or bubbles caused by irrational investors who bid up the price 
+of IPO shares beyond true value. 
+Among the hypotheses of IPO underpricing reviewed, the hypotheses based 
+on asymmetric information are well established and supported by the empirical 
+literature. However, the significant variation in the degree of underpricing over 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․651
+time (e.g., hot and cold issue markets) and the poor long-term performance 
+make many researchers doubtful whether information-based theories could be 
+enough to explain large initial returns. For this reason, some researchers turn 
+their attention to behavioral explanations which put more emphasis on the 
+effect of investors’ irrational behavior or sentiment on stock prices. 
+The hot issue market phenomenon and the long-term underperformance 
+of IPOs suggest that if the market conditions prevailing at the time of an 
+offering are favorable, optimistic assessments can be generated from investors 
+about the prospects of the offering, thereby resulting in abnormalities in the 
+aftermarket price. This evidence is not consistent with the efficient market 
+and calls into question the explanatory power of the information-based 
+hypotheses. Abnormalities in the market price can also shed some light on 
+the mixed evidence presented by the empirical studies reviewed in this paper, 
+particularly studies related to the price stabilization and the certification effect. 
+Adifferent approach may be needed to examine the relation between the in-
+formation-based hypotheses and underpricing. One of potentially promising 
+approaches is to measure underpricing using the premarket information. This 
+will allow us to eliminate a possible introduction of abnormalities, such as 
+fads or bubbles, in measuring underpricing. 
+Behavioral approaches to IPO underpricing are still in the early stage of 
+development and one of the potentially promising research areas. There have 
+been several studies that examine the effect of investors’ irrational behavior 
+or sentiment on the aftermarket price of IPOs but no studies on the effect 
+of the behavioral biases of issuers and underwriters on underpricing. 
+Evidence documented in the literature suggests that there is no dominant 
+explanation for the large initial returns observed in the Korean IPO market. 
+Thus, the hypotheses reviewed here are not mutually exclusive and a given 
+hypothesis can be more relevant to some IPOs than to others. 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+652․재무연구
+References
+Beatty, R. P . and J. R. Ritter, “Investment Banking, Reputation, and the 
+Underpricing of  Initial Public Offerings”, Journal of  Financial Economics , 
+Vol. 15(1986), pp. 213-232.
+Beatty, R. P . and I. Welch, “Issuer Expenses and Legal Liability in Initial Public 
+Offerings”, Journal of  Law and Economics , Vol. 39(1996), pp. 545-602.
+Benveniste, L. M., W . Y . Busaba, and W . J. Wilhelm, Jr., “Price Stabilization 
+as a Bonding Mechanism in New Equity Issues”, Journal of  Financial 
+Economics, Vol. 42(1996), pp. 223-255.  
+Benveniste, L. M., W . Y . Busaba, and W . J. Wilhelm, Jr., “Information 
+Externalities and the Role of  Underwriters in Primary Equity Markets”, 
+Journal of  Financial Intermediation , Vol. 11(2002), pp. 61-86.
+Benveniste, L. M. and P . A. Spindt, “How Investment Bankers Determine 
+the Offer Price and Allocation of  New Issues”, Journal of  Financial 
+Economics, Vol. 24(1989), pp. 343-361.
+Benveniste, L. M. and W . J. Wilhelm, Jr., “A Comparative Analysis of  IPO 
+Proceeds under Alternative Regulatory Environments”, Journal of  
+Financial Economics , Vol. 28(1990), pp. 173-207.
+Booth, J. R. and L. Chua, “Ownership Dispersion, Costly Information and 
+IPO Underpricing”, Journal of  Financial Economics , Vol. 41(1996), pp. 
+291-310.
+Booth, J. R. and R. Smith, “Capital Raising, Underwriting and the Certification 
+Hypothesis”, Journal of  Financial Economics , Vol. 15(1986), pp. 261-281. 
+Carter, R. B. and S. Manaster, “Initial Public Offerings and Underwriter 
+Reputation”, Journal of  Finance , Vol. 45(1990), pp. 1045-1067.
+Choi, M.-S., “A Study on Initial Returns and Underpricing of  IPOs”, The 
+Korean Journal of  Finance , Vol. 12, No. 1(1999), pp. 197-226(in Korean).
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․653
+최문수, “신규공모주의 공모가격 할인과 초기성과에 대한 연구”, 재무연
+구, 제12권 제1호(1999) pp. 197-226.
+Choi, M.-S., “An Empirical Study on the Initial Performance of  Korean IPOs 
+Before and After the Liberaliz ation of  Issue Price Setting”, The Korean 
+Journal of  Financial Studies , Vol. 27, No. 1(2000), pp. 139-181(in Korean).
+최문수, “발행가격 자율화 이전과 이후의 IPO 초기성과에 대한 연구”, 
+증권학회지, 제27집 제1호(2000), pp. 139-181.
+Choi, M.-S., “The Role of  Intangible Assets on the Valuation of  IPO Shares”, 
+The Korean Journal of  Financial Management , Vol. 20, No. 1(2003), pp. 
+1-27(in Korean). 
+최문수, “신규공모주의 가치평가와 무형자산의 역할”, 재무관리연구, 제
+20권 제1호(2003), pp. 1-27.
+Choi, M.-S., “Pre-Issue Information Gathering Activities of  the Bookbuilding 
+Process and the Partial Adjustment Hypothesis in the Korean IPO 
+Market”, The Korean Journal of  Financial Studies , Vol. 34, No. 3(2005), pp. 
+1-35(in Korean). 
+최문수, “수요예측을 통한 신규공모주의 공모가격 결정과 부분조정 가
+설(Partial-Adjustment Hypothesis)에 관한 연구,” 증권학회지, 제34권 제3호
+(2005), pp. 1-35.
+Choi, M.-S. and H.-J. Huh, “The Long-Run Performance of  IPOs Revisited”, 
+The Korean Journal of  Finance, Vol. 13, No. 1(2000), pp. 99-127(in Korean).
+최문수, 허형주, “ 신규공모주의 장기성과에 대한 재 고찰 ”, 재무연구, 
+제13권 제1호(2000), pp. 99-127.
+Choi, M.-S. and S.-Y . Jun, “An Empirical Study on the Effect of  Bundling 
+and Information Spillover from the KOSDAQ Primary and Secondary 
+Markets”, The Korean Journal of  Finance , Vol. 19, No. 2(2006), pp. 1-34(in 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+654․재무연구
+Korean).
+최문수, 전수영, “코스닥 발행주식시장 및 유통시장의 정보전이 효과와 
+동시상장 효과에 대한 실증 연구 ”, 재무연구, 제19권 제2호(2006), pp. 
+1-34.
+Choi, M.-S. and W .-K. Kim, “A Study on Underwriters’ Opportunistic Behavior 
+of  Earnings Forecast and Long-Term Performance of  IPO firms”, The 
+Korean Journal of  Business Administration , Vol. 21, No. 3(2008), pp. 
+931-960(in Korean).
+최문수, 김웅겸, “코스닥 신규공개기업(IPO)에 대한 주관회사의 미래이
+익 예측행태와 장기성과에 관한 연구”, 대한경영학회지, 제21권 제3호
+(2008), pp. 931-960.
+Fama, E. F., “Efficient Capital Markets: A Review of  Theory and Empirical 
+Work”, Journal of  Finance , Vol. 25(1970), pp. 383-417.
+Fama, E. F., “Market Efficiency, Long-Term Returns, and Behavioral Finance,” 
+Journal of  Financial Economics , Vol. 49(1998), pp. 283-306.
+Habib, M. A. and A. Ljungqvist, “Underpricing and Entrepreneurial Wealth 
+Losses in IPOs: Theory and Evidence”, Review of  Financial Studies , Vol. 
+14(2001), pp. 433-458.
+Huh, N.-S., B.-S. Yoon, and K.-H. Lee, “An Analysis on the IPO of  Venture 
+Firms and the Role of  Venture Capitalists”, The Korean Journal of  Financial 
+Management, Vol. 19, No. 1(2002), pp. 153-181(in Korean). 
+허남수, 윤병섭, 이기환, “벤처기업공개와 벤처캐피탈리스트의 역할 분
+석”, 재무관리연구, 제19권 제1호(2002), pp. 153-181.
+Ibbotson, R. G. and J. F. Jaffe, “Hot Issue” Markets”, Journal of  Finance , Vol. 
+30(1975), pp. 1027-1042.
+Jang, B.-S. and Y .-H. Woo, “A Simple Test of  Underwriter Price Support 
+Hypothesis in Korean Stock Market”, The Korean Journal of  Financial 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․655
+Studies, Vol. 20(1997), pp. 329-367(in Korean).
+장범식, 우영호, “간사회사의 시장조성 활동이 신규공모주식의 가격형
+성에 미치는 영향에 관한 연구”, 증권학회지, 제20권(1997), pp. 329-367.
+Jang, S.-S. and J. Khil, “A Study on the Role of  Certification of  Venture 
+Capitalists and Initial Public Offering of  KOSDAQ Venture Firms”, 
+The Korean Journal of  Financial Management , Vol. 17, No. 1(2000), pp. 
+111-136(in Korean). 
+장상수, 길재욱, 벤처기업의 장외등록과 벤처캐피탈의 보증 역할에 관한 
+연구”, 재무관리연구, 제17권 제1호(2000), pp. 111-136.
+Joo, S.-L., “The Study of  Factors Which Affect Underpricing in Korean IPO 
+Market-Insider Ownership and Net Asset Value Per Share”, The Korean 
+Journal of  Financial Studies , Vol. 18(1995), pp. 233-255(in Korean). 
+주상용, “기업공개시 저평가에 영향을 미치는 요인에 관한 연구”, 증권
+학회지, 제18권(1995), pp. 233-255.
+Jung, S.-C., “Pricing Behavior of  IPO Shares”, The Korean Journal of  Finance , 
+Vol. 5(1992), pp. 181-206(in Korean).
+정성창, “기업공개와 주가행태 : 공개 전 유·무상증자의 영향을 중심으
+로”, 재무연구, 제5호(1992), pp. 181-206.
+Kang, H. S., “A Study on IPO Pricing”, The Korean Journal of  Finance , Vol. 
+3(December 1990), pp. 157-176(in Korean).
+강효석, “ 기업공개시 공모주 가격결정에 관한 연구 ”, 재무연구, 제3권
+(1990), pp. 157-176.
+Kang, H. S., “An Empirical Study on the Effect of  the Activities of  Investment 
+banks on IPO Pricing”, The Korean Journal of  Financial Management , Vol. 
+8, No. 2(1991), pp. 31-45. 
+강효석, “투자은행이 IPO의 가격형성에 미치는 영향에 관한 실증분석”, 
+재무관리연구, 제8권 제2호(1991), pp. 31-45.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+656․재무연구
+Kang, H. S., “The Effect of  R&D Expenditures of  Venture Firms on Returns 
+of  IPOs: Evidence from KOSDAQ Firms”, The Korean Journal of  Finance, 
+Vol. 14, No. 2(2001), pp. 251-279(in Korean).
+강효석, “벤처기업의 R&D 투자비가 IPO수익률에 미치는 영향 : 코스닥
+등록기업을 중심으로”, 재무연구, 제14권 제2호(2001), pp. 251-279.
+Kang, H. S. and J. Y . Cho, “The Valuation of  IPOs Using Franchise-Factor 
+Model”, The Korean Journal of  Financial Studies , Vol. 26, No. 1(2000), pp. 
+91-118(in Korean).
+강효석, 조장연, “상대가치에 의한 신규공모주의 가치평가 : 성장기회가
+치 모형을 중심으로 ”, 증권학회지, 제26권 제1호(2000), pp. 91-118.
+Kim, S. and S. Lee, “Underpricing of  IPOs and Underwriters’ Market Making 
+Activities”, The Korean Journal of  Financial Studies , Vol. 35, No. 3(2006), 
+pp. 141-173(in Korean). 
+김성민, 이상혁, “IPO 주식의 시장조성제도 부활 이후 주간사회사의 공
+모가 산정행태”, 증권학회지, 제35권 제3호(2006), pp. 141-173.
+Kim, Y .-K. and Y .-H. Kim, “The Lo ng-Term Performance of  IPOs and 
+Earnings Management”, The Korean Journal of  Financial Management , Vol. 
+17, No. 2(2000), pp. 71-98(in Korean). 
+김영규, 김영혜, “ 최초공모주의 장기성과와 이익관리 ”, 재무관리연구, 
+제17권 제2호(2000), pp. 71-98.
+Kim, H.-A. and S.-C. Jung, “The Effect of  Optimistic Investors’ Sentiment 
+on Anomalious Behaviors in the Hot Market IPOs”, The Korean Journal 
+of  Financial Management , Vol. 27, No. 2(2010), pp. 1-33(in Korean).
+김현아, 정성창, “낙관적 투자자의 기대가 핫마켓 상황 IPO 시장의 이상
+현상에 미치는 영향력 검증”, 재무관리연구, 제27권 제2호(2010), pp. 1-33.
+Lee, J.-R. and S. W . Joh, “Initial Returns of  IPO Firms and Options”, 
+Asia-Pacific Journal of  Financial Studies, Vol. 36, No. 4(2007), pp. 657-694(in 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․657
+Korean).
+이종룡, 조성욱, “풋백옵션 규제이후 신규공모주의 초기 저평가와 시장
+조성가설에 관한 연구 ”, 증권학회지, 제36권 제4호(2007), pp. 657-694.
+Lee, J.-R. and J.-W . Kim, “The Effect of  Non-Trading Period on IPO 
+Underpricing in Korean Stock Market”, Asian Review of  Financial Research, 
+Vol. 22, No. 3(2009), pp. 1-34(in Korean). 
+이종룡, 김진욱, “거래지연이 신규공모주 저평가에 미치는 효과”, 재무
+연구, 제22권 제3호(2009), pp. 1-34.
+Lee, K.-H., G.-S. Lee, and B.-S. Yoon, “Ownership Disperses When a Venture 
+Firms Its Initial Public Offerings”, The Korean Journal of  Financial 
+Management, Vol. 27, No. 1(2010), pp. 63-87(in Korean). 
+이기환, 이길수, 윤병섭, “신규공모주의 저가발행과 벤처기업의 소유분
+산”, 재무관리연구, 제27권 제1호(2010), pp. 63-87.
+Lee, K.-H., B.-K. Lim, and Hae-Sul Choi, “The Long- and Short-Term 
+Performance of  Venture IPOs and the Role of  Venture Capitalists”, 
+The Korean Journal of  Finance and Banking , Vol. 4, No. 1(1998), pp 49-80(in 
+Korean).
+이기환, 임병균, 최해술, “벤처기업의 장단기 성과와 벤처캐피탈리스트
+의 역할”, 증권금융연구, 제4권 제1호(1998), pp. 49-80.
+Lee, K.-H. and M. C. Yi, “Underpricing of  IPOs on KOSDAQ Versus KSE”, 
+The Korean Journal of  Financial Management , Vol. 20, No. 1(2003), pp. 
+233-260(in Korean). 
+이기환, 이명철, “코스닥시장과 거래소시장의 최초공모주 저가발행 비
+교”, 재무관리연구, 제20권 제1호(2003), pp. 233-260.
+Lee, S.-K., W .-K. Lim, and K. H. Yon, “IPO Underpricing Phenomenon and 
+Pricing Behavior of  Underwriters”, The Korean Journal of  Finance , Vol. 
+9(1995), pp. 119-145(in Korean).
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+658․재무연구
+이성규, 임웅기, 연강흠, “주간사회사의 공모가격결정행태와 최초공모
+주의 저가발행현상”, 재무연구, 제9호(1995), pp. 119-145.
+Lim, B.-K., “The Long- and Short-Term Performance of  IPOs and their 
+Operating Performance”, The Korean Journal of  Financial Management , Vol. 
+14, No. 2(1997), pp. 253-271(in Korean).
+임병균, “IPO 주식의 장단기 성과와 영업성과”, 재무관리연구, 제14권 
+제2호(1997), pp. 253-271. 
+Lim, W .-K., “A Study on the Pricing Mechanism of  IPOs in the Korean 
+Market”, The Korean Journal of  Financial Studies , Vol. 13(1991), pp. 
+103-137(in Korean). 
+임웅기, “우리나라 최초공모주시장의 가격기능에 관한 연구 : 발행가결
+정 자율화 조치를 중심으로 ”, 증권학회지, 제13권(1991), pp. 103-137.
+Lim, W .-K. and S.-K. Lee, “The Long-Term Performance of  IPOs in Korean 
+Market”, The Korean Journal of  Financial Studies , Vol. 18(1995), pp. 333- 
+369(in Korean).
+임웅기, 이성규, “우리나라 최초공모주의 장기성과에 관한 연구”, 증권
+학회지, 제18권(1995), pp. 333-369.
+Ljungqvist, A., “IPO Underpricing”, Handbook of  Corporate Finance: Empirical 
+Corporate Finance , Elsevier/North-Holland, 2006.
+Ljungqvist, A. and W . J. Wilhelm, “IPO Pricing in the Dot-Com Bubble”, 
+Journal of  Finance , Vol. 58(2003), pp. 723-752. 
+Michaely, R. and W . H. Shaw, “The Pricing of  Initial Public Offerings: Tests 
+of  Adverse-Selection and Signaling Theories”, Review of  Financial Studies , 
+Vol. 7(1994), pp. 279-319.
+Mitchell, M. L. and E. Stafford, “Managerial Decisions and Long-Term Stock 
+Price Performance”, Working Paper, University of  Chicago(1998). Park, 
+K., J.-I. Kim, and S.-Y . Sung, “Trade Credit and IPO Underpricing”, 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․659
+Asia-Pacific Journal of  Financial Studies, Vol. 36, No. 1(2007), pp. 77-109(in 
+Korean).
+박광우, 김종일, 성상용, “기업간 신용거래와 최초공모주의 초기성과”, 
+증권학회지, 제36권 제1호(2007), pp. 77-109.
+Park, K., S. J. Lim, and S.-Y . Sung, “The Effect of  Banking Relationships 
+on IPO Underpricing: Evidence from Korea”, The Korean Journal of  
+Financial Management , Vol. 23, No. 1(2006), pp. 135-163(in Korean). 
+박광우, 임성준, 성상용, “은행과의 관계가 최초공모주 가격결정에 미치
+는 영향에 관한 연구 ”, 재무관리연구, 제23권 제1호(2006), pp. 135-163.
+Park, R. S. and B. S. Shin, “Conflicts of  Interest Among Securities Firms 
+Running Asset Management Businesses”, The Korean Journal of  Finance , 
+Vol. 20, No. 3(2007), pp. 127-153(in Korean).
+박래수, 신보성, “증권회사의 자산운용업 겸업에 따른 이해상충에 관한 
+연구 : IPO 저가 발행을 중심으로”, 재무연구, 제20권 제2호(2007), pp. 
+127-153.
+Ritter, J. R., “The Hot Issue Market of  1980”, Journal of  Business, Vol. 57(1984), 
+pp. 215-240.
+Ritter, J. R. and I. Welch, “A Review of  IPO Activity, Pricing, and Allocations”, 
+Journal of  Finance , Vol. 57(2002), pp. 1795-1828.
+Rock, K., “Why New Issues Are Underpriced”, Journal of  Financial Economics , 
+Vol. 15(1986), pp. 187-212.
+Ruud, J. S., “Underwriter Price Support and the IPO Underpricing Puzzle”, 
+Journal of  Financial Economics , Vol. 34(1993), pp. 135-151.
+Shin, H.-H., J. Chang, and J.-W . Chung, “IPO Underpricing and Market 
+Stabilization”, The Korean Journal of  Financial Studies , Vol. 33, No. 2(2004), 
+pp. 155-190(in Korean). 
+신현한, 장진호, 정지웅, “신규공모주의 저평가 발행과 시장조성제도”, 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+660․재무연구
+증권학회지, 제33권 제2호(2004), pp. 155-190.
+Yoon, B.-S., “The Certification Role by the Types of  Venture Capitalists in 
+KOSDAQ”, The Korean Journal of  Financial Management , Vol. 20, No. 
+1(2003), pp. 29-60(in Korean).
+윤병섭, “벤처캐피탈회사의 유형과 보증역할에 대한 연구”, 재무관리연
+구, 제20권 제1호(2003), pp. 29-60.
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․661
+ <Appendix 1> Regulatory Ch anges inthe Bookbuilding and
+Allocation Process of Korean IPOs
+Year and Month Bookbuilding process and allocation of IPO Shares
+1997. 8 • Implement the bookbuilding system.
+2000. 2 • The standardized bookbuilding process is proposed.
+2000. 6 • A band of the desired offer price should be proposed to investors who 
+participate in the bookbuilding.
+2000. 12
+• Abolish the standardized bookbuilding process. 
+• Underwriting rules are enacted by Korea Financial Investment Association.
+• Allocate IPO shares propotionately to ESOP (20% for KSE, 0 ∼20% for 
+KOSDAQ), regular investors (20% for KSE, 15 ∼35% for KOSDAQ), 
+institutional investors (15% for KSE, 10% for KOSDAQ), and high-yield 
+funds (45% for KSE, 55% for KOSDAQ). 
+• Allocate IPO shares to institutional investors who submit a bidding pricewi-
+thin the range from top 15% to bottom 15% of the bidding prices.
+• Allocate IPO shares to institutional investors participating in the book-
+building according to their weight determined by their credit ratings and 
+the proximity of their bidding price to the offer price. 
+2002. 7 (8)
+• The method and process of the bookbuilding are liberalized and autono-
+mously determined by underwriters and issuers.
+• Implement the over-allotment option or Green Shoe option which allows 
+underwriters to borrow outstanding shares (up to 15% of IPO shares) 
+at the offer price from large shareholders and allocate them to investors 
+on the pro-rata basis.
+2003. 9
+• The allocation of IPO shares to high-yield funds is gradually reduced by 
+Sept. 2004 from 45% (KSE) and 55% (KOSDAQ) to 30% (KSE and 
+KOSDAQ). Remaining shares are allo cated to institutional investors. 
+• Revise the over-allotment option to allow underwriters to borrow shares 
+at the 95% of the offer price from large shareholders.
+2005. 4 (7)
+• Remove the mandatory 30% allocation to high-yield funds. Allocation to 
+institutional investors becomes 60% of IPO shares.
+• Revise the over-allotment option to borrow shares at the 90% of the 
+offer price.
+2007. 7
+• A proposal to advance the underwriti ng process of IPOs is proposed.
+• Reduce a period between the bookbuilding and the initial trading from 
+two weeks to one week.
+• IPOs in the KSE market can be offered with existing shares as well as 
+new issues. For the KOSDAQ IPOs, only new issues are allowed.
+• Revise the over-allotment option to borrow shares at the 100% of the 
+offer price from large shareholders and allocate them autonomously to 
+investors. 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+662․재무연구
+Year and 
+Month Price support Pricing methods
+1991. 6
+• Determine the offer price within the 
+arithmetic mean of the ‘intrinsic value’ 
+and the ‘relative value’ of comparable 
+firms.
+• The opening price of initial trading is 
+the offer price.
+1996.8
+• Determine the offer price through an 
+agreement between underwriters and is-
+suing firms based on the intrinsic and 
+relative values, and market situation, 
+etc.
+1997. 8 • Abolish the mandatory price sup-
+port system
+1998.11
+• The mandatory price support is re-
+instated to protect IPO investors 
+against price falls below 90% of 
+the offer price for one month after 
+the initial trading.
+1999.5
+• Determine the offer price based on the 
+weighted average price established through 
+the bookbuilding process.
+2000. 2
+• Maintain the aftermarket price 
+above the 80% of the offer price 
+for (at least) 1 month after the ini-
+tial trading.
+• At least 50% of IPO shares should 
+be supported. 
+2000. 6
+• Maintain the aftermarket price 
+above the 80% of the offer price 
+for 2 months after the 
+initial 
+trading.
+• 100% of IPO shares should be 
+supported. 
+• Determine the offer price within ±10% 
+of the weighted average price estab-
+lished through the bookbuilding. 
+• The opening price of initial trading is 
+the first asking price.
+2000. 12
+• The aftermarket price is supported 
+for a period over 1-6 months after 
+the initial trading. 
+• Determine the offer price within ±30% 
+of the weighted average price estab-
+lished through the bookbuilding. 
+  < A p p e n d i x  2 >  R e g u l a t o r y  Changes in the Price Support 
+and the Pricing Methods of Korean IPOs
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM
+\nwww.earticle.net
+ Review of Empirical Studies on IPO Activity and Pricing Behavior in Korea․663
+Year and 
+Month Price support Pricing methods
+2002. 7 (8)
+• Maintain the aftermarket price 
+above the 90% of the offer price 
+for (at least) 1 month after the ini-
+tial trading.
+• 100% of IPO shares should be 
+supported. 
+• The offer price is autonomously de-
+termined by underw riters and issuers 
+based on the bookbuilding.
+• Remove from the underwriting regu-
+lation the details of the pricing of IPO 
+shares such as the method of intrinsic 
+and relative valuation. 
+• Determine the offer price within ±10% 
+of the weighted average price estab-
+lished through the bookbuilding process.
+2003. 9
+• Abolish the mandatory price sup-
+port system. 
+• Introduce the put-back option sys-
+tem that provides investors with a 
+right to sell IPO shares back to 
+underwriters at more than 90% of 
+the offer price. 
+2007. 7 • Abolish the put-back option system. 
+• The top tier price offered in the book-
+building process can be considered in 
+determining the final offer price. 
+[Provider:earticle] Download by IP 203.253.XXX.XX3 at Monday, May 18, 2026 7:11 PM

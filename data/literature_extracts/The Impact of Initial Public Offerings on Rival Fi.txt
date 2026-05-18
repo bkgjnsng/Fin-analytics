@@ -1,0 +1,853 @@
+경영경제연구 제34권 제1호 (2011. 8) pp.209-236
+209
+The Impact of Initial Public Offerings on Rival 
+Firms: Evidence from KOSDAQ Market
+Ming-Hui Kang*, Yoon-Soo Lim**
+Abstract   
+  Our paper extends previous studies through a comprehensive examination of the 
+impact of IPOs on the rivals. This study is guided by three primary motives: first, to 
+investigate whether the impact of IPOs on the rivals exist, and second, to examine 
+whether rivals’ reactions in response to venture-backed IPOs are different from that 
+of non venture-backed IPOs. Third, we also attempt to test whether the rivals react 
+differently in response to IPOs according to the difference in specific characteristics. 
+Results in our study show that IPOs have competitive effects on rivals. Our research 
+also shows that venture-backed IPOs have significantly negative impacts on rivals, but 
+rivals have insignificant reactions to non venture-backed IPOs. 
+Keywords : IPOs(initial public offerings), Venture Capital, Herfindahl Index
+JEL Classification : G3, G14              
+논문투고일: 2011년 7월 31일, 수정일: 2011년 8월 10일, 게재확정일: 2011년 8월 12일 
+* Doctoral Candidate, Department of Business Administration, Ch ungnam National Universtity   
+(E-mail: kmhui66@naver.com), first author 
+** Professor, Graduate School of Business, Chungnam National Uni versity (E-mail: 
+yslim@cnu.ac.kr), corresponding Author\n경영경제연구 제34권 제1호 (2011. 8)
+210
+Ⅰ. Introduction
+As a classic and hot issue in finance field, initial public offerings (IPOs) have 
+attracted many researchers’ attentions. In recent years, a large number of related 
+studies have been done mainly focusing on two aspects: the underpricing of IPOs 
+and subsequent long-run underperformance. However, relatively little evidence has 
+been found to explain the impact of IPOs on corresponding rivals in the same 
+industry. Thus, present research is conducted to fill the research gap.
+When a company plans to go public, the news will be released to the market 
+rapidly, and then investors may interpret valuable information revealed by an IPO 
+as a signal of the future prospe ct of the  firm  or its corre sponding industry. 
+Therefore, it’s reasonable to estimate that IPO announcements are likely to exert 
+effects on rival firms within the same industry. However, previ ous studies 
+regarding the impact of IPOs on corresponding rivals in the same industry have 
+not achieved a consistent conclusion. Some scholars argue that a firm’s decisions 
+to go public may have competitive effects on corresponding rivals. It is because 
+that the IPOs increase the visibility of the firm and raise funds which can be 
+used to expand and compete more effectively, thus the newly public firms can 
+gain m ore the m arket shares. T hese advantages for IPO s m ay exert negative 
+effects on rivals. On the contrary, some scholars suggest that IPO announcements 
+h a v e  c o n t a g i o n  e f f e c t s  f o r  c o r r e s p o n d i n g  r i v a l s  i f  t h e  I P O  e v e nts release 
+favorable information about the industry prospects.
+Our paper has complemented the findings of previous studies, which do not 
+provide a clear explanation on the intra-industry valuation effect of IPO in the 
+d e v e l o p i n g  m a r k e t .  C o n s i d e r i n g  t h e  a b o v e - m e n t i o n e d  p o i n t s ,  t h e  key research 
+question that motivated our work has to do with providing a new dataset from 
+which new insight can be generated. This paper analyzes IPO firms listed on the 
+KOSDAQ stock market, which is substantially different from the developed market. 
+KOSDAQ is one of the fastest-growing emerging stock market and its trading 
+volume is second only to NASDAQ market. In addition, a distinguished feature of 
+KOSDAQ market is that the traders in the market are dominated b y individual \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+211
+investors rather than institutional investors. These favorable conditions provide us 
+a solid and robust foundation for analyzing the impact of IPOs on corresponding 
+rivals in the developing market, which has not been explored fully in the existing 
+literature. 
+This study is guided by three primary motives: first, to investigate which one of 
+the two potential externalities of IPO—competitive and contagion effect—is more 
+p o w e r f u l ,  a n d  s e c o n d ,  t o  e x a m i n e  w h e t h e r  r i v a l s’reactions in response to 
+announcements of venture-backed IPOs are different from that of  n o n  
+venture-backed IPOs. According to empirical evidences, venture capital firms are 
+successful in timing the decision to take companies public (Lerner 1994) and they 
+perform better than non venture-backed IPO firms (Brav and Gompers 1997 and 
+Ivanov 2010).Overall, it can be concluded that venture-backed IPOs release more 
+superior information to the market than non venture-backed IPOs, which means 
+that, unlike non venture-backed IPOs, venture-backed IPOs should have different 
+influences on corresponding rivals. Besides, considering the di fference in the 
+specific characteristics of IPO firms and corresponding rivals, it is necessary to 
+test whether the rivals in the same industry react differently in response to IPO 
+announcements. We adopt several variables, such as degree of in dustry 
+concentration, book-to-market ratio, the degree of underpricing etc., to examine 
+the direction and magnitude of rivals ’ r e a c t i o n s  i n  r e s p o n s e  t o  I P O  
+announcements.
+The contributions of our research can be categorized into following dimensions: 
+to the best of our knowledge, we are the first study to attempt to investigate 
+whether venture-backed IPOs have different intra-industry effec ts on 
+corresponding rivals compared to non venture-backed IPOs in the  developing 
+market. Second, we adopt some variables which have not been fully discussed in 
+previous literature, such as the degree of underprcing, industry concentration and 
+s o  o n .  T h i r d ,  o u r  r e s e a r c h  a t t e m p t s  t o  e x t e n d  p r e v i o u s  s t u d i e s  through a 
+systematic and comprehensive examination of impact of IPOs on rival firms listed 
+on KOSDAQ during the period 2006-2010. This study incorporates a comprehensive 
+dataset of 191 IPOs firms and 3284 corresponding rivals as our research target. \n경영경제연구 제34권 제1호 (2011. 8)
+212
+The remainder of this paper is organized as follows. Section 2 reviews the 
+l i t e r a t u r e  o n  t h e  i n t r a - i n d u s t r y  e f f e c t  o f  I P O s   o n  t h e  c o r r e s ponding rivals. 
+Section 3 describes the data and methodology. Section 4 provides the results of 
+the empirical tests, followed by the cross-sectional regression analysis in exploring 
+possible sources of IPO intra-industry effect. The final sectio n concludes this 
+study.
+Ⅱ. Literature Review and Hypotheses Development
+1. The Intra-industry Valuation Effects of IPOs 
+There are some studies regarding the impact of firm-level announcements on 
+t h e  c o r r e s p o n d i n g  r i v a l s  i n  t h e  s a m e  i n d u s t r y .  O n  t h e  o n e  h a n d , p r e v i o u s  
+literature has shown that rival firms experience contagion effe cts if the 
+information has industry-wide implications. Slovin, Sushka, and Bendeck (1991) find 
+t h a t  t h e  a n n o u n c e m e n t s  o f  g o i n g - p r i v a t e  b i d s  g e n e r a t e  s t a t i s t i cally significant 
+positive intra-industry effects. Similarly, Docking, Hirschey, and Jones (1997) 
+detect contagion effects in response to loan loss reserve announcements. On the 
+other hand, several scholars find that there indeed are competi tive effect 
+between firm-level announcements and corresponding rivals in the same industry. 
+L an g an d Stu lz (1 99 2 ) argu e  th at b an k ru ptc y a nn o un ce m e n ts h av e  competitive 
+effects on rival firms. Similarly, Slovin et al. (1995) find th at rivals exhibit 
+negative reactions to the announcements of equity carve-out announcements in 
+their sample. Other studies also verify insignificant intra-ind ustry effects. For 
+example, Hertzel (1991) finds there are insignificant abnormal returns for rivals in 
+response to stock repurchases. Similarly, Howe and Shen (1998) find that dividend 
+initiations do not contain an industry-wide implication, since the event is 
+f i r m - s p e c i f i c  w i t h  n o  c o r r e s p o n d i n g  i m p l i c a t i o n s  f o r  r i v a l s .  L aux, Starks and 
+Yoon(1998) present that dividend announcements have insignifica nt effects on 
+rivals. It is because that competitive effect offsets contagion effect.\n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+213
+Prior studies mentioned above motivate us to examine whether the IPOs  have 
+significant effects on rivals in the same industry. The rivals’ reactions in response 
+to an IPO can be either positive or negative depending on how investors make 
+inferences about non-announcing firms’ future prospects through an analysis of 
+valuable information revealed by an IPO. It is reasonable that the rivals' reactions 
+to IPO announcements may be the sum of these two opposing effects. In this 
+c a s e ,  n e t  i n t r a - i n d u s t r y  e f f e c t s  o f  t h e  I P O  f i r m s  o n  c o r r e s p o n ding rivals are 
+decided by offsetting contagion and competitive effects.
+Only a limited number of previous studies exist with regard to the impact of 
+IPO announcements on rival firms in the same industry. In order to provide an 
+in-depth understanding, an extended review on the impact of IPOs on rival firms 
+is also performed. There appears to be two groups of researcher s that have 
+published empirical studies on such topic. One group of them ar gue that IPO 
+a n n o u n c e m e n t s  h a v e  c o m p e t i t i v e  e f f e c t s  o n  c o r r e s p o n d i n g  r i v a l s , f o r  i n s t a n c e : 
+Slovin et al. (1995) find that rivals react negatively toequity  c a r v e - o u t  
+announcements, which is further interpreted asthat IPOs convey unfavorable 
+information concerning with industry prospect. Ward (1997) posi ts that going 
+public, though costly, not only allows a firm to raise external capital cheaply, but 
+also enables it to grab market share from its private competitors. Similarly, Chod 
+and lyandres (2011) presents that IPO announcements contribute competitive 
+threats for their rivals. Their researches also provide several testable empirical 
+predictions. First, going public is expected to increase an IPO firm’s market share. 
+Second, going public is expected to adversely affect the values of an IPO firm’s 
+product market rivals and cause stronger competitive effect. Ma ksimovic and 
+Pichler (2001) shed light on the impact of IPO announcements on  th e  r iv a ls’ 
+valuation in the same industry. They explore a setting in which the going public 
+decision conveys valuable information to competitors in the product market. By 
+r a i s i n g  c a p i t a l  t o  e x p a n d  o r  d e v e l o p  a  n e w  t e c h n o l o g y ,  I P O  f i r ms may gain 
+strategic comparative advantages within industry, and therefore, competitors face 
+the possibility of being displaced by a more technologically ad vanced rival. 
+S t o u g h t o n  e t  a l .  ( 2 0 0 1 )  m a k e  a  c o n c l u s i o n  t h a t  I P O  a n n o u n c e m e n ts have \n경영경제연구 제34권 제1호 (2011. 8)
+214
+competitive effects on corresponding rivals from the view of product quality. In 
+addition, Akhigbe, Johnston and Madura(2006) find that the corresponding industry 
+rivals portfolios experience unfavorable price performance on average over the 
+36-month period following an IPO. The dispersion in long-term industry effects 
+following the IPOs can be partially explained by competitive ef fects and the 
+timing of the IPOs.
+Another group of previous studies provide different evidence re garding the 
+impact of IPO announcements on intra-industry rival ’s valuation effect. 
+Benveniste, Busaba, and  Wilhelm(2002); Lowry and Schwert(2002) find an IPO, 
+which is viewed as favorable signal for the industry as a whole , can have 
+significant positive contagion effects on corresponding rivals in the same industry. 
+Cotei & Farhat(2010) demonstrate that going public firms genera te positive 
+externalities creating a spillover effect for other firms to go public. 
+Certainly, the rivals' reactions to IPO announcements may be the sum of these 
+two opposing effects. In this case, net intra-industry effect of the IPO firms on 
+corresponding rivals is decided by offsetting information and competitive effects. 
+Akhigbe, Borde and W hite(2003) exam ine the im pact of initial public offerings 
+(IPO) on rival firms and find that the valuation effects are insignificant. These 
+insignificant reactions can be explained by offsetting information and competitive 
+effects.
+R e v i e w i n g  p r e v i o u s  s t u d i e s  r e g a r d i n g  t h e  i m p a c t  o f  I P O  a n n o u n c ements on 
+rival's valuation in the same industry, we can infer that IPO announcements are 
+likely to affect stock prices of rival firms. Thus we hypothesize:
+H1 : IPOs have significant valuation effects on rival firms.
+2. The Intra-industry Valuation Effects of Venture-backed IPOs 
+and Non  Venture-backed IPOs 
+The role of venture capitals as financial intermediaries is well documented and 
+has been the subject of considerable research effort. After rev iewing relevant 
+literature, it is our belief that the role of venture capital in initial public offering \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+215
+can be categorized into the following aspects: on the one hand, venture capital 
+firms specialize in collecting and evaluating information of start-up and growth 
+companies, which are more likely to be prone to informational asymmetries and 
+capital constraints (see Megginson and Weiss, 1991; Gompers 1996). On the other 
+hand, venture capitalists are successful in timing the decision  t o  t a k e  t h e  
+companies public (Lerner 1994). Furthermore, venture-backed IPOs benefit from 
+the channel of financing and valuable industry expertise. Ivanov and Xie( 2010) 
+argue that venture capitalists add value to start-up firms by providing a variety 
+o f  s e r v ic e s a n d  s u p p o r t th a t s u it th e  s p e c if ic  n e e d s o f  s ta r t- up operating in 
+different industries . In the study of the Korean stock market, Yoo(2003); Lee, 
+Kim and Ryu (2008) confirm that venture capitalists play the certification role in 
+t h e  p r o c e s s  o f  i n i t i a l  p u b l i c  o f f e r i n g  b y  a n a l y z i n g  t h e  r e l a t i onship between 
+venture capitalists and IPO underpricing. 
+ In view of the certification role of venture capital and its superior ability to 
+collect information in Korean stock market, we can infer that v enture-backed 
+I P O s  s h o u l d  h a v e  d i f f e r e n t  i m p a c t s  o n  r i v a l s’ valuation compared to non 
+venture-backed IPOs. On the one hand, venture-backed IPOs are likely to offer 
+favorable information regarding the future opportunity of the industry as a whole, 
+which is also beneficial to the intra-industry rivals. Cotei & Farhat(2010) argue 
+that a venture-backed IPO convey positive information about industry and this 
+information is transferred to rival firms. Alternatively, due t o the information 
+asymmetry and the facility of financing, venture-backed IPOs ca n gain 
+competitive advantages, which in turn may affect rivals adversely and cause the 
+decrease of intra-industry rivals’ valuation. Therefore, we hypothesize:
+H2 : Venture-backed IPOs have different effects on rival firms within the 
+same industry compared to non venture-backed IPOs. 
+3. Specific Characteristics that could influence the intra-industry 
+valuation effects of IPOs on rivals
+Considering the difference in the specific characteristics of I PO firms and \n경영경제연구 제34권 제1호 (2011. 8)
+216
+corresponding rivals, rivals may make different reactions in re sponse to IPO 
+announcements. Thus we adopt several variables, such as size of IPO and degree 
+of underpricing for IPO etc., to examine the direction and magnitude of rivals’ 
+r e a c t i o n s  i n  r e s p o n s e  t o  I P O  a n n o u n c e m e n t s .  T h e  r a t i o n a l e  o f  u sing these 
+characteristics in explaining rivals’ valuation effects is interprete d in de tail as 
+follows. 
+Market-to-book ratio: Following Akhigbe, Borde and Whyte(2003), the extent of 
+growth opportunities within the industry, which is represented by market-to-book 
+ratio, could affect the ability of a rival firm to resist the competitive threat from 
+a newly public firm. Firms with relatively high market-to-book ratios are likely to 
+have more investment opportunities than those with relatively low market-to-book 
+r a t i o s  ( L a n g ,  S t u l z ,  a n d  W a l k l i n g ,  1 9 9 1 ) ,  w h i c h  m e a n s  r i v a l s  w ith high 
+market-to-book ratios have the ability to respond to competitive threat from IPO 
+firms. Therefore, based on the previous studies, we hypothesis：
+H 3  :  T h e  i n t r a - i n d u s t r y  v a l u a t i o n  e f f e c t s  o f  I P O s  o n  r i v a l s  a r e negatively 
+related to the market-to-book ratio of rival  firms.
+Degree of industry concentration: Compared to highly-concentrated industry, the 
+entrance of a newly public firm in less-concentrated industry w ill easily bring 
+more competitive threat for intra-industry rivals, since information conveyed by 
+IPO announcements might signal higher product quality to consumers or investors 
+and, reversely, non-announcing firms in the same industry are prone to lose their 
+competitive advantage and will make negative reactions in respo nse to IPO 
+a n n o u n c e m e n t s .  T h u s ,  w e  a r g u e  t h a t  I P O s  i n  l e s s - c o n c e n t r a t e d  i ndustries are 
+likely to reveal unfavorable information for their competitors. To test whether the 
+degree of industry concentration for an IPO has impact on rivals’ valuation, we 
+classify rival firms into two groups: Highly-concentrated indus try group and 
+less-concentrated industry group. Highly-concentrated industry group contains the 
+rival portfolios if the Herfindahl Index for the industry is above the median of 
+the Herfindahl Index for all industries, vice versa. The Herfindahl Index (HI) is 
+computed as the sum of squared market share of each firm relative to all other \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+217
+firms within the four-digit SIC code. Market share is defined as the firm’s annual 
+s a l e s  a t  t h e  e n d  o f  f i s c a l  y e a r  p r i o r  t o  t h e  I P O  a n n o u n c e m e n t s  divided by 
+industry sales.
+H 4  :  T h e  i n t r a - i n d u s t r y  v a l u a t i o n  e f f e c t s  o f  I P O s  o n  r i v a l s  a r e negatively 
+related  to the degree of industry concentration.
+The degree of underpricing: Ward (1997) finds that when a firm announces an 
+I P O ,  t h e  s t o c k  p r i c e  r e a c t i o n s  o f  c o m p e t i t o r  f i r m s  a r e  s t r o n g l y n e g a t i v e l y  
+correlated with the IPO firm’s eventual underpricing, indicating that the larger the 
+underpricing of IPO, the more competitive threat to corresponding rivals. Thus, to 
+test whether the degree of underpricing for IPO has different impacts on rivals, 
+we hypothesize:
+H 5  :  T h e  i n t r a - i n d u s t r y  v a l u a t i o n  e f f e c t s  o f  I P O s  o n  r i v a l s  a r e negatively 
+related to the degree of underpricing of IPO.
+Relative sale of an IPO firm: Ward (1997) posits that an IPO not only allows a 
+firm to raise external capital cheaply, but also enables it to grab market share 
+from its private competitors. Therefore, it is believed that relative sale of IPO 
+firms is an important explanatory for rivals’ valuation effects. We hypothesize:
+H 6  :  T h e  i n t r a - i n d u s t r y  v a l u a t i o n  e f f e c t s  o f  I P O s  o n  r i v a l s  a r e negatively 
+related to the relative sale of an IPO.
+Relative size of rival firms: Atiase (1985) argues that firm size is significantly 
+relative to rivals’ valuation effects in response to IPO announcements. Small firms 
+have limited ability to challenge their competitors or respond appropriately to the 
+competitive threat. Therefore, We hypothesize:
+H7 : The intra-industry valuation effects of IPOs on rivals are positively related 
+to the relative size of rival firms.
+First IPO in the industry: Akhigbe, Madura, and Whyte(2003) argue that the 
+first intra-industry event play a vital role in rival valuation  effects. Thus, we \n경영경제연구 제34권 제1호 (2011. 8)
+218
+deem that the first IPO in an industry following a period of do rmancy should 
+have significant effects on rival valuation effects. Because the advent of a newly 
+public firm will more easily attract investor’s attention to corresponding industry 
+and future prospect. We hypothesize:
+H8 : The first IPO should result in more pronounced valuation  effects for 
+rivals relative to subsequent IPO firms.
+Ⅲ.Data and methodology
+1. Data and Sample Selection
+In this study, our samples consist of 303 IPO firms listed on KOSDAQ market 
+over the period from 2006 to 2010. Data on the listing dates, o ffering dates, 
+offering prices, closing prices on the first day of trading and gross proceeds are 
+c o l l e c t e d  d i r e c t l y  f r o m  t h e  o f f i c i a l  w e b s i t e  o f  K R X*. Information about the 
+proceeding of IPO and holding ratio of venture capital are coll ected from the 
+system of DART**. Other data, such as market index return as well as financial 
+statement variables of IPO firms and matching rivals in the same industry, are 
+collected from KISVALUE database. 
+   We exclude the following IPO firms: unit IPO, foreign IPO, a n d  I P O  n o t  
+identifiable in the KISVALUE database. The final sample for industrial firms is 
+constructed in a two-stage process described as below. In the first stage, it is 
+required that each IPO firm has available financial information in the KISVALUE 
+database in the  first ye ar of listing. In the second stage, the IPO  sam ple  is 
+further reduced when we construct the sample for rival firms. In so doing, we 
+follow three steps. First, we assign each firm for which daily stock returns are 
+available on the KISVALUE files to a four-digit SIC code (see L ang and Stulz 
+1992). We exclude firms that are in their first year of listing (IPO firms). Second, 
+*http://www.krx.co.kr
+**http:// dart.fss.or.kr.\n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+219
+w e  r e t a i n  r i v a l  f i r m s  t h a t  d o  n o t  h a v e  m a j o r  p u b l i c  a n n o u n c e m e nts such as 
+mergers, seasoned equity offerings, stock splits, dividend and repurchases within a 
+30-day period centered at the IPO filing date. Finally, to ensure that each IPO 
+firm is matched with a representative portfolio of rivals, we require that each 
+IPO has at least 1 rival (same 4-digit SIC code, same year) with required financial 
+data (total assets, sales, total liabilities) available in the KISVALUE database. The 
+final sample is comprised of 191 IPO firms listed on the KOSDAQ and 3284 rivals 
+in the corresponding industry, covering 65.4% of all IPO firms during the sample 
+period. The distribution of our sample in this research is shown as table 1. As we 
+can see from it, no considerable fluctuation in the number of IPO firms can be 
+found during the period 2006-2010, except for a sharp decrease in the number of 
+IPO firms in 2008. In addition, the number of venture-backed IPO firms nearly 
+account for 65% of all the IPO firms. 
+<Table 1> Distribution of Initial Public Offerings Listed on KOSDAQ Market During 
+the Period 2006-2010
+2006 2007 2008 2009 2010 Total  
+Number of IPO firms 56 67 38 55 76 303
+Number of IPO firms in Our 
+Sample 35 47 28 44 37 191
+Number of Venture-Backed IPO 
+firms in Our Sample 21 31 21 26 24 123 
+Number of Non Venture-Backed 
+IPO firms in Our Sample 14 16 7 18 13 68
+2．Methodology 
+(1）Assessing Rival Abnormal Returns
+W e obtain abnorm al re turns (A Rs) for rival firm s using the standard event 
+study methodology. The ARs are assessed on the initial trading date. Since the 
+initial trading date is the first day on which public information becomes available 
+about the new competition, rivals are likely to react on the initial trading date. \n경영경제연구 제34권 제1호 (2011. 8)
+220
+Following Lang and Stulz *(1992)., we form an equally-weighted portfolio of 
+publicly traded rival firms that share the same four-digit Stan dard Industrial 
+Classification (SIC) code as the IPO firm on the initial trading date (day 0). We 
+use the returns of each rival over the period (−220 to −20) relative to the IPO 
+initial trading date to estimate the market model parameters. Cumulative abnormal 
+returns (CARs) over three different time intervals are reported : day (0), days 
+(0,+1), and days (0,+3). We then compute the equally-weighted average of the 
+CARs of the rival portfolios. The abnormal return is calculated according to the 
+risk-adjusted model using the standard one factor capital asset  p r i c i n g  m o d e l  
+(CAPM) as given below:
+ 
+        titftmiitfti RRRR ,,,,, )( εβα +−+=−         (1)
+tiR , : The daily return for stock i on day t
+tmR , : The daily return for market portfolio on day t
+tfR , : The daily return for risk-free security on day t
+iα ， β ：Intercept and slope for stock i  
+ti,ε  : A random error term
+Using the estimated parameters of iα and i
+β from equations (1), we then 
+compute expected returns ( )( ,tiRE ) of stock i, which, in turn, are used to 
+measure AR and cumulative abnormal returns (CARs) for each portfolio over the 
+post-portfolio formation period, T, as follows:
+       )( ,,, tititi RERAR −=                        （2）
+tiAR , : The abnormal return for stock i on day t
+3) Because of computational constr aints, Lang and Stulz form industry portfolio by randomly 
+selecting 50 firms in COMPUSTAT with the same primary four-digit SIC code as the bankrupt 
+firm. Then they estimate abnormal returns fo r competitors using equa lly-weighted portfolio\n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+221
+∑
+=
+=
+N
+i
+tit ARNAAR
+1
+,
+1
+                                      tAAR : The 
+average abnormal return for rival portfolio on day t
+∑
+=
+=
+T
+i
+tAARTCAR
+1
+)(
+                   （3）
+)(TCAR : The cumulatedabnormal return for rival portfolio within T 
+interval(t=0,1,2,3)
+(2)Cross-sectional Model
+In order to examine the intra-industry rivals’ different reactions in response to 
+IPO announcements regarding IPO and rivals characteristics, we use the following 
+model: The dependent variable is the CAR (0, 1) for each rival portfolio and the 
+independent variables are factors that may explain the variatio n in rivals ’ 
+valuation effects in response to IPO announcements. To explore potential sources, 
+and trace the influence, of firm-specific characteristics on th e intra-industry 
+information effect in response to IPO announcement, we examine a series of 
+proxies for the testable signaling hypotheses.
+iiii
+iiiiii
+TIMEFIRSTIPORELSALE
+HICINGDEUNDERPRIVBIPORELMBRELSIZERCAR
+εααα
+αααααα
++++
+++++++=
+876
+543210
+             iRCAR   :  the CAR (0, +1) of the rival portfolio 
+iRELSIZE :  the relative size of rival firms measured as the 
+m a r k e t  v a l u e  o f  t h e  I P O  f i r m  r e l a t i v e  t o  t h e  
+median market value of the rival portfolio.
+iVBIPO   :  1 if the IPO  is back ed by venture capital and   
+zero otherwise.
+iRELMB  :   1  i f  t h e  m a r k t - t o -  b o o k  r a t i o  o f  I P O  e x c e e d s     
+industry median and zero otherwise\n경영경제연구 제34권 제1호 (2011. 8)
+222
+iCINGDEUNDERPRI  :  the extent of the underpricing, P1 is the    closing 
+price on the first trading day, and P0is the offer 
+price. We estimate the underpricing as follows:  UPi 
+=(P1 −P0)/P0
+iHI     : a dummy variable that takes on a value of one if 
+I P O  i n  t h e  h i g h l y  c o n c e n t r a t e d  i n d u s t r y  a n d  z e r o  
+otherwise.
+iRELSALE  : a dummy variable that takes on a value of one if 
+sales amount of IPO exceeds industry median and 
+zero otherwise
+iFIRSTIPO : 1 if the IPO is the first in the industry within a 
+two-year period of time prior to the current IPO; 
+zero otherwise
+iTIME    : 1 if the IPO occurs in 2008; 0 otherwise
+iε        : a random error term
+Ⅳ. Empirical Analysis
+1.The Intra-industry Valuation Effects of IPOs on Rival Firms
+In Table 2,panel A shows CARs for full rival portfolios over th ree different 
+time intervals CAR (0), CAR (0, 1), CAR(0,3) respectively. As seen as in panel A, 
+the values of CAR(0), CAR(0,1) are significantly negative, it i ndicate that rival 
+firms make significant negative reactions in response to IPO announcements. It 
+c a n  b e  i n t e r p r e t e d  a s  t h a t  t h e  I P O s  c a n  g a i n  c o m p e t i t i v e  a d v a n tages in the 
+Korean stock market, alternatively, competitive force of rivals  i n  t h e  s a m e  
+industry has been heavily reduced. This finding generally supports the common 
+belief and our hypothesis regarding the impact of IPO announcements on rival \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+223
+firms in the same industry. This result is also consistent with  the  finding of 
+Slovin, Sushka, and Ferraro(1995).
+<Table 2> Cumulative Abnormal Return for Rival Portfolios
+Panel A : CARs for full rival portfolios on the initial trading date of the IPO
+Event period Number of rival portfolios CAR(%)
+(0) 191 -0.0018 **
+(0,1) 191 -0.0025 *
+(0,3) 191 -0.0033
+Panel B : CARs for rival portfolios of venture-backed IPO 
+Event period Number of rival portfolios CAR(%)
+(0) 123 -0.0029 ***
+(0,1) 123 -0.0033 **
+(0,3) 123 -0.0034
+Panel C : CARs for rival portfolios of non venture-backed IPO         
+Event period Number of rival portfolios CAR(%)
+(0) 68 0.0002
+(0,1) 68 -0.0011
+(0,3) 68 -0.0033
+***, **, and * denote significance at the 1%, 5% and 10% level, respectively.
+The key research issue in our study is to examine whether ventu re-backed 
+IPOs have different impacts on corresponding rivals compared to  n o n  
+venture-backed IPOs. We first sort all IPO firms into two groups: venture-backed 
+IPOs and non venture-backed IPOs, base on the criteria that whether IPO firms 
+are supported by venture capitalists or not. Panel B and panel C report CARs for 
+rival portfolios of venture-backed IPOs and non venture-backed IPOs respectively. 
+Our results show that venture-backed IPOs have significantly negative impacts on 
+corresponding rivals in the same industry, but non venture-back ed IPOs have 
+insignificant effects on corresponding rivals’ reactions. These results differ from 
+t h o s e  o f  C o t e i  a n d  F a r h a t ( 2 0 1 0 ) ,  w h o  f i n d  r i v a l s  m a k e  s i g n i f i c ant positive 
+reactions in response to IPO announcements, furthermore, venture-backed IPOs 
+also have significant positive effects on intra-industry rivals. The disparity may be \n경영경제연구 제34권 제1호 (2011. 8)
+224
+related to differences in sample size, sample composition, and time period studied. 
+Due to rivals’different reactions in response to IPO announcements, we divide 
+our samples into various subgroups classified based on specific  characteristics 
+related to both IPO and rivals such as industry concentration e tc. Table 3 
+presents CARs for rival portfolios corresponding to all selecte d IPOs classified 
+based on specific characteristics of both IPO firms and rivals.  In general, the 
+results for t-statistic test are not significantly different across subgroups for most 
+of the factors considered. However, some of the z-statistic tests are significant. 
+As we can see from panel A, the relatively large IPOs have more  pronounced 
+effects on the corresponding rivals’ valuation relative to small IPOs. In addition, 
+the first IPOs generate significantly negative effects (-0.63%) on rivals’ valuation. 
+Rivals with relative low market-to-book ratio are more vulnerab le to the 
+competitive threats originated from IPOs announcements. We also find that rival 
+experience significant loss when IPOs are overpriced, indicating that investors in 
+rival firms interpret the information at the offering day as bad news for industry 
+when IPOs are overpriced.
+<Table 3> CARs for Rival Portfolios Corresponding to All IPOs Classified Based 
+on Various Characteristics
+Variables Group CAR(0,1) t-statistic Number of Rival 
+Portfolios
+RELMB 1 -0.0030* 0.784 169
+0 0.0007 22
+RELSIZE 1 -0.0036 * 0.8840 121
+0 -0.0008 70
+RELSALE 1 -0.0052 1.2510 65
+0 -0.0012 126
+HI 1 -0.0017 0.5340 93
+0 -0.0033 98
+FIRSTIPO 1 -0.0063 * 1.0360 28
+0 -0.0019 163
+DEUNDERPRICING 1 -0.0017 0.9120 139
+0       -0.0048
+* 52
+This table shows CARs for subgroups classified based on various  characteristics of the IPO, IPO 
+firm, rivals, and the industry as a whole. The z-statistic tests the significance of the CARs and the \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+225
+t-statistic tests whether the CARs are significantly different from each other. RELMB is equal to 1 if 
+the market-to-book ratio of the IPO firm is above the median va lue of market-to-book value of 
+corresponding rival portfolio, 0 otherwise; RELSIZE is equal to 1 if the market value of the IPO firm 
+is above the median value of corresponding rival portfolio size, 0 otherwise  RELSALE is equal to1 if 
+t h e  s a l e  o f  t h e  I P O  f i r m  i s  a b o v e  t h e  m e d i a n  v a l u e  o f  s a l e  o f  corresponding rival portfolio, 0 
+otherwise; HI is equal to 1 if the Herfindahl index for the ind ustry is above the median of the 
+Herfindaha Index for all industries, 0 otherwise；FIRSTIPO is equal to 1 if the IPO is the first in the 
+industry within a two-year period of time prior to the current  IPO; 0 otherwise; DEUNDERPRICING is 
+equal to 1 if the degree of underpricing for IPO is above 0, 0 otherwise.  ***, **, and * denote 
+significance at the 1%, 5% and 10% level, respectively。
+Table 4 presents CARs for rival portfolios corresponding to ven ture-backed 
+IPOs and non venture-backed IPOs classified based on specific characteristics of 
+both IPO firms and rivals. Panel A shows the cumulative abnormal returns for 
+rival portfolios corresponding to venture-backed IPOs classified based on specific 
+characteristics related to both IPO firms and rivals. With respect to HI, CARs are 
+significantly different across subgroups: The IPOs with relative low Herfdinal Index 
+have significantly negative effects on rivals’ valuation, which implies that rivals in 
+less concentrated industries are more vulnerable to the competi tive threats 
+originated from IPOs , contrast to rivals in highly concentrated industries. Along 
+with HI, The first IPO supported by venture capitalists in an industry generates 
+significantly negative CARs (-1%) relative to subsequent IPOs (−0.19%) and the 
+difference is significant at the 0.05 level. These results diff er from those of 
+A k h i g b e ,  B o r d e  a n d  W h y t e  ( 2 0 0 3 ) ,  w h o  f i n d  r i v a l s  m a k e  s i g n i f i c ant positive 
+reactions in response to first IPOs announcements. This disparity in results can be 
+attributed to the different samples applied. We can infer that rivals’ negative 
+reactions in response to first IPOs mainly depend on the competitive effects of 
+IPOs announcements rather than information effects in the Korean stock market. 
+Table 4 also shows that rivals experience negative wealth effects in response to 
+the announcement of venture-backed IPOs when IPOs are overpriced. As we can 
+see from Panel C, most of cumulative abnormal returns for non venture-backed 
+IPOs are insignificant with the exception of relative sale. This result implies that 
+a new entrant does not represent competitive threats for corresponding rivals in 
+the absence of venture capitalists at the time of IPOs. Overall , the results in \n경영경제연구 제34권 제1호 (2011. 8)
+226
+Table 4 are partially consistent with our hypothesis that varia tion in rivals ’ 
+reactions can be explained by a number of different factors.
+ 
+<Table 4> CARs for Rival Portfolios for Venture-Backed IPOs and Non     
+Venture-Backed IPOs Classified Based on Various Characteristics
+Panel A: Venture-backed IPOs
+Variables Group CAR(0,1) T-statistic Number of Rival 
+Portfolios
+RELMB 1 -0.0026 1.577 112
+0 -0.0109 ** 11
+RELSIZE 1 -0.0035 * 0.1330 78
+0 -0.0031 45
+RELSALE 1 -0.0024 0.3780 33
+0 -0.0037 ** 90
+HI 1 -0.0005 1.8450 * 61
+0 -0.0061 ** 62
+FIRSTIPO 1 -0.0100 *** 2.1560** 21
+0 -0.0019 102
+DEUNDERPRICING 1 -0.0028 0.544 85
+0 -0.0046** 38
+Panel B: Non Venture-backed IPOs
+Variables Group CAR(0,1) T-statistic Number of Rival 
+Portfolios
+RELMB 1 -0.0038 1.336 57
+00 . 0 1 2 5 ** 11
+RELSIZE 1 -0.0037 1.0340 43
+0 0.0036 25
+RELSALE 1 -0.0081 2.0340 * 32
+0 0.0051 36
+HI 1 0.0014 0.7980 36
+0 -0.0039 32
+FIRSTIPO 1 0.0058 0.7090 7
+0 -0.0019 61
+DEUNDERPRICING 1 0.0001 0.674 54
+0 -0.0055 14
+ 
+This table shows CARs for subgroups classified based on various characteristics of the IPO, IPO 
+firm, rivals, and the industry as a whole. RELMB is equal to 1 if the market-to-book ratio of the IPO 
+firm is above the median value of market-to-book value of corresponding rival portfolio, 0 otherwise; 
+R E L S I Z E  i s  e q u a l  t o  1  i f  t h e  m a r k e t  v a l u e  o f  t h e  I P O  f i r m  i s  a bove the median value of 
+corresponding rival portfolio size, 0 otherwise RELSALE is equal to1 if the sale of the IPO firm is \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+227
+above the median value of sale of corresponding rival portfolio, 0 otherwise; HI is equal to 1 if the 
+Herfindahl index for the industry is above the median of the Herfindaha Index for all industries, 0 
+otherwise；FIRSTIPO is equal to 1 if the IPO is the first in the industry within a two-year period of 
+t i m e  p r i o r  t o  t h e  c u r r e n t   I P O ;  0  o t h e r w i s e ;  D E U N D E R P R I C I N G  i s  e q u a l  t o  1  i f  t h e  d e g r e e  o f 
+underpricing for IPO is above zero, 0 otherwise.  ***, **, and * denote significance at the 1%, 5% 
+and 10% level, respectively.
+  To further explore the impact of IPO announcements on rival portfolios, CARs 
+for rival portfolios are measured based on various cross-classifications: industry 
+concentration and relative size, industry concentration and market-to-book ratio. 
+As shown in table 5, panel A presents CARs for all rival portfolios. In general, 
+the results are insignificant across different subitems in panel A, which are not 
+consistent  with our prior hypothesis that IPO announcements in less concentrated 
+industries are likely to have significant impacts on rival portfolios compared to 
+IPOs in highly concentrated industries. We  conjecture that this disparity in results 
+is due to integration of rivals’ different reactions in response to venture-backed 
+and non venture-backed IPOs. Aims at conducting an in-depth examination of the 
+impact of IPO announcements on intra-industry rivals, we sort our samples into 
+two subgroups: venture-backed IPOs and non venture-backed IPOs. Panel B shows 
+that rivals in less concentrated industries generate significan tly negative 
+cumulative abnormal return, which means that intra-industry riv als experience 
+wealth loss due to venture-backed IPOs announcement, regardless of the level of 
+IPO firms and rival’ size. However, the magnitude of their reactions is different. 
+Relatively large IPOs have more pronounced influence on the corresponding rivals 
+if they operate in less concentrated industry, compared to the relatively small 
+IPOs in less concentrated in industry. This finding provides evidences to support 
+our hypothesis that the entrant of the larger IPO firm is more likely to be a 
+threat to rivals in industry with a low degree of concentration. We also find that 
+most of the CARs related to the market-to-book ratio are insignificant with the 
+exception of rivals with relative market-to-book ratios in high ly concentrated 
+industry, which imply that market-to-book ratio is not a determinant for rivals’ 
+valuation effect. As we can see from Panel C, cumulative abnormal returns for 
+non venture-backed IPO are insignificant regardless of different characteristics \n경영경제연구 제34권 제1호 (2011. 8)
+228
+considered. This result implies that a new entrant does not rep resent a 
+competitive threat for corresponding rivals in the absence of venture capitalists at 
+the time of IPO.
+2. Cross-sectional Results
+To explore potential sources and trace the influence of IPOs on intra-industry 
+r i v a l s ,  w e  e x a m i n e  a  s e r i e s  o f  p r o x i e s  f o r  t h e  t e s t a b l e  s i g n a l ing hypotheses. 
+Cumulative abnormal return for equally-weighted rival 
+<Table 5> CARs for Two Cross-Classifications of Rival Portfolio
+CAR(0,1) Highly concentrated industry Less concentrated industry
+Mean Numbers of rival portfolio Mean Numbers of rival portfolio
+Panel A: All samples
+Low RELMB -0.0027     18   -0.0002     25
+High RELMB -0.0035     80   -0.0022     68
+Low RELSIZE 0.0023 32 -0.0034 38
+High RELSIZE -0.0038 61 -0.0033 60
+Panel B: Venture-backed IPO
+Low RELMB   -0.0133
+**     10   -0.005 16
+High RELMB  -0.0047     52   -0.006     45
+Low RELSIZE 0.0027 21   -0.0081 ** 24
+High RELSIZE -0.0022 40   -0.0048 * 38
+Panel C: Non venture-backed IPO
+Low RELMB 0.175     8 0.0001     9
+High RELMB -0.0013     28 -0.0055   23
+Low RELSIZE 0.0017 11 0.0046 14
+High RELSIZE -0.0069 21 -0.0007 22
+This table shows the results for rival portfolios based on various cross-classifications. We spilt our 
+samples into various subgroups based on the IPO and rivals’ specific characteristics. Low RELMB group 
+c on ta in s th e rivals p ortfolio s if th e  m e dian  va lu e o f m ar ket- to-book value of corresponding rival 
+portfolio is below the market-to-book ratio of the IPO firm, vice versa; Low RELSIZE group contains 
+the rivals portfolios if the median value of the market value of corresponding rival portfolio is below 
+the market value of the IPO firm, vice versa Highly concentrated industry group contains the rivals 
+portfolios if the Herfindahl index for the industry is above the median of the Herfindaha Index for all 
+industries, vice versa.***, **, and * denote significance at the 1%, 5% and 10% level, respectively.\n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+229
+portfolios is used as a measure of information transferred from  IPO firms to 
+rivals. Model 1 shows the regression result regarding the factors related to IPO’s 
+specific characteristics. Consistent with findings in the above  a n a l y s i s ,  
+venture-backed IPO announcements have significantly negative impact (-0.36%) on 
+the corresponding rivals’ valuation effects. This result implies that, in terms of 
+the certification role of venture capitalists and superior abil ity to collecting 
+information, venture-backed IPOs have more pronounced competitive threats to 
+corresponding rivals contrast to non venture-backed IPOs. In ad dition, the 
+coefficient for the degree of IPO underpricing is significantly negative (-0.39%), 
+s u g g e s t i n g  t h a t  t h e  s t o c k  p r i c e  r e a c t i o n s  o f  c o m p e t i t o r  f i r m s  are strongly 
+negatively correlated with the IPO firm’s eventual underpricing. In other word, the 
+h i g h e r  t h e  d e g r e e  o f  I P O  u n d e r p r i c i n g  i s ,  t h e  h i g h e r  t h e  m a g n i tude of the 
+rivals’negative valuation effects exists. 
+<Table 6> Regression Results for Various Characteristics of the IPO Firms, Rival 
+Portfolio and Industry as a Whole
+Model 1 Model 2 Model 3
+INTERCEPT 0.0020 0.0024 0.0057
+VBIPO -0.0036 * -0.0045**
+FIRSTIPO -0.0017 -0.0013
+DEUNDERPRICING -0.0039
+* -0.0047**
+RELSIZE 0.0013 * 0.0015**
+RELMB -0.0038 -0.0021
+RELSALE -0.0032 -0.0051 **
+HI -0.0045 ** -0.0041*
+TIME 0.0006 0.0005
+R2=0.032
+Adjusted R2=0.017
+F-value=2.091*
+N=191
+R2=0.044
+Adjusted R2=0.018
+F-value=1.732*
+N=191
+R2=0.084
+Adjusted R2=0.044
+F-value=2.093**
+N=191
+This table shows Regression results for various characteristics of the IPO firms, rival portfolios and 
+industry as a whole. VBIPO is equal to 1 if the IPOs are backed by venture capital, 0 otherwise； \n경영경제연구 제34권 제1호 (2011. 8)
+230
+FIRSTIPOis equal to 1 if the IPO is the first in the industry within a two-year period of time prior to 
+the current IPO; 0 otherwise; DEUNDERPRICING is the degree of underpricing for IPO； RELSIZE is 
+equal to the relative value of the market value of IPO to the m edian value of market value of 
+corresponding rival portfolios RELMB is equal to 1 if the marke t-to-book ratio of the IPO firm is 
+above the median value of market-to-book value of corresponding  r i v a l  p o r t f o l i o ,  0  o t h e r w i s e ;  
+RELSALE is equal to1 if the sale of the IPO firm is above the median value of sale of corresponding 
+rival portfolio, 0 otherwise; HI is equal to 1 if the Herfindah l Index for the industry is above the 
+median of the Herfindaha Index for all industries, 0 otherwise.. TIME is equal to1 if the IPO occurs in 
+2008; 0 otherwise***, **, and * denote significance at the 1%, 5% and 10% level, respectively.
+The regression result for factors related to industry and rival s’ s p e c i f i c  
+characteristics is presented in Model 2. As we can see from Model 2, the degree 
+of industry concentration is negatively related to rivals’ valuation effects. This 
+finding provides evidence to support our hypothesis that the entrant of the IPO 
+firm is more likely to be a threat to rivals in industry with a  low degree of 
+concentration, compared to rivals in the highly concentrated industries. Consistent 
+with our prediction that larger IPOs have more pronounced competitive effects on 
+the corresponding rivals, the positive coefficient estimate (0.13%) of relative size 
+is significantly at 0.1 level, indicating that the larger the r elative size of IPO 
+firms to rival portfolios, the higher the magnitude of rivals’ reactions. However, 
+the coefficient estimates for relative market-to-book ratios ar e statistically 
+insignificant. One possible explanation for these results is th at relative 
+market-to-book ratios are not important determinants in interpreting the impact 
+of IPO announcements on rivals’ valuation effects.
+Model 3 present the regression result regarding specific characteristics relate to 
+both IPO firms and rivals. In general, the results are qualitatively similar to those 
+reported when the models are estimated separately, with the exception of relative 
+sale. Compared to model 2, the coefficient estimate for relative sale in model 3 is 
+significantly negative (-0.51%), suggesting rivals with low sale are more vulnerable 
+to threat from a newly public firm. \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+231
+Ⅴ.Conclusion
+As mentioned above, the first motiveof our study is to investigate whether the 
+intra-industry valuation effects of IPOs on the corresponding rivals exist. Results 
+in our study show that rivals have significantly negative reactions in response to 
+IPO announcements. This finding implies that IPO firms contribute the competitive 
+threat for rivals in the same industry, since the IPO firms not only raise funds 
+that the firms can use to expand and compete more effectively, but also the IPO 
+firm obtain higher market shares from its private competitors.
+The second research topic in our study is to examine whether venture-backed 
+I P O s  h a v e  d i f f e r e n t  i m p a c t s  o n  c o r r e s p o n d i n g  r i v a l  w h e n  c o m p a r ed to non 
+venture-backed IPOs. Previous empirical findings suggest that venture- backed 
+IPO firms signal superior information to the market when compar ed to non 
+venture-backed IPO firms, which means that venture-backed IPOs should have 
+different influences on corresponding rivals when compared to non venture-back 
+IPOs. Our empirical findings generally support the hypothesis. By partitioning the 
+sample into venture-backed IPOs and non venture-backed IPOs, ou r research 
+shows that a venture-backed IPO have significantly negative imp act on 
+corresponding rivals in the same industry, but corresponding ri vals have 
+insignificant reaction to a non venture-backed IPO. This finding suggests that the 
+presence of venture capitalists have constituted competitive th reats for 
+corresponding rivals in the same industry. 
+In add ition , co n sid e rin g th e  diffe re n ce  in th e  sp e c ific ch ara cteristics of IPO 
+firms and corresponding rivals, it is necessary to test whether the rivals in the 
+same industry react differently in response to IPO announcement s. We adopt 
+several variables to examine the direction and magnitude of rivals’ reactions in 
+response to IPO announcements. Our results indicate that negative industry effects 
+are more pronounced when the IPO is backed by venture capital. We also find 
+evidence that rivals in the less concentrated industries are more sensitive to the 
+competitive threats originated from IPO announcements. The size of IPO proceeds 
+plays an important role in the magnitude of industry rivals’ valuation effects in \n경영경제연구 제34권 제1호 (2011. 8)
+232
+response to venture-backed IPO. Rivals experience larger wealth loss in response 
+to a larger IPO announcement in the same industry. In particular, the higher the 
+degree of underprcing is, the higher the magnitude of the rivals’ reactions exists. 
+In conclusion, an IPO has competitive effects for corresponding rivals in the same 
+industry.\n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+233
+Reference
+김웅겸·최문수 (2008), “신규공개기업(IPO)에 대한 주관회사의 미래이익 예측행태
+와 장기성과에 관한 연구”, 󰡔대한경영학회지󰡕, 제21권 3호, 931-960.
+남영호·문성주(2007),“가족기업 IPO 장기성과에 관한연구”, 󰡔대한경영학회지󰡕,제20
+권 5호, 2121-2139.
+유병섭(2003), “벤처캐피탈회사의 유형과 보증역할에 대한연구”, 󰡔재무관리 연구󰡕,제
+20권 1호, 29-60.
+이상원·김지수, 류두진(2010), “벤처캐피탈이 IPO 시장에 미치는 영향에 관 한 연
+구–KOSDAQ 시장을 중심으로”,󰡔기업경영연구󰡕,제17권 2호, 1-22
+정민수·권숙태(2004), “IPO의 장기성과에 영향을 미치는 요인에 관한 연구”, 󰡔경제
+경영연구󰡕,제2권 2호, 241-258.
+Akhigbe, A., S.F. Borde, and A.M. Whyte(2003), “Does an Industry Effect Exist for 
+Initial Public Offerings”, Financial Review, 38, 531–551.
+Akhigbe, A., J. Johnston, and J. Madura(2006), “Long-term Industry Performance 
+Following IPO”, Quarterly Review of Economics and Finance, 46, 638–651.
+Atiase, R.(1985), “Predisclosure Information, Firm Capitalization, and Security Price 
+Behavior around Earnings Announcements ”, Journal of Accounting 
+Research, 23, 21-36.
+Benveniste, L.M., W.Y. Busaba, and W. Ritter(1986), “Information Externalities in 
+Primary Equity Markets”, Journal of Financial Intermediation, 11, 61-87.
+Benveniste, L.M., A. Ljungqvist, and W.J. Whilelm(2002), “Information Externaties 
+and the role of underwriters in primary equity markets ”,Journal of 
+Financial Intermediation,11, 61-86.
+Brav, A., and P.A. Gompers(1997), “M y t h  o r  R e a l i t y ?  T h e  L o n g - r u n  
+Underperformance of Initial Public Offerings: Evidence from Venture and 
+Non-venture Capital Backed Companies ”, Journal of Finance , 52, 
+1791-1821
+Carter, R.B., and S. Manaster(1990), “Initial Public Offerings and Underwriter 
+Reputation”, Journal of Finance, 45, 1045-1068.
+Cheng, L. T. W., and J. E. McDonald(1996), “Industry Structure and Ripple Effects \n경영경제연구 제34권 제1호 (2011. 8)
+234
+of  Bankruptcy Announcements”, Financial Review, 31, 783–807.
+Chod, J.R., and E. Lyandres (2011), “S t r a t e g i c  I P O s  a n d  p r o d u c t  m a r k e t  
+competition”, Journal of Financial Economics, 100, 45-67,
+C o t e i ,  C . ,  a n d  J .  F a r h a t ( 2 0 1 1 ) ,  “Informational Externalities of Initial Public 
+Offerings: Does Venture Capital Backing Matter”, Journal of Economics 
+and Finance, online.
+Docking, D.S., M. Hirschey, and E. Jones(1997), “Information and Contagion Effects 
+of Bank Loan Loss Announcements”, Journal of Financial Economics, 43, 
+219–239.
+Fama, E.F., and K.R. French(1993), “Common Risk Factors in the Returns on 
+Stocks and Bonds”, Journal of Financial Economics, 33:3–56.
+Gompers, P.A.(1996), “Grandstanding in the venture capital industry”, Journal of 
+Financial Economics, 42, 133-156.
+Hellmann, T., and M. Puri(2002), “Venture Capital and the Professionalization of 
+Start-up Firms: Empirical Evidence”, Journal of Finance, 57(1),169-197.
+Hertzel, M.G.(1991), “The Effect of Stock Repurchases on Rival Firms”, Journal of 
+Finance, 46, 707-716.
+Howe, J.S. and Y.Shen(1998), “Information Associated with Dividend Initiations: 
+Firm-specific or industry-wide”, Financial Management, 27, 17-26.
+Ivanov, V., and F. Xie(2010), “D o C orporate  V enture  C apitalists A dd V alue to 
+S t a r t - u p  F i r m s ?  E v i d e n c e d  f o r m  I P O s  a n d  A c q u i s i t i o n s  o f  V C - b a c ked 
+companies”, Journal of Financial Management Spring, 129-152.
+Lang, L.H.P., and R.M. Stulz(1992), “Contagion and Competitive Intra-industry 
+Effects of Bankruptcy Announcements”, Journal of Financial Economics, 
+32:45–60.
+Lang, L.H.P., and R.M. Stulz, and R.A. Walkling,(1991), “A Test of the free cash 
+f l o w  h y p o t h e s i s :  t h e  c a s e  i f  b i d d e r  r e t u r n s”, Journal of Financial 
+Economics, 32, 45-60
+Laux, P., L. Starks, and P.S. Yoon (1998) “Relative Importance of Competition and 
+Contagion in Intra-industry Information Transfers: An Investiga tion of 
+Dividend Announcement”, Financial Management, 27, 5-16. \n     The Impact of Initial Public Offerings on Rival Firms: Evidence from KOSDAQ Market
+235
+Lee, P.M., and S. Wahal(2004), “Grandstanding, Certification and the Underpricing 
+of Venture Capital Backed IPO”, Journal of Finance Economics,73,375–407.
+Lerner, J.(1994), “Venture Capitalists and the Decision to Go Public”, Journal of 
+Finance Economics,35,293–316.
+Lowry, M. and G.W. Schwert(2002), “IPO Market Cycles: Bubbles or Sequential    
+Learning”, Journal of finance, 57,1171-1201.
+Maksimovic, V., and P. Pichler(2001), “Technological Innovation and Initial Public 
+Offerings”, Reviews of Financial Studies, 14, 459-494.
+Megginson,M.L., and K.A. Weiss(1991), “Venture Capital Certification in Initial 
+Public Offerings”, Journal of Finance, 46,879-903
+Slovin, M.B., M.E. Sushka, and Y.M. Bendeck(1991), “The intra-industry effects of 
+going-private transactions”, Journal of Finance, 46,1537–1550.
+Slovin, M.B., M.E. Sushka, and S. R. Ferraro(1995), “A Comparison of the 
+I n f o r m a t i o n  C o n v e y e d  b y  E q u i t y  C a r v e - o u t s ,  S p i n - o f f s ,  a n d  S e l l -offs”, 
+Journal of Financial Economics, 37, 89-104.
+Stoughton, N.M., K.P. Wong, and J. Zechner(2001), “IPO and Product Quality”, 
+Journal of Business, 74, 375–408.
+Subramanyam, A., and S. Titman(1999), “The Going Public Decision and the 
+Development of Financial Markets”, Journal of Finance, 54, 1045–1082.
+Szewczyk, S.H.(1992), “The Intra-industry Transfer of Information Inferred from 
+Announcements of Corporate Security Offerings”, Journal of Finance, 47, 
+1935-1946.
+Ward, S.(1997), “G o i n g  P u b l i c  a n d  P r o d u c t  M a r k e t  R e a c t i o n s”, University of 
+Vienna, Working paper.\n경영경제연구 제34권 제1호 (2011. 8)
+236
+IPO이  경쟁기업에 미치는 영향에
+관한 연구- 코스닥 시장을 중심으로
+강 명 혜*․ 임 윤 수**
+요  약
+  본 연구는 IPO이 동종 산업 내에서 경쟁기업에 대한 효과에 대한 기존 선행연구들
+을  광범위하게 확장하려고 시도하였다. 본 연구의 목적은 다음과 같다. 첫째, IPO 이
+후에 경쟁기업간에 교차하여 나타날 수 있는 영향에 대해 분석하였다. 둘째, 벤처캐피
+탈에 투자된 IPO가 벤처캐피탈에 투자되지 않는 IPO보다 산업내 경쟁기업에 더 많은 
+영향을 주는지에 대해 분석하였다. 본 연구의 주요 연구결과는 다음과 같다. 첫째, 
+IPO는 경쟁기업의 가치에 경쟁적인 영향을 줄 수 있는 것으로 나타났다. 벤처캐피탈
+에 투자된 IPO기업가 경쟁기업에 유의적인 부(-)의 영향을 미칠 수 있다는 결과가 나
+타난 것에 비해, 벤처캐피탈에 투자되지 않는 IPO기업의 경우는 유의하지 않은 결과
+가 나타났다. 
+핵심주제어 : 기업공개, 벤처캐피탈, 허핀달지수
+JEL 분류기준 : G3, G14
+투고일: 2011년 7월 30일, 수정일: 2011년 8월 15일, 게재확정일: 2011년 8월 21일
+* 충남대학교 경영대학 경영학과 박사과정수료학생 (E-mail: kmhui66@naver.com), 제1저자
+** 충남대학교 경영대학원 교수 (E-mail: yslim@cnu.ac.kr), 교신저자
