@@ -8,7 +8,8 @@ from datetime import datetime
 
 import pandas as pd
 
-from build_report import Asset, fetch_prices as fetch_naver_prices
+from build_report import fetch_naver_prices
+from case_config import Asset
 
 
 PUBLIC_DATA_ENDPOINT = "https://apis.data.go.kr/1160100/service/GetStockSecuritiesInfoService/getStockPriceInfo"

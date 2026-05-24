@@ -1,82 +1,24 @@
 from __future__ import annotations
 
 import ast
+import calendar
 import html
+import json
 import math
 import statistics
 import urllib.parse
 import urllib.request
-from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
 
 import pandas as pd
 
+from case_config import Asset, CASES, EventCase, EVENT_WINDOWS, is_korean_asset
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 REPORT_DIR = ROOT / "reports"
-
-
-@dataclass(frozen=True)
-class Asset:
-    code: str
-    name: str
-    market: str
-
-
-@dataclass(frozen=True)
-class EventCase:
-    key: str
-    name: str
-    listing_date: str
-    industry: str
-    ipo: Asset
-    benchmark: Asset
-    peers: tuple[Asset, ...]
-
-
-CASES = [
-    EventCase(
-        key="lg_energy_solution",
-        name="LG Energy Solution IPO",
-        listing_date="2022-01-27",
-        industry="Secondary battery / EV battery",
-        ipo=Asset("373220", "LG Energy Solution", "KOSPI"),
-        benchmark=Asset("KOSPI", "KOSPI", "Index"),
-        peers=(
-            Asset("051910", "LG Chem", "KOSPI"),
-            Asset("006400", "Samsung SDI", "KOSPI"),
-            Asset("096770", "SK Innovation", "KOSPI"),
-        ),
-    ),
-    EventCase(
-        key="doosan_robotics",
-        name="Doosan Robotics IPO",
-        listing_date="2023-10-05",
-        industry="Robotics / automation",
-        ipo=Asset("454910", "Doosan Robotics", "KOSPI"),
-        benchmark=Asset("KOSPI", "KOSPI", "Index"),
-        peers=(
-            Asset("000150", "Doosan Corp", "KOSPI"),
-            Asset("277810", "Rainbow Robotics", "KOSDAQ"),
-            Asset("090360", "Robostar", "KOSDAQ"),
-        ),
-    ),
-    EventCase(
-        key="lg_cns",
-        name="LG CNS IPO",
-        listing_date="2025-02-05",
-        industry="AI / cloud / digital transformation",
-        ipo=Asset("064400", "LG CNS", "KOSPI"),
-        benchmark=Asset("KOSPI", "KOSPI", "Index"),
-        peers=(
-            Asset("018260", "Samsung SDS", "KOSPI"),
-            Asset("307950", "Hyundai AutoEver", "KOSPI"),
-            Asset("022100", "POSCO DX", "KOSPI"),
-        ),
-    ),
-]
 
 
 def naver_price_url(code: str, start: datetime, end: datetime) -> str:
@@ -90,7 +32,7 @@ def naver_price_url(code: str, start: datetime, end: datetime) -> str:
     return "https://api.finance.naver.com/siseJson.naver?" + urllib.parse.urlencode(params)
 
 
-def fetch_prices(asset: Asset, start: datetime, end: datetime) -> pd.DataFrame:
+def fetch_naver_prices(asset: Asset, start: datetime, end: datetime) -> pd.DataFrame:
     url = naver_price_url(asset.code, start, end)
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     raw = urllib.request.urlopen(req, timeout=30).read().decode("utf-8")
@@ -106,7 +48,65 @@ def fetch_prices(asset: Asset, start: datetime, end: datetime) -> pd.DataFrame:
         frame[column] = pd.to_numeric(frame[column], errors="coerce")
     frame["code"] = asset.code
     frame["name"] = asset.name
+    frame["source"] = "naver-finance"
     return frame.dropna(subset=["close"]).sort_values("date").reset_index(drop=True)
+
+
+def yahoo_symbol(code: str) -> str:
+    return code.replace(".US", "").replace(".us", "").strip().upper()
+
+
+def yahoo_price_url(code: str, start: datetime, end: datetime) -> str:
+    period1 = calendar.timegm(start.timetuple())
+    period2 = calendar.timegm((end + timedelta(days=1)).timetuple())
+    params = {
+        "period1": str(period1),
+        "period2": str(period2),
+        "interval": "1d",
+        "events": "history",
+        "includeAdjustedClose": "true",
+    }
+    return f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(yahoo_symbol(code))}?" + urllib.parse.urlencode(params)
+
+
+def fetch_yahoo_prices(asset: Asset, start: datetime, end: datetime) -> pd.DataFrame:
+    url = yahoo_price_url(asset.code, start, end)
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    payload = json.loads(urllib.request.urlopen(req, timeout=30).read().decode("utf-8"))
+    result = payload.get("chart", {}).get("result") or []
+    if not result:
+        error = payload.get("chart", {}).get("error")
+        raise ValueError(f"No Yahoo price data returned for {asset.code} {asset.name}: {error}")
+
+    block = result[0]
+    timestamps = block.get("timestamp") or []
+    quote = (block.get("indicators", {}).get("quote") or [{}])[0]
+    adj = (block.get("indicators", {}).get("adjclose") or [{}])[0].get("adjclose", [])
+    frame = pd.DataFrame(
+        {
+            "date": pd.to_datetime(timestamps, unit="s").normalize(),
+            "open": quote.get("open", []),
+            "high": quote.get("high", []),
+            "low": quote.get("low", []),
+            "close": quote.get("close", []),
+            "adj_close": adj if adj else quote.get("close", []),
+            "volume": quote.get("volume", []),
+        }
+    )
+    for column in ["open", "high", "low", "close", "volume"]:
+        frame[column] = pd.to_numeric(frame[column], errors="coerce")
+    frame["adj_close"] = pd.to_numeric(frame["adj_close"], errors="coerce")
+    frame["foreign_ownership"] = float("nan")
+    frame["code"] = asset.code
+    frame["name"] = asset.name
+    frame["source"] = "yahoo-finance-chart"
+    return frame.dropna(subset=["close"]).sort_values("date").reset_index(drop=True)
+
+
+def fetch_prices(asset: Asset, start: datetime, end: datetime) -> pd.DataFrame:
+    if is_korean_asset(asset):
+        return fetch_naver_prices(asset, start, end)
+    return fetch_yahoo_prices(asset, start, end)
 
 
 def add_event_metrics(frame: pd.DataFrame, event_date: datetime) -> pd.DataFrame:
@@ -123,7 +123,7 @@ def add_event_metrics(frame: pd.DataFrame, event_date: datetime) -> pd.DataFrame
 
 
 def event_window_dates(event_date: datetime) -> tuple[datetime, datetime]:
-    return event_date - timedelta(days=95), event_date + timedelta(days=95)
+    return event_date - timedelta(days=430), event_date + timedelta(days=190)
 
 
 def pct(value: float | None) -> str:
@@ -143,6 +143,7 @@ def svg_line_chart(
     series: dict[str, pd.DataFrame],
     y_column: str,
     colors: dict[str, str],
+    x_window: tuple[int, int] = (-20, 60),
     width: int = 880,
     height: int = 360,
 ) -> str:
@@ -152,7 +153,7 @@ def svg_line_chart(
     x_values: list[float] = []
 
     for name, frame in series.items():
-        trimmed = frame[(frame["event_day"] >= -20) & (frame["event_day"] <= 20)].dropna(subset=[y_column])
+        trimmed = frame[(frame["event_day"] >= x_window[0]) & (frame["event_day"] <= x_window[1])].dropna(subset=[y_column])
         points = [(float(row.event_day), float(getattr(row, y_column))) for row in trimmed.itertuples()]
         points_by_name[name] = points
         x_values.extend([point[0] for point in points])
@@ -186,7 +187,12 @@ def svg_line_chart(
         f'<line x1="{margin["left"]}" y1="{margin["top"]}" x2="{margin["left"]}" y2="{margin["top"] + plot_h}" class="axis"/>',
     ]
 
-    for tick in [-20, -10, 0, 10, 20]:
+    tick_candidates = [x_window[0], -10, 0, 10, 20, 60, x_window[1]]
+    ticks = []
+    for tick in tick_candidates:
+        if x_window[0] <= tick <= x_window[1] and tick not in ticks:
+            ticks.append(tick)
+    for tick in ticks:
         if x_min <= tick <= x_max:
             x = sx(tick)
             elements.append(f'<line x1="{x:.1f}" y1="{margin["top"]}" x2="{x:.1f}" y2="{margin["top"] + plot_h}" class="grid"/>')
@@ -245,8 +251,10 @@ def summarize_case(case: EventCase, frames: dict[str, pd.DataFrame]) -> dict[str
 
     peer_returns = [cumulative(peer, -20, -1) for peer in peers]
     peer_post = [cumulative(peer, 0, 20) for peer in peers]
+    peer_post_long = [cumulative(peer, 0, 60) for peer in peers]
     benchmark_pre = cumulative(benchmark, -20, -1)
     benchmark_post = cumulative(benchmark, 0, 20)
+    benchmark_post_long = cumulative(benchmark, 0, 60)
 
     return {
         "case": case.name,
@@ -255,9 +263,12 @@ def summarize_case(case: EventCase, frames: dict[str, pd.DataFrame]) -> dict[str
         "ipo_t20_return": cumulative(ipo, 0, 20),
         "peer_pre_avg": statistics.fmean([x for x in peer_returns if not pd.isna(x)]),
         "peer_post_avg": statistics.fmean([x for x in peer_post if not pd.isna(x)]),
+        "peer_post_avg_60": statistics.fmean([x for x in peer_post_long if not pd.isna(x)]),
         "benchmark_pre": benchmark_pre,
         "benchmark_post": benchmark_post,
+        "benchmark_post_60": benchmark_post_long,
         "peer_abnormal_post": statistics.fmean([x for x in peer_post if not pd.isna(x)]) - benchmark_post,
+        "peer_abnormal_post_60": statistics.fmean([x for x in peer_post_long if not pd.isna(x)]) - benchmark_post_long,
     }
 
 
@@ -324,12 +335,14 @@ def build_case(case: EventCase) -> tuple[str, dict[str, float | str], pd.DataFra
         frame = frames[asset.name]
         t0 = frame.loc[frame["event_day"] == 0]
         t20 = frame[(frame["event_day"] >= 0) & (frame["event_day"] <= 20)]
+        t60 = frame[(frame["event_day"] >= 0) & (frame["event_day"] <= 60)]
         peer_rows.append(
             [
                 html.escape(asset.name),
                 pct(float(t0.iloc[0]["daily_return"])) if not t0.empty else "-",
                 pct(float(t20.iloc[-1]["cumulative_return"])) if not t20.empty else "-",
                 pct(float(t20.iloc[-1]["cumulative_abnormal_return"])) if not t20.empty else "-",
+                pct(float(t60.iloc[-1]["cumulative_abnormal_return"])) if not t60.empty else "-",
                 number(float(t0.iloc[0]["volume"])) if not t0.empty else "-",
             ]
         )
@@ -350,7 +363,7 @@ def build_case(case: EventCase) -> tuple[str, dict[str, float | str], pd.DataFra
       <div class="chart">{return_chart}</div>
       <div class="chart">{abnormal_chart}</div>
       <h3>Peer Group Snapshot</h3>
-      {table(["Peer", "IPO-day return", "T+20 cumulative return", "T+20 CAR", "IPO-day volume"], peer_rows)}
+      {table(["Peer", "IPO-day return", "T+20 cumulative return", "T+20 CAR", "T+60 CAR", "IPO-day volume"], peer_rows)}
       <h3>Valuation Multiple Output</h3>
       {valuation_note}
     </section>
@@ -386,8 +399,11 @@ def main() -> None:
             html.escape(str(row["listing_date"])),
             pct(row["peer_pre_avg"]),
             pct(row["peer_post_avg"]),
+            pct(row["peer_post_avg_60"]),
             pct(row["benchmark_post"]),
+            pct(row["benchmark_post_60"]),
             pct(row["peer_abnormal_post"]),
+            pct(row["peer_abnormal_post_60"]),
         ]
         for row in summaries
     ]
@@ -503,15 +519,16 @@ def main() -> None:
 <body>
   <main>
     <h1>IPO Event Study Expected Output</h1>
-    <p class="lead">대형 IPO 전후로 관련 상장기업과 시장지수가 어떻게 움직였는지 확인하기 위한 초기 산출물입니다. 모든 수익률은 상장일을 t=0으로 놓고 비교했습니다.</p>
+    <p class="lead">대형 IPO 전후로 관련 상장기업과 시장지수가 어떻게 움직였는지 확인하기 위한 산출물입니다. 모든 수익률은 상장일을 t=0으로 놓고 비교했으며, 단기와 중기 반응을 함께 봅니다.</p>
     <h2>Cross-Case Summary</h2>
-    {table(["Case", "Listing date", "Peer pre-IPO return", "Peer post-IPO return", "Benchmark post-IPO return", "Peer post-IPO abnormal return"], summary_rows)}
+    {table(["Case", "Listing date", "Peer pre-IPO return", "Peer post-IPO T+20", "Peer post-IPO T+60", "Benchmark T+20", "Benchmark T+60", "Peer abnormal T+20", "Peer abnormal T+60"], summary_rows)}
     {"".join(sections)}
-    <p class="note">Data source: Naver Finance daily price endpoint. Fundamental valuation multiples are marked as a next-step data requirement because daily PER/PBR/EV-EBITDA history is not included in this free price feed.</p>
+    <p class="note">Data source: Naver Finance daily price endpoint for Korean assets and Yahoo Finance chart API for US assets. Fundamental valuation multiples are marked as a next-step data requirement because daily PER/PBR/EV-EBITDA history is not included in these free price feeds.</p>
   </main>
 </body>
 </html>
 """
+    report = "\n".join(line.rstrip() for line in report.splitlines()) + "\n"
     (REPORT_DIR / "ipo_event_study_report.html").write_text(report, encoding="utf-8")
 
 

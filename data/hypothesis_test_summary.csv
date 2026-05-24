@@ -1,4 +1,7 @@
-﻿case,listing_date,market_return_0_20,peer_avg_car_0_20,peer_car_signs,result,interpretation
-LG Energy Solution IPO,2022-01-27,-0.0021112932039979437,-0.07999793974208631,"-, -, -",H0 supported,시장지수와 모든 peer의 이벤트 반응이 음(-)으로 나타났다.
-Doosan Robotics IPO,2023-10-05,-0.015525691173841949,-0.05920118793434664,"-, +, -",Mixed / inconclusive,시장지수와 peer 기업의 방향이 모두 일치하지 않아 H0/H1 중 하나를 엄격히 지지하기 어렵다.
-LG CNS IPO,2025-02-05,0.038066801252372606,0.08810446191874631,"-, -, +",Mixed / inconclusive,시장지수와 peer 기업의 방향이 모두 일치하지 않아 H0/H1 중 하나를 엄격히 지지하기 어렵다.
+﻿case,listing_date,market_return_0_20,market_return_0_60,peer_avg_car_0_20,peer_avg_car_0_60,peer_car_signs,h1_demand_shock,h2_information_transfer,h3_competition_effect,interpretation
+LG Energy Solution IPO,2022-01-27,-0.0021112932039979437,-0.01541022574596529,-0.07999793974208631,-0.04424725116716563,"-, -, -",Supported,Not supported,Supported,시장/peer 평균이 함께 음(-)으로 나타나 단기 수요충격효과가 우세하다.
+Doosan Robotics IPO,2023-10-05,-0.015525691173841949,0.08380963465783209,-0.05920118793434664,-0.13289895092404833,"-, +, -",Supported,Not supported,Supported,시장/peer 평균이 함께 음(-)으로 나타나 단기 수요충격효과가 우세하다.
+LG CNS IPO,2025-02-05,0.038066801252372606,0.03147048986779244,0.08810446191874631,0.16629556875756965,"-, -, +",Not supported,Not supported,Not supported,"시장과 peer 반응이 엇갈려 단일 효과보다 수요충격, 정보전이, 경쟁효과가 혼재된 것으로 해석한다."
+Arm Holdings IPO,2023-09-14,-0.011437425181124894,0.047994501437069514,0.020034653178325833,0.03331375663889659,"+, +, +, +, +",Not supported,Supported,Not supported,peer 평균 CAR이 양(+)으로 나타나 산업 성장성 재평가 또는 정보전이효과가 우세하다.
+Snowflake IPO,2020-09-16,0.04658496421462388,0.08406791249309054,0.028113534466104567,0.0041925186327675034,"+, +, -, -, +",Not supported,Supported,Not supported,peer 평균 CAR이 양(+)으로 나타나 산업 성장성 재평가 또는 정보전이효과가 우세하다.
+Rivian IPO,2021-11-10,-0.002203771595995385,-0.043048472136141935,0.025564123805905746,0.049630056392860264,"+, -, +, -, +",Not supported,Supported,Not supported,peer 평균 CAR이 양(+)으로 나타나 산업 성장성 재평가 또는 정보전이효과가 우세하다.

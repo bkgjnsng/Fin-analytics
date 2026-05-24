@@ -16,13 +16,16 @@ Research question:
 
 Motivation:
 
-The user holds Palantir and wants to infer how OpenAI or SpaceX IPOs could affect Palantir and related indices. Because Korean data is easier to access and the domestic literature is thinner on this exact topic, the empirical analysis uses Korean IPO cases.
+The user holds Palantir and wants to infer how OpenAI, SpaceX, or Anthropic IPOs could affect Palantir, related peer firms, and indices. The empirical design now uses Korean cases for accessible domestic evidence and US cases as closer analogues to AI/software/EV mega-IPOs.
 
 Main cases:
 
 - LG Energy Solution
 - Doosan Robotics
 - LG CNS
+- Arm Holdings
+- Snowflake
+- Rivian
 
 ## Methodology
 
@@ -35,7 +38,7 @@ Estimation window:
 Event window:
 
 - -20 to +20 trading days
-- Key windows: -5~-1, -1~+1, 0, 0~+5, 0~+10, 0~+20
+- Key windows: -1~+1, 0~+1, 0~+5, 0~+20, 0~+60, 0~+120
 
 Baseline model:
 
@@ -66,8 +69,12 @@ Compute:
 
 User's original hypotheses:
 
-- H0: Large IPO events cause both market indices and peer groups to fall.
-- H1: Large IPO events cause both market indices and peer groups to rise.
+- H1: Demand shock causes indices and peer groups to fall.
+- H0_1: Indices and peer groups do not fall.
+- H2: Information transfer causes peer groups to rise.
+- H0_2: Peer groups do not rise through information transfer.
+- H3: Competition effect causes rival firms to fall.
+- H0_3: Rival firms do not fall through competition effect.
 
 Recommended paper-style framing:
 
@@ -98,9 +105,11 @@ Scripts:
 - `scripts/regression_analysis.py`
 - `scripts/public_data_api.py`
 - `scripts/build_research_paper.py`
+- `scripts/case_config.py`
 
 Reports:
 
+- `docs/best_practice_research_plan.md`
 - `reports/ipo_event_study_report.html`
 - `reports/ipo_regression_analysis.html`
 - `reports/ipo_unicorn_valuation_paper.pdf`
@@ -121,9 +130,10 @@ Literature PDFs:
 
 Current results suggest:
 
-- LG Energy Solution: market and peer CAR both negative; most consistent with competitive effect or valuation re-rating.
-- Doosan Robotics: market negative, peer reaction mixed; information transfer and competitive effect are both plausible.
-- LG CNS: analyze AI/cloud/DX peer reaction with Samsung SDS, Hyundai AutoEver, and POSCO DX. Re-run scripts before reporting.
+- LG Energy Solution: market and peer CAR both negative; H1 demand shock and H3 competition effect are supported.
+- Doosan Robotics: market negative and peer average CAR negative, but individual peers are mixed; H1/H3 are directionally supported with caution.
+- LG CNS: peer average CAR positive, but signs are mixed, so no single mechanism is strongly supported.
+- Arm Holdings, Snowflake, Rivian: peer average CAR is positive in the current [0,+20] window; H2 information transfer is supported.
 
 Use these as provisional results only.
 
@@ -137,8 +147,8 @@ The public data portal stock API integration exists in `scripts/public_data_api.
 
 ## Next Tasks
 
-1. Add SMB and HML proxies to `scripts/regression_analysis.py`.
-2. Improve event-window graphs by separating -20~-1, 0, +1~+20.
-3. Add volume and volatility analysis.
-4. Update the HTML report with literature-based interpretation.
-5. Convert results into paper structure: introduction, literature review, hypotheses, data, methodology, results, conclusion.
+1. Add announcement-date event windows when reliable event dates are collected.
+2. Add volume and volatility analysis.
+3. Build or source Korean daily SMB/HML factors; currently SMB/HML is implemented for US cases only.
+4. Add valuation multiple data if FnGuide/KRX/fundamental sources become available.
+5. Convert results into 10-12 presentation slides.
